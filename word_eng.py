@@ -1,70 +1,5 @@
-import numpy as np
-import pyconll
 import pandas as pd
-
-
-def extractN(input_file):
-    trial_doc = pyconll.load_from_file(input_file)
-
-    noun_ls = []
-    for sentence in trial_doc:
-        for word in sentence:
-            if word.upos == "NOUN":
-                noun_dict = {"n_word": word.form, "n_lemma": word.lemma, "n_id": word.id, "det": "",
-                             "num": "", "adj": "", "mod_n_word": "", "mod_n_lemma": "", "sen_len": len(sentence), "sen_id": sentence.id}
-                for mod_word in sentence:
-                    if mod_word.head == word.id:
-                        if mod_word.upos == "ADJ":
-                            noun_dict["adj"] = mod_word.form
-                        if mod_word.upos == "NUM":
-                            noun_dict["num"] = mod_word.form
-                        if mod_word.upos == "NOUN":
-                            noun_dict["mod_n_word"] = mod_word.form
-                            noun_dict["mod_n_lemma"] = mod_word.lemma
-                        elif mod_word.upos == "DET":
-                            noun_dict["det"] = mod_word.form
-                noun_ls.append(noun_dict)
-
-    df_noun = pd.DataFrame(noun_ls)
-    df_noun.to_csv("./"+"noun_"+input_file.replace("conllu", "csv"))
-
-
-def extractAdj(input_file):
-    trial_doc = pyconll.load_from_file(input_file)
-
-    adj_ls = []
-    for sentence in trial_doc:
-        for word in sentence:
-            if word.upos == "ADJ":
-                adj_dict = {"adj_word": word.form, "adj_lemma": word.lemma, "adj_id": word.id,
-                            "mod_adj": "", "n_word": "", "n_lemma": "", "n_id": "", "sen_len": len(sentence), "sen_id": sentence.id}
-                for item in sentence:
-                    if item.id == word.head and item.upos == "NOUN":
-                        adj_dict["n_word"] = item.form
-                        adj_dict["n_lemma"] = item.lemma
-                        adj_dict["n_id"] = item.id
-                    elif item.head == word.head and item.upos == "ADJ" and item != word:
-                        adj_dict["mod_adj"] = item.form
-                adj_ls.append(adj_dict)
-
-    df_adj = pd.DataFrame(adj_ls)
-    df_adj.to_csv("./"+"adj_"+input_file.replace("conllu", "csv"))
-
-
-extractN("en_ewt-ud-dev.conllu")
-extractAdj("en_ewt-ud-dev.conllu")
-
-extractN("en_ewt-ud-test.conllu")
-extractAdj("en_ewt-ud-test.conllu")
-
-extractN("en_ewt-ud-train.conllu")
-extractAdj("en_ewt-ud-train.conllu")
-
-#########################################################################################################################################################
-#########################################################################################################################################################
-
-import pandas as pd
-noun_df = pd.read_csv("noun_en_ewt-ud.csv")
+noun_df = pd.read_csv("./data_csv/noun_en_ewt-ud.csv")
 noun_df.head()
 
 ################################################################## Noun_df ##############################################################################
@@ -96,6 +31,7 @@ num_count = noun_df["num"].value_counts()
 num_count_1 = num_count.to_dict()
 noun_df["num_count"] = noun_df["num"].map(num_count_1)
 
+import numpy as np
 noun_df = noun_df.replace("", np.nan, regex=True)
 
 adj_count = noun_df["adj"].value_counts()
@@ -128,7 +64,6 @@ len(h_ls)  # 241
 
 h_vowel_ls = ["hr", "hh", "honor", "herb", "hour", "heir", "html"]
 
-
 def vowelConsonant(word):
     ch = word.lower()[0]
     if(ch == 'i' or ch == 'O' or ch == 'o' or ch == 'U' or ch == 'u'
@@ -137,8 +72,20 @@ def vowelConsonant(word):
     else:
         return "Consonant"
 
-
 noun_df["n_firstSound"] = noun_df["n_word"].map(vowelConsonant)
+
+# to try to use a method to transcribe english into ipa 
+# import epitran
+# epi = epitran.Epitran('eng-Latn')
+# vowel=['i','e','ɑ','æ','a','ɛ','o','ɔ','ʊ','u','ʌ','ə','ɪ','ɹ̩','n̩']
+
+# def vowelConsonant(word):
+#     if epi.trans_list(word)[0] in vowel:
+#         return 'vowel'
+#     else:
+#         return 'consonant'
+
+# noun_df['n_firstSound'] = noun_df['n_word'].map(vowelConsonant)
 
 
 # to rearrange columns
@@ -148,10 +95,10 @@ noun_df = noun_df[['n_word', 'n_word_len', 'n_word_count', 'n_firstSound', 'n_le
 
 noun_df.head()
 
-noun_df.to_csv("noun_en_ewt-ud_1.csv")
+noun_df.to_csv("./data_csv/noun_en_ewt-ud_1.csv")
 
 ################################################################ Adj_df #####################################################################
-adj_df = pd.read_csv("adj_en_ewt-ud.csv")
+adj_df = pd.read_csv("./data_csv/adj_en_ewt-ud.csv")
 adj_df.head()
 
 # length
@@ -185,4 +132,4 @@ adj_df["n_lemma_count"] = adj_df["n_lemma"].map(noun_lemma_count_1)
 adj_df = adj_df[['adj_word', 'adj_word_len', 'adj_word_count', 'adj_lemma', 'mod_adj', 'mod_adj_len', 'mod_adj_count', 'n_word', 'n_word_len', "n_word_count",
                  'n_lemma', 'n_lemma_count', 'adj_id', 'n_id', 'sen_len', 'sen_id']]
 
-adj_df.to_csv("adj_en_ewt-ud_1.csv")
+adj_df.to_csv("./data_csv/adj_en_ewt-ud_1.csv")
