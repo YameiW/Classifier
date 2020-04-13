@@ -9,9 +9,12 @@ def extractN(input_file):
     for sentence in trial_doc:
         for word in sentence:
             counter = 0
+            counter_ncomp = 0
+            counter_nmod = 0
             if word.upos == "NOUN":
                 noun_dict = {"n_word": word.form, "n_lemma": word.lemma, "n_id": word.id, "det": "",
                              "num": "", "adj": [],"num_adj":"","ncomp": "", "ncomp_lemma": "", "nmod":[],"nmod_lemma":[],
+                             "num_ncomp":"", "num_nmod":"",
                              "sen_len": len(sentence), "sen_id": sentence.id}
                 for mod_word in sentence:
                     if mod_word.head == word.id:
@@ -23,11 +26,15 @@ def extractN(input_file):
                             noun_dict["num"] = mod_word.form
                         if mod_word.upos == "NOUN":
                             if mod_word.deprel == "compound":
+                                counter_ncomp +=1
                                 noun_dict["ncomp"] = mod_word.form
                                 noun_dict["ncomp_lemma"] = mod_word.lemma
+                                noun_dict['num_ncomp'] = counter_ncomp
                             if mod_word.deprel == "nmod":
+                                counter_nmod +=1
                                 noun_dict["nmod"].append(mod_word.form)
                                 noun_dict['nmod_lemma'].append(mod_word.lemma)
+                                noun_dict['num_nmod'] = counter_nmod
                         elif mod_word.upos == "DET":
                             noun_dict["det"] = mod_word.form
                 noun_ls.append(noun_dict)
@@ -69,11 +76,11 @@ def extractAdj(input_file):
 
 folder = "/home/yamei/pjkt/classifier/ud_en_ewt/data_csv/"
 extractN(folder+"en_ewt-ud-dev.conllu")
-extractAdj("en_ewt-ud-dev.conllu")
+extractAdj(folder+"en_ewt-ud-dev.conllu")
 
 extractN(folder+"en_ewt-ud-test.conllu")
-extractAdj("en_ewt-ud-test.conllu")
+extractAdj(folder+"en_ewt-ud-test.conllu")
 
 extractN(folder+"en_ewt-ud-train.conllu")
-extractAdj("en_ewt-ud-train.conllu")
+extractAdj(folder+"en_ewt-ud-train.conllu")
 
