@@ -9,13 +9,16 @@ def extractN(input_file):
     noun_ls = []
     for sentence in trial_doc:
         for word in sentence:
+            counter = 0
             if word.upos == "NOUN":
                 noun_dict = {"n_word": word.form, "n_lemma": word.lemma, "n_id": word.id, "det": "",
-                             "num": "", "adj": "", "mod_n_word": "", "mod_n_lemma": "", "sen_len": len(sentence), "sen_id": sentence.id}
+                             "num": "", "adj": [],"num_adj":"","mod_n": "", "mod_n_lemma": "", "sen_len": len(sentence), "sen_id": sentence.id}
                 for mod_word in sentence:
                     if mod_word.head == word.id:
                         if mod_word.upos == "ADJ":
-                            noun_dict["adj"] = mod_word.form
+                            counter +=1
+                            noun_dict["adj"].append(mod_word.form)
+                            noun_dict["num_adj"] = counter
                         if mod_word.upos == "NUM":
                             noun_dict["num"] = mod_word.form
                         if mod_word.upos == "NOUN":
@@ -24,6 +27,7 @@ def extractN(input_file):
                         elif mod_word.upos == "DET":
                             noun_dict["det"] = mod_word.form
                 noun_ls.append(noun_dict)
+                noun_dict['adj']=", ".join(noun_dict['adj'])
 
     df_noun = pd.DataFrame(noun_ls)
     df_noun.to_csv("./"+"noun_"+input_file.replace("conllu", "csv"))
