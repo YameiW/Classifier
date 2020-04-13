@@ -133,3 +133,4 @@ adj_df = adj_df[['adj_word', 'adj_word_len', 'adj_word_count', 'adj_lemma', 'mod
                  'n_lemma', 'n_lemma_count', 'adj_id', 'n_id', 'sen_len', 'sen_id']]
 
 adj_df.to_csv("./data_csv/adj_en_ewt-ud_1.csv")
+
