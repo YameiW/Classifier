@@ -13,8 +13,8 @@ def extractN(input_file):
             counter_nmod = 0
             if word.upos == "NOUN":
                 noun_dict = {"n_word": word.form, "n_lemma": word.lemma, "n_id": word.id, "det": "",
-                             "num": "", "adj": [],"num_adj":"","ncomp": [], "ncomp_lemma": [], "nmod":[],"nmod_lemma":[],
-                             "num_ncomp":"", "num_nmod":"",
+                             "num": "", "adj": [],"num_adj":"","ncomp": [], "ncomp_lemma": [], "num_ncomp":"",
+                             "nmod":[],"nmod_lemma":[],"num_nmod":"",
                              "sen_len": len(sentence), "sen_id": sentence.id}
                 for mod_word in sentence:
                     if mod_word.head == word.id:
@@ -57,7 +57,7 @@ def extractAdj(input_file):
             if word.upos == "ADJ":
                 counter = 0
                 adj_dict = {"adj_word": word.form, "adj_lemma": word.lemma, "adj_id": word.id,
-                            "adj_comb": [],"adj_count":"", "n_word": "", "n_lemma": "", "n_id": "", "sen_len": len(sentence), "sen_id": sentence.id}
+                            "adj_comb": [],"num_adj":"", "n_word": "", "n_lemma": "", "n_id": "", "sen_len": len(sentence), "sen_id": sentence.id}
                 for item in sentence:
                     if item.id == word.head and item.upos == "NOUN":
                         adj_dict["n_word"] = item.form
@@ -66,7 +66,7 @@ def extractAdj(input_file):
                     elif item.head == word.head and item.upos == "ADJ":
                         counter +=1
                         adj_dict["adj_comb"].append(item.form)
-                        adj_dict['adj_count'] = counter
+                        adj_dict['num_adj'] = counter
                 adj_ls.append(adj_dict)
                 adj_dict['adj_comb']=", ".join(adj_dict['adj_comb'])
 
