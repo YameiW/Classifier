@@ -13,7 +13,7 @@ def extractN(input_file):
             counter_nmod = 0
             if word.upos == "NOUN":
                 noun_dict = {"n_word": word.form, "n_lemma": word.lemma, "n_id": word.id, "det": "",
-                             "num": "", "adj": [],"num_adj":"","ncomp": "", "ncomp_lemma": "", "nmod":[],"nmod_lemma":[],
+                             "num": "", "adj": [],"num_adj":"","ncomp": [], "ncomp_lemma": [], "nmod":[],"nmod_lemma":[],
                              "num_ncomp":"", "num_nmod":"",
                              "sen_len": len(sentence), "sen_id": sentence.id}
                 for mod_word in sentence:
@@ -27,8 +27,8 @@ def extractN(input_file):
                         if mod_word.upos == "NOUN":
                             if mod_word.deprel == "compound":
                                 counter_ncomp +=1
-                                noun_dict["ncomp"] = mod_word.form
-                                noun_dict["ncomp_lemma"] = mod_word.lemma
+                                noun_dict["ncomp"].append(mod_word.form)
+                                noun_dict["ncomp_lemma"].append(mod_word.lemma)
                                 noun_dict['num_ncomp'] = counter_ncomp
                             if mod_word.deprel == "nmod":
                                 counter_nmod +=1
@@ -41,6 +41,8 @@ def extractN(input_file):
                 noun_dict['adj'] = ", ".join(noun_dict['adj'])
                 noun_dict['nmod']= ", ".join(noun_dict['nmod'])
                 noun_dict['nmod_lemma']= ", ".join(noun_dict['nmod_lemma'])
+                noun_dict['ncomp']= ", ".join(noun_dict['ncomp'])
+                noun_dict['ncomp_lemma']= ", ".join(noun_dict['ncomp_lemma'])
 
     df_noun = pd.DataFrame(noun_ls)
     df_noun.to_csv(input_file.replace(".conllu", "_noun.csv"))
@@ -55,7 +57,7 @@ def extractAdj(input_file):
             if word.upos == "ADJ":
                 counter = 0
                 adj_dict = {"adj_word": word.form, "adj_lemma": word.lemma, "adj_id": word.id,
-                            "mod_adj": [],"adj_count":"", "n_word": "", "n_lemma": "", "n_id": "", "sen_len": len(sentence), "sen_id": sentence.id}
+                            "adj_comb": [],"adj_count":"", "n_word": "", "n_lemma": "", "n_id": "", "sen_len": len(sentence), "sen_id": sentence.id}
                 for item in sentence:
                     if item.id == word.head and item.upos == "NOUN":
                         adj_dict["n_word"] = item.form
@@ -63,10 +65,10 @@ def extractAdj(input_file):
                         adj_dict["n_id"] = item.id
                     elif item.head == word.head and item.upos == "ADJ":
                         counter +=1
-                        adj_dict["mod_adj"].append(item.form)
+                        adj_dict["adj_comb"].append(item.form)
                         adj_dict['adj_count'] = counter
                 adj_ls.append(adj_dict)
-                adj_dict['mod_adj']=", ".join(adj_dict['mod_adj'])
+                adj_dict['adj_comb']=", ".join(adj_dict['adj_comb'])
 
     df_adj = pd.DataFrame(adj_ls)
     df_adj.to_csv(input_file.replace(".conllu", "_adj.csv"))
