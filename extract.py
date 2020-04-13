@@ -12,22 +12,29 @@ def extractN(input_file):
             counter = 0
             if word.upos == "NOUN":
                 noun_dict = {"n_word": word.form, "n_lemma": word.lemma, "n_id": word.id, "det": "",
-                             "num": "", "adj": [],"num_adj":"","mod_n": "", "mod_n_lemma": "", "sen_len": len(sentence), "sen_id": sentence.id}
+                             "num": "", "adj": [],"num_adj":"","ncomp": "", "ncomp_lemma": "", "nmod":[],"nmod_lemma":[],
+                             "sen_len": len(sentence), "sen_id": sentence.id}
                 for mod_word in sentence:
                     if mod_word.head == word.id:
                         if mod_word.upos == "ADJ":
                             counter +=1
                             noun_dict["adj"].append(mod_word.form)
-                            noun_dict["num_adj"] = counter
+                            noun_dict['num_adj'] = counter
                         if mod_word.upos == "NUM":
                             noun_dict["num"] = mod_word.form
                         if mod_word.upos == "NOUN":
-                            noun_dict["mod_n_word"] = mod_word.form
-                            noun_dict["mod_n_lemma"] = mod_word.lemma
+                            if mod_word.deprel == "compound":
+                                noun_dict["ncomp"] = mod_word.form
+                                noun_dict["ncomp_lemma"] = mod_word.lemma
+                            if mod_word.deprel == "nmod":
+                                noun_dict["nmod"].append(mod_word.form)
+                                noun_dict['nmod_lemma'].append(mod_word.lemma)
                         elif mod_word.upos == "DET":
                             noun_dict["det"] = mod_word.form
                 noun_ls.append(noun_dict)
-                noun_dict['adj']=", ".join(noun_dict['adj'])
+                noun_dict['adj'] = ", ".join(noun_dict['adj'])
+                noun_dict['nmod']= ", ".join(noun_dict['nmod'])
+                noun_dict['nmod_lemma']= ", ".join(noun_dict['nmod_lemma'])
 
     df_noun = pd.DataFrame(noun_ls)
     df_noun.to_csv("./"+"noun_"+input_file.replace("conllu", "csv"))
