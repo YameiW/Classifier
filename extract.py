@@ -74,15 +74,15 @@ def extractAdj(input_file):
     df_adj.to_csv(input_file.replace(".conllu", "_adj.csv"))
 
 
+def run(path):
+    extractN(path)
+    extractAdj(path)
 
 
 folder = "/home/yamei/pjkt/classifier/ud_en_ewt/data_csv/"
-extractN(folder+"en_ewt-ud-dev.conllu")
-extractAdj(folder+"en_ewt-ud-dev.conllu")
 
-extractN(folder+"en_ewt-ud-test.conllu")
-extractAdj(folder+"en_ewt-ud-test.conllu")
+run(folder+"en_ewt-ud-dev.conllu")
+run(folder+"en_ewt-ud-test.conllu")
+run(folder+"en_ewt-ud-train.conllu")
 
-extractN(folder+"en_ewt-ud-train.conllu")
-extractAdj(folder+"en_ewt-ud-train.conllu")
 
