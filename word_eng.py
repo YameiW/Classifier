@@ -20,7 +20,7 @@ h_ls = set(h_ls)
 h_ls = list(h_ls)
 len(h_ls)  # 288
 
-h_vowel_ls = ["hz","hr","hh","hpl","hca","htp","hmb","hd","h","hnd","honor", "herb", "hour", "heir", "html","hrs","heirs","hours","herbs","honors"]
+h_vowel_ls = ["hz","hr","hh","hpl","hca","htp","hmb","hd","h","hnd","hlep","honor", "herb", "hour", "heir", "html","hrs","heirs","hours","herbs","honors"]
 
 
 def vowelConsonant(word):
