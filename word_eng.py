@@ -59,7 +59,7 @@ noun_df = noun_df.fillna("")
 ls_1 = ["n_word", "adj", "ncomp", "ncomp_lemma", "nmod", "nmod_lemma"]
 
 for item in ls_1:
-    noun_df[item+"_len"] = noun_df[item].map(len)
+    noun_df[item+"_len"] = noun_df[item].map(lens)
 
 
 noun_len_df = noun_df[["n_word", "n_firstSound", "n_word_len", "adj", "adj_len", "ncomp", "ncomp_len", "ncomp_lemma", "ncomp_lemma_len",
