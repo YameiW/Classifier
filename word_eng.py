@@ -56,13 +56,15 @@ def lens(strcol):
 
 noun_df = noun_df.fillna("")
 
-ls_1 = ["n_word", "adj", "ncomp", "ncomp_lemma", "nmod", "nmod_lemma"]
+ls_1 = ["n_word", "adj", "det", "det_lemma", "num",
+        "num_lemma", "ncomp", "ncomp_lemma", "nmod", "nmod_lemma"]
 
 for item in ls_1:
     noun_df[item+"_len"] = noun_df[item].map(lens)
 
 
-noun_len_df = noun_df[["n_word", "n_firstSound", "n_word_len", "adj", "adj_len", "ncomp", "ncomp_len", "ncomp_lemma", "ncomp_lemma_len",
+noun_len_df = noun_df[["n_word", "n_firstSound", "n_word_len", "adj", "adj_len", "det", "det_len", "det_lemma_len", "num", "num_len", "num_lemma_len",
+                       "ncomp", "ncomp_len", "ncomp_lemma", "ncomp_lemma_len",
                        "nmod", "nmod_len", "nmod_lemma", "nmod_lemma_len",
                        "n_id", "sen_id"]]
 
@@ -74,7 +76,7 @@ noun_len_df.to_csv("./ud_en_ewt/data_csv/en_ewt-ud_noun_len.csv")
 # count n_word, n_lemma, det, num
 
 noun_df = noun_df.fillna("")
-ls_2 = ["n_word", "n_lemma", "det", "num"]
+ls_2 = ["n_word", "n_lemma", "det", "det_lemma","num","num_lemma"]
 
 for item in ls_2:
     if item == "num":
@@ -87,8 +89,8 @@ for item in ls_2:
     noun_df[item+"_count"] = noun_df[item].map(b)
 
 
-noun_count_one_df = noun_df[["n_word", "n_firstSound", "n_word_count", "n_lemma", "n_lemma_count", "det", "det_count",
-                             "num", "num_count", "n_id", "sen_id"]]
+noun_count_one_df = noun_df[["n_word", "n_firstSound", "n_word_count", "n_lemma", "n_lemma_count", "det", "det_count", "det_lemma","det_lemma_count",
+                             "num", "num_count","num_lemma","num_lemma_count", "n_id", "sen_id"]]
 
 noun_count_one_df.to_csv("./ud_en_ewt/data_csv/en_ewt-ud_noun_count_one.csv")
 
@@ -97,12 +99,12 @@ noun_count_one_df.to_csv("./ud_en_ewt/data_csv/en_ewt-ud_noun_count_one.csv")
 
 noun_df = noun_df.fillna("")
 
-
 def counts(ls):
     counted = list(ls)
     col = []
     for i in counted:
         col.extend(i.replace(" ", "").split(","))
+    col=[i.lower() for i in col]
 
     counted_dic = dict()
     for w in col:
@@ -116,7 +118,7 @@ def counts(ls):
     return counted_df
 
 
-ls_3 = ["adj", "ncomp", "ncomp_lemma", "nmod", "nmod_lemma"]
+ls_3 = ["adj","ncomp", "ncomp_lemma", "nmod", "nmod_lemma"]
 ls_4 = []
 
 for i, item in enumerate(ls_3):
@@ -126,7 +128,6 @@ for i, item in enumerate(ls_3):
 
 noun_count_two_df = pd.concat(ls_4)
 noun_count_two_df.to_csv("./ud_en_ewt/data_csv/en_ewt-ud_noun_count_two.csv")
-
 
 ################################################################ Adj_df #####################################################################
 adj_df = pd.read_csv("./ud_en_ewt/data_csv/merged_adj.csv", index_col=0)
@@ -153,7 +154,7 @@ for item in ls_6:
     adj_df[item+"_count"] = adj_df[item].map(b)
 
 
-adj_df = adj_df[['adj_word', 'adj_word_len', 'adj_word_count', 'adj_lemma', 'adj_comb', 'num_adj', 'n_word', 'n_word_len', "n_word_count",
+adj_df = adj_df[['adj_word', 'adj_word_len', 'adj_word_count', 'adj_lemma',"adj_type",'adj_comb', 'num_adj', 'n_word', 'n_word_len', "n_word_count",
                  'n_lemma', 'n_lemma_count', 'adj_id', 'n_id', 'sen_len', 'sen_id']]
 
 adj_df.to_csv("./ud_en_ewt/data_csv/en_ewt-ud_adj_.csv")
