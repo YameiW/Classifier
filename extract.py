@@ -12,8 +12,8 @@ def extractN(input_file):
             counter_ncomp = 0
             counter_nmod = 0
             if word.upos == "NOUN":
-                noun_dict = {"n_word": word.form, "n_lemma": word.lemma, "n_id": word.id, "det": "",
-                             "num": "", "adj": [],"num_adj":"","ncomp": [], "ncomp_lemma": [], "num_ncomp":"",
+                noun_dict = {"n_word": word.form, "n_lemma": word.lemma, "n_id": word.id, "det": "", "det_lemma":"",
+                             "num": "","num_lemma":"", "adj": [],"num_adj":"","ncomp": [], "ncomp_lemma": [], "num_ncomp":"",
                              "nmod":[],"nmod_lemma":[],"num_nmod":"",
                              "sen_len": len(sentence), "sen_id": sentence.id}
                 for mod_word in sentence:
@@ -24,6 +24,7 @@ def extractN(input_file):
                             noun_dict['num_adj'] = counter
                         if mod_word.upos == "NUM":
                             noun_dict["num"] = mod_word.form
+                            noun_dict["num_lemma"] = mod_word.lemma
                         if mod_word.upos == "NOUN":
                             if mod_word.deprel == "compound":
                                 counter_ncomp +=1
@@ -37,6 +38,7 @@ def extractN(input_file):
                                 noun_dict['num_nmod'] = counter_nmod
                         elif mod_word.upos == "DET":
                             noun_dict["det"] = mod_word.form
+                            noun_dict["det_lemma"] = mod_word.form
                 noun_ls.append(noun_dict)
                 noun_dict['adj'] = ", ".join(noun_dict['adj'])
                 noun_dict['nmod']= ", ".join(noun_dict['nmod'])
@@ -56,7 +58,7 @@ def extractAdj(input_file):
         for word in sentence:
             if word.upos == "ADJ":
                 counter = 0
-                adj_dict = {"adj_word": word.form, "adj_lemma": word.lemma, "adj_id": word.id,
+                adj_dict = {"adj_word": word.form, "adj_lemma": word.lemma, "adj_id": word.id, "adj_type":word.deprel,
                             "adj_comb": [],"num_adj":"", "n_word": "", "n_lemma": "", "n_id": "", "sen_len": len(sentence), "sen_id": sentence.id}
                 for item in sentence:
                     if item.id == word.head and item.upos == "NOUN":
