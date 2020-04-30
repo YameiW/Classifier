@@ -52,6 +52,13 @@ def extractN2(input_file):
     df_noun.to_csv(input_file.replace(".conllu", "_noun.csv"))
 
 def newmethod340(li):
+    """[summary]
+    This funcion sorts a list of pyconll.word objects by word.id
+    Arguments:
+        li a list of pyconll.word object
+    Returns:
+        concatenate the sorted word.form into one string
+    """
     s1= ""
     d1 = {}
     for w in li:
@@ -61,6 +68,14 @@ def newmethod340(li):
     return s1
 
 def unit(word, sentence, nmodlist):
+    """[summary]
+    recursively find all modifiers of word in sentence and add result to nmodlist
+
+    Arguments:
+        word {[pyconll.word]} 
+        sentence {[pyconll.sentence]} 
+        nmodlist {[python list]} 
+    """
     for mod_word in sentence:
         if mod_word.head == word.id:
             nmodlist.append(mod_word)
