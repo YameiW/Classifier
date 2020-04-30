@@ -39,13 +39,12 @@ def extractN(input_file):
                         elif mod_word.upos == "DET":
                             noun_dict["det"] = mod_word.form
                             noun_dict["det_lemma"] = mod_word.form
-                noun_ls.append(noun_dict)
                 noun_dict['adj'] = ", ".join(noun_dict['adj'])
                 noun_dict['nmod']= ", ".join(noun_dict['nmod'])
                 noun_dict['nmod_lemma']= ", ".join(noun_dict['nmod_lemma'])
                 noun_dict['ncomp']= ", ".join(noun_dict['ncomp'])
                 noun_dict['ncomp_lemma']= ", ".join(noun_dict['ncomp_lemma'])
-
+                noun_ls.append(noun_dict)
     df_noun = pd.DataFrame(noun_ls)
     df_noun.to_csv(input_file.replace(".conllu", "_noun.csv"))
 
@@ -69,9 +68,8 @@ def extractAdj(input_file):
                         counter +=1
                         adj_dict["adj_comb"].append(item.form)
                         adj_dict['num_adj'] = counter
-                adj_ls.append(adj_dict)
                 adj_dict['adj_comb']=", ".join(adj_dict['adj_comb'])
-
+                adj_ls.append(adj_dict)
     df_adj = pd.DataFrame(adj_ls)
     df_adj.to_csv(input_file.replace(".conllu", "_adj.csv"))
 
@@ -81,10 +79,9 @@ def run(path):
     extractAdj(path)
 
 
-folder = "/home/yamei/pjkt/classifier/ud_en_ewt/data_csv/"
-
+folder = "/home/yamei/pjkt/classifier/Multiclassifier/ud_en_ewt/data_csv/"
 run(folder+"en_ewt-ud-dev.conllu")
 run(folder+"en_ewt-ud-test.conllu")
 run(folder+"en_ewt-ud-train.conllu")
-
+en_ewt-ud-dev_adj.csv
 
