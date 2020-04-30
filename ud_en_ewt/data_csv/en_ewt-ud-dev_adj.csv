@@ -1,0 +1,1789 @@
+,adj_word,adj_lemma,adj_id,adj_type,adj_comb,num_adj,n_word,n_lemma,n_id,sen_len,sen_id
+0,federal,federal,13,amod,federal,1,courts,court,14,19,weblog-blogspot.com_nominations_20041117172713_ENG_20041117_172713-0002
+1,associate,associate,13,amod,associate,1,judge,judge,14,29,weblog-blogspot.com_nominations_20041117172713_ENG_20041117_172713-0003
+2,associate,associate,15,amod,associate,1,judge,judge,16,30,weblog-blogspot.com_nominations_20041117172713_ENG_20041117_172713-0005
+3,spiritual,spiritual,22,amod,spiritual,1,leader,leader,23,31,weblog-blogspot.com_gettingpolitical_20030906235000_ENG_20030906_235000-0002
+4,Nervous,nervous,1,amod,Nervous,1,people,people,2,18,weblog-blogspot.com_gettingpolitical_20030906235000_ENG_20030906_235000-0004
+5,succesfull,succesfull,15,amod,"succesfull, arab",2,attacks,attack,17,18,weblog-blogspot.com_gettingpolitical_20030906235000_ENG_20030906_235000-0004
+6,arab,arab,16,amod,"succesfull, arab",2,attacks,attack,17,18,weblog-blogspot.com_gettingpolitical_20030906235000_ENG_20030906_235000-0004
+7,eastern,eastern,3,amod,eastern,1,city,city,4,21,weblog-juancole.com_juancole_20040114085100_ENG_20040114_085100-0001
+8,several,several,19,amod,several,1,people,people,20,21,weblog-juancole.com_juancole_20040114085100_ENG_20040114_085100-0001
+9,hostile,hostile,8,amod,hostile,1,fire,fire,9,24,weblog-juancole.com_juancole_20040114085100_ENG_20040114_085100-0002
+10,Sunni,sunni,14,amod,Sunni,1,heartland,heartland,15,24,weblog-juancole.com_juancole_20040114085100_ENG_20040114_085100-0002
+11,safe,safe,23,conj,safe,1,,,,24,weblog-juancole.com_juancole_20040114085100_ENG_20040114_085100-0002
+12,yound,yound,17,amod,"yound, newlywed",2,bride,bride,19,20,weblog-juancole.com_juancole_20040114085100_ENG_20040114_085100-0003
+13,newlywed,newlywed,18,amod,"yound, newlywed",2,bride,bride,19,20,weblog-juancole.com_juancole_20040114085100_ENG_20040114_085100-0003
+14,enormous,enormous,10,amod,enormous,1,amount,amount,11,29,weblog-juancole.com_juancole_20040114085100_ENG_20040114_085100-0004
+15,bad,bad,24,amod,"bad, bad",2,tradeoff,tradeoff,27,29,weblog-juancole.com_juancole_20040114085100_ENG_20040114_085100-0004
+16,bad,bad,26,amod,"bad, bad",2,tradeoff,tradeoff,27,29,weblog-juancole.com_juancole_20040114085100_ENG_20040114_085100-0004
+17,hostile,hostile,7,amod,hostile,1,crowd,crowd,8,12,weblog-juancole.com_juancole_20040114085100_ENG_20040114_085100-0005
+18,clear,clear,3,xcomp,clear,1,,,,36,weblog-juancole.com_juancole_20040114085100_ENG_20040114_085100-0006
+19,high,high,10,amod,high,1,officials,official,12,36,weblog-juancole.com_juancole_20040114085100_ENG_20040114_085100-0006
+20,Sunni,sunni,15,amod,Sunni,1,heartland,heartland,16,36,weblog-juancole.com_juancole_20040114085100_ENG_20040114_085100-0006
+21,bad,bad,29,acl:relcl,bad,1,ways,way,26,36,weblog-juancole.com_juancole_20040114085100_ENG_20040114_085100-0006
+22,local,local,34,amod,local,1,,,,36,weblog-juancole.com_juancole_20040114085100_ENG_20040114_085100-0006
+23,miniscule,miniscule,20,amod,miniscule,1,number,number,21,30,weblog-blogspot.com_marketview_20050210075500_ENG_20050210_075500-0001
+24,concerned,concerned,21,conj,concerned,1,chance,chance,7,27,weblog-blogspot.com_marketview_20050210075500_ENG_20050210_075500-0002
+25,evil,evil,24,ccomp,evil,1,,,,42,weblog-blogspot.com_marketview_20050210075500_ENG_20050210_075500-0003
+26,eventually,eventually,32,amod,eventually,1,history,history,33,42,weblog-blogspot.com_marketview_20050210075500_ENG_20050210_075500-0003
+27,profitable,profitable,40,ccomp,profitable,1,,,,42,weblog-blogspot.com_marketview_20050210075500_ENG_20050210_075500-0003
+28,freewheeling,freewheeling,6,amod,freewheeling,1,environment,environment,8,55,weblog-blogspot.com_marketview_20050210075500_ENG_20050210_075500-0004
+29,mathematical,mathematical,20,amod,mathematical,1,proof,proof,22,55,weblog-blogspot.com_marketview_20050210075500_ENG_20050210_075500-0004
+30,own,own,47,obl,own,1,,,,55,weblog-blogspot.com_marketview_20050210075500_ENG_20050210_075500-0004
+31,good,good,51,amod,"good, respectable",2,idea,idea,54,55,weblog-blogspot.com_marketview_20050210075500_ENG_20050210_075500-0004
+32,respectable,respectable,53,amod,"good, respectable",2,idea,idea,54,55,weblog-blogspot.com_marketview_20050210075500_ENG_20050210_075500-0004
+33,entire,entire,3,amod,entire,1,article,article,4,12,weblog-blogspot.com_marketview_20050210075500_ENG_20050210_075500-0005
+34,secular,secular,4,amod,secular,1,nationalism,nationalism,5,30,weblog-juancole.com_juancole_20041120060600_ENG_20041120_060600-0003
+35,supple,supple,7,root,supple,1,,,,30,weblog-juancole.com_juancole_20041120060600_ENG_20041120_060600-0003
+36,rocky,rocky,29,xcomp,rocky,1,,,,30,weblog-juancole.com_juancole_20041120060600_ENG_20041120_060600-0003
+37,Israeli,israeli,3,amod,Israeli,1,colonization,colonization,4,37,weblog-juancole.com_juancole_20041120060600_ENG_20041120_060600-0004
+38,terrorist,terrorist,17,amod,terrorist,1,attacks,attack,18,37,weblog-juancole.com_juancole_20041120060600_ENG_20041120_060600-0004
+39,radical,radical,20,amod,radical,1,groups,group,21,37,weblog-juancole.com_juancole_20041120060600_ENG_20041120_060600-0004
+40,such,such,22,case,such,1,,,,37,weblog-juancole.com_juancole_20041120060600_ENG_20041120_060600-0004
+41,Palestinian,palestinian,8,amod,Palestinian,1,leadership,leadership,9,16,weblog-juancole.com_juancole_20041120060600_ENG_20041120_060600-0005
+42,major,major,5,amod,major,1,leaders,leader,7,16,weblog-juancole.com_juancole_20041120060600_ENG_20041120_060600-0006
+43,Palestinian,palestinian,6,amod,Palestinian,1,leadership,leadership,7,35,weblog-juancole.com_juancole_20041120060600_ENG_20041120_060600-0007
+44,radical,radical,21,amod,"radical, young",2,,,,35,weblog-juancole.com_juancole_20041120060600_ENG_20041120_060600-0007
+45,young,young,22,amod,"radical, young",2,,,,35,weblog-juancole.com_juancole_20041120060600_ENG_20041120_060600-0007
+46,local,local,3,amod,"local, Palestinian",2,leaders,leader,5,36,weblog-juancole.com_juancole_20041120060600_ENG_20041120_060600-0008
+47,Palestinian,palestinian,4,amod,"local, Palestinian",2,leaders,leader,5,36,weblog-juancole.com_juancole_20041120060600_ENG_20041120_060600-0008
+48,strong,strong,7,amod,strong,1,,,,36,weblog-juancole.com_juancole_20041120060600_ENG_20041120_060600-0008
+49,enough,enough,8,xcomp,enough,1,,,,36,weblog-juancole.com_juancole_20041120060600_ENG_20041120_060600-0008
+50,Israeli,israeli,18,amod,Israeli,1,,,,36,weblog-juancole.com_juancole_20041120060600_ENG_20041120_060600-0008
+51,Palestinian,palestinian,20,amod,Palestinian,1,struggle,struggle,21,36,weblog-juancole.com_juancole_20041120060600_ENG_20041120_060600-0008
+52,best,best,25,amod,best,1,posters,poster,27,36,weblog-juancole.com_juancole_20041120060600_ENG_20041120_060600-0008
+53,young,young,33,amod,"young, Muslim",2,men,man,35,36,weblog-juancole.com_juancole_20041120060600_ENG_20041120_060600-0008
+54,Muslim,muslim,34,amod,"young, Muslim",2,men,man,35,36,weblog-juancole.com_juancole_20041120060600_ENG_20041120_060600-0008
+55,effective,effective,8,amod,effective,1,weapon,weapon,9,21,weblog-juancole.com_juancole_20041120060600_ENG_20041120_060600-0009
+56,wide,wide,5,amod,wide,1,range,range,6,31,weblog-juancole.com_juancole_20040324065800_ENG_20040324_065800-0001
+57,Iraqi,iraqi,8,amod,"Iraqi, political",2,forces,force,10,31,weblog-juancole.com_juancole_20040324065800_ENG_20040324_065800-0001
+58,political,political,9,amod,"Iraqi, political",2,forces,force,10,31,weblog-juancole.com_juancole_20040324065800_ENG_20040324_065800-0001
+59,religious,religious,23,amod,religious,1,leader,leader,24,31,weblog-juancole.com_juancole_20040324065800_ENG_20040324_065800-0001
+60,Muslim,muslim,4,amod,Muslim,1,clerics,cleric,5,30,weblog-juancole.com_juancole_20040324065800_ENG_20040324_065800-0002
+61,immediate,immediate,21,amod,immediate,1,revenge,revenge,22,30,weblog-juancole.com_juancole_20040324065800_ENG_20040324_065800-0002
+62,general,general,15,amod,general,1,strike,strike,16,17,weblog-juancole.com_juancole_20040324065800_ENG_20040324_065800-0003
+63,dead,dead,14,xcomp,dead,1,,,,15,weblog-juancole.com_juancole_20040324065800_ENG_20040324_065800-0004
+64,big,big,7,amod,big,1,demonstration,demonstration,8,9,weblog-juancole.com_juancole_20040324065800_ENG_20040324_065800-0005
+65,Radical,radical,1,amod,"Radical, Shiite",2,cleric,cleric,3,35,weblog-juancole.com_juancole_20040324065800_ENG_20040324_065800-0006
+66,Shiite,shiite,2,amod,"Radical, Shiite",2,cleric,cleric,3,35,weblog-juancole.com_juancole_20040324065800_ENG_20040324_065800-0006
+67,criminal,criminal,13,ccomp,criminal,1,,,,35,weblog-juancole.com_juancole_20040324065800_ENG_20040324_065800-0006
+68,interim,interim,2,amod,interim,1,,,,34,weblog-juancole.com_juancole_20040324065800_ENG_20040324_065800-0007
+69,Israeli,israeli,20,amod,Israeli,1,authority,authority,21,34,weblog-juancole.com_juancole_20040324065800_ENG_20040324_065800-0007
+70,terrorist,terrorist,7,amod,terrorist,1,acts,act,8,25,weblog-juancole.com_juancole_20040324065800_ENG_20040324_065800-0008
+71,Many,many,5,nsubj,Many,1,,,,33,weblog-juancole.com_juancole_20040324065800_ENG_20040324_065800-0009
+72,American,american,13,amod,American,1,occupation,occupation,14,33,weblog-juancole.com_juancole_20040324065800_ENG_20040324_065800-0009
+73,Palestinian,palestinian,25,amod,Palestinian,1,people,people,26,33,weblog-juancole.com_juancole_20040324065800_ENG_20040324_065800-0009
+74,Israeli,israeli,30,amod,Israeli,1,occupation,occupation,31,33,weblog-juancole.com_juancole_20040324065800_ENG_20040324_065800-0009
+75,unrelated,unrelated,4,amod,unrelated,1,incidents,incident,5,33,weblog-juancole.com_juancole_20040324065800_ENG_20040324_065800-0010
+76,first,first,4,amod,first,1,whispers,whisper,5,55,weblog-blogspot.com_marketview_20040611132900_ENG_20040611_132900-0001
+77,most,most,11,amod,most,1,investors,investor,12,55,weblog-blogspot.com_marketview_20040611132900_ENG_20040611_132900-0001
+78,public,public,20,xcomp,public,1,,,,55,weblog-blogspot.com_marketview_20040611132900_ENG_20040611_132900-0001
+79,high,high,25,amod,high,1,price,price,26,55,weblog-blogspot.com_marketview_20040611132900_ENG_20040611_132900-0001
+80,profitable,profitable,33,amod,profitable,1,model,model,35,55,weblog-blogspot.com_marketview_20040611132900_ENG_20040611_132900-0001
+81,flawless,flawless,39,amod,flawless,1,execution,execution,40,55,weblog-blogspot.com_marketview_20040611132900_ENG_20040611_132900-0001
+82,high,high,47,advcl,high,1,,,,55,weblog-blogspot.com_marketview_20040611132900_ENG_20040611_132900-0001
+83,real,real,53,amod,real,1,profit,profit,54,55,weblog-blogspot.com_marketview_20040611132900_ENG_20040611_132900-0001
+84,more,more,10,amod,more,1,,,,36,weblog-blogspot.com_marketview_20040611132900_ENG_20040611_132900-0006
+85,great,great,19,amod,"great, successful",2,engine,engine,21,36,weblog-blogspot.com_marketview_20040611132900_ENG_20040611_132900-0006
+86,real,real,24,amod,real,1,support,support,28,36,weblog-blogspot.com_marketview_20040611132900_ENG_20040611_132900-0006
+87,successful,successful,30,amod,"great, successful",2,engine,engine,21,36,weblog-blogspot.com_marketview_20040611132900_ENG_20040611_132900-0006
+88,blessed,blessed,5,amod,"blessed, laudatory",2,lack,lack,8,32,weblog-blogspot.com_marketview_20040611132900_ENG_20040611_132900-0007
+89,laudatory,laudatory,7,amod,"blessed, laudatory",2,lack,lack,8,32,weblog-blogspot.com_marketview_20040611132900_ENG_20040611_132900-0007
+90,efficient,efficient,13,amod,efficient,1,ads,ad,19,32,weblog-blogspot.com_marketview_20040611132900_ENG_20040611_132900-0007
+91,effective,effective,15,conj,effective,1,,,,32,weblog-blogspot.com_marketview_20040611132900_ENG_20040611_132900-0007
+92,simple,simple,9,amod,simple,1,interface,interface,10,35,weblog-blogspot.com_marketview_20040611132900_ENG_20040611_132900-0008
+93,loyal,loyal,15,ccomp,loyal,1,,,,35,weblog-blogspot.com_marketview_20040611132900_ENG_20040611_132900-0008
+94,fewest,fewest,26,amod,fewest,1,features,feature,28,35,weblog-blogspot.com_marketview_20040611132900_ENG_20040611_132900-0008
+95,low,low,30,amod,low,1,end,end,32,35,weblog-blogspot.com_marketview_20040611132900_ENG_20040611_132900-0008
+96,other,other,2,amod,other,1,problem,problem,3,4,weblog-blogspot.com_marketview_20040611132900_ENG_20040611_132900-0009
+97,tough,tough,3,root,tough,1,,,,16,weblog-blogspot.com_marketview_20040611132900_ENG_20040611_132900-0010
+98,most,most,13,amod,most,1,users,user,15,34,weblog-blogspot.com_marketview_20040611132900_ENG_20040611_132900-0011
+99,popular,popular,29,conj,popular,1,,,,34,weblog-blogspot.com_marketview_20040611132900_ENG_20040611_132900-0011
+100,likely,likely,12,amod,"likely, high",2,valuation,valuation,16,38,weblog-blogspot.com_marketview_20040611132900_ENG_20040611_132900-0012
+101,high,high,15,amod,"likely, high",2,valuation,valuation,16,38,weblog-blogspot.com_marketview_20040611132900_ENG_20040611_132900-0012
+102,huge,huge,22,amod,huge,1,chunk,chunk,23,38,weblog-blogspot.com_marketview_20040611132900_ENG_20040611_132900-0012
+103,next,next,30,amod,next,1,engine,engine,37,38,weblog-blogspot.com_marketview_20040611132900_ENG_20040611_132900-0012
+104,simple,simple,35,xcomp,simple,1,,,,38,weblog-blogspot.com_marketview_20040611132900_ENG_20040611_132900-0012
+105,whole,whole,4,amod,whole,1,lot,lot,5,22,weblog-blogspot.com_aggressivevoicedaily_20060814163400_ENG_20060814_163400-0001
+106,Swedish,swedish,13,amod,Swedish,1,newspaper,newspaper,14,22,weblog-blogspot.com_aggressivevoicedaily_20060814163400_ENG_20060814_163400-0001
+107,best,best,15,obj,best,1,,,,20,weblog-blogspot.com_aggressivevoicedaily_20060814163400_ENG_20060814_163400-0002
+108,comparable,comparable,11,ccomp,comparable,1,,,,22,weblog-blogspot.com_aggressivevoicedaily_20060814163400_ENG_20060814_163400-0003
+109,new,new,19,amod,"new, fun",2,contest,contest,21,22,weblog-blogspot.com_aggressivevoicedaily_20060814163400_ENG_20060814_163400-0003
+110,fun,fun,20,amod,"new, fun",2,contest,contest,21,22,weblog-blogspot.com_aggressivevoicedaily_20060814163400_ENG_20060814_163400-0003
+111,international,international,2,amod,international,1,contest,contest,3,28,weblog-blogspot.com_aggressivevoicedaily_20060814163400_ENG_20060814_163400-0005
+112,Western,western,18,amod,Western,1,papers,papers,19,28,weblog-blogspot.com_aggressivevoicedaily_20060814163400_ENG_20060814_163400-0005
+113,last,last,20,amod,last,1,,,,28,weblog-blogspot.com_aggressivevoicedaily_20060814163400_ENG_20060814_163400-0005
+114,long,long,10,amod,long,1,fair,fair,11,19,weblog-blogspot.com_aggressivevoicedaily_20060814163400_ENG_20060814_163400-0009
+115,more,more,12,advmod,more,1,,,,24,weblog-blogspot.com_aggressivevoicedaily_20060814163400_ENG_20060814_163400-0010
+116,more,more,18,advmod,more,1,,,,24,weblog-blogspot.com_aggressivevoicedaily_20060814163400_ENG_20060814_163400-0010
+117,top,top,4,amod,top,1,cartoons,cartoon,6,28,weblog-blogspot.com_aggressivevoicedaily_20060814163400_ENG_20060814_163400-0011
+118,cute,cute,2,amod,"cute, little",2,stunt,stunt,4,17,weblog-blogspot.com_aggressivevoicedaily_20060814163400_ENG_20060814_163400-0012
+119,little,little,3,amod,"cute, little",2,stunt,stunt,4,17,weblog-blogspot.com_aggressivevoicedaily_20060814163400_ENG_20060814_163400-0012
+120,fanatic,fanatic,12,ccomp,fanatic,1,,,,17,weblog-blogspot.com_aggressivevoicedaily_20060814163400_ENG_20060814_163400-0012
+121,precious,precious,3,amod,precious,1,cartoons,cartoon,4,19,weblog-blogspot.com_aggressivevoicedaily_20060814163400_ENG_20060814_163400-0014
+122,most,most,5,obl,most,1,,,,19,weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0001
+123,fair,fair,6,amod,fair,1,numbers,number,7,26,weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0002
+124,Iraqi,iraqi,9,amod,Iraqi,1,noncombatants,noncombatant,10,26,weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0002
+125,Armed,armed,1,amod,Armed,1,clashes,clash,2,25,weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0003
+126,several,several,6,amod,"several, northern, Iraqi",3,cities,city,9,25,weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0003
+127,northern,northern,7,amod,"several, northern, Iraqi",3,cities,city,9,25,weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0003
+128,Iraqi,iraqi,8,amod,"several, northern, Iraqi",3,cities,city,9,25,weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0003
+129,dead,dead,17,xcomp,dead,1,,,,25,weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0003
+130,aged,aged,3,amod,aged,1,cousin,cousin,4,31,weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0007
+131,Iraqi,iraqi,2,amod,Iraqi,1,society,society,3,33,weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0008
+132,responsible,responsible,8,root,responsible,1,,,,33,weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0008
+133,first,first,17,amod,first,1,cousins,cousin,18,33,weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0008
+134,weak,weak,26,xcomp,weak,1,,,,33,weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0008
+135,substantial,substantial,29,amod,substantial,1,shame,shame,30,33,weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0008
+136,most,most,5,obj,most,1,,,,16,weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0009
+137,other,other,4,amod,other,1,cities,city,5,25,weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0010
+138,intrepid,intrepid,2,amod,intrepid,1,,,,17,weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0011
+139,more,more,9,obj,more,1,,,,17,weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0011
+140,Sunni,sunni,12,amod,Sunni,1,boycott,boycott,13,17,weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0011
+141,Sunni,sunni,19,amod,Sunni,1,vote,vote,20,34,weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0012
+142,Sunni,sunni,9,amod,"Sunni, Arab",2,regions,region,11,25,weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0013
+143,Arab,arab,10,amod,"Sunni, Arab",2,regions,region,11,25,weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0013
+144,Sunni,sunni,19,amod,Sunni,1,participation,participation,20,25,weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0013
+145,more,more,4,obj,more,1,,,,20,weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0014
+146,political,political,7,amod,political,1,implications,implication,8,20,weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0014
+147,black,black,3,amod,black,1,satire,satire,4,18,weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0015
+148,next,next,20,amod,next,1,couple,couple,21,25,weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0016
+149,hottest,hottest,2,amod,hottest,1,item,item,3,13,weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0001
+150,nuclear,nuclear,11,amod,nuclear,1,weapons,weapon,12,13,weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0001
+151,better,better,14,amod,better,1,ones,one,15,31,weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0002
+152,last,last,3,amod,"last, few",2,years,year,5,40,weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0003
+153,few,few,4,amod,"last, few",2,years,year,5,40,weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0003
+154,nuclear,nuclear,13,amod,nuclear,1,program,program,14,40,weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0003
+155,same,same,3,amod,same,1,time,time,4,21,weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0004
+156,Iranian,iranian,7,amod,Iranian,1,Group,group,9,21,weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0004
+157,covert,covert,17,amod,covert,1,program,program,20,21,weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0004
+158,nuclear,nuclear,18,amod,nuclear,1,weapons,weapon,19,21,weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0004
+159,Arial,arial,1,amod,Arial,1,photos,photo,2,19,weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0005
+160,loose,loose,4,amod,loose,1,connections,connection,5,19,weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0005
+161,best,best,11,amod,best,1,nukes,nuke,12,18,weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0006
+162,new,new,9,amod,"new, nuclear",2,weapons,weapon,11,21,weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0007
+163,nuclear,nuclear,10,amod,"new, nuclear",2,weapons,weapon,11,21,weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0007
+164,other,other,13,amod,other,1,countries,country,14,21,weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0007
+165,high,high,5,advcl,high,1,,,,26,weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0008
+166,nuclear,nuclear,24,amod,nuclear,1,weapons,weapon,25,26,weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0008
+167,equal,equal,15,conj,equal,1,,,,16,weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0010
+168,nuclear,nuclear,7,amod,nuclear,1,weapons,weapon,8,36,weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0011
+169,nuclear,nuclear,27,amod,nuclear,1,weapons,weapon,28,36,weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0011
+170,nuclear,nuclear,34,amod,nuclear,1,strength,strength,35,36,weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0011
+171,nuclear,nuclear,9,amod,nuclear,1,weapons,weapon,10,24,weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0012
+172,slightest,slightest,22,amod,slightest,1,concern,concern,23,24,weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0012
+173,few,few,25,amod,few,1,years,year,26,28,weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0013
+174,nuclear,nuclear,12,amod,nuclear,1,weapons,weapon,13,14,weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0014
+175,close,close,18,acl:relcl,close,1,,,,19,weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0015
+176,Arial,arial,1,amod,Arial,1,photos,photo,2,21,weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0017
+177,chemical,chemical,16,amod,chemical,1,weapons,weapon,17,21,weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0017
+178,scary,scary,10,csubj,scary,1,,,,23,weblog-blogspot.com_thelameduck_20041119192207_ENG_20041119_192207-0018
+179,most,most,17,nsubj,"most, dual",2,citizens,citizen,24,27,weblog-blogspot.com_alaindewitt_20060827093500_ENG_20060827_093500-0003
+180,dual,dual,22,amod,"most, dual",2,citizens,citizen,24,27,weblog-blogspot.com_alaindewitt_20060827093500_ENG_20060827_093500-0003
+181,normal,normal,4,amod,normal,1,procedure,procedure,5,21,weblog-blogspot.com_alaindewitt_20060827093500_ENG_20060827_093500-0004
+182,mythical,mythical,5,amod,"mythical, Arab",2,street,street,8,13,weblog-blogspot.com_alaindewitt_20060827093500_ENG_20060827_093500-0006
+183,Arab,arab,7,amod,"mythical, Arab",2,street,street,8,13,weblog-blogspot.com_alaindewitt_20060827093500_ENG_20060827_093500-0006
+184,military,military,16,amod,military,1,violence,violence,17,43,weblog-blogspot.com_alaindewitt_20060827093500_ENG_20060827_093500-0007
+185,likely,likely,19,ccomp,likely,1,,,,43,weblog-blogspot.com_alaindewitt_20060827093500_ENG_20060827_093500-0007
+186,last,last,39,amod,last,1,years,year,41,43,weblog-blogspot.com_alaindewitt_20060827093500_ENG_20060827_093500-0007
+187,other,other,2,amod,other,1,words,word,3,22,weblog-blogspot.com_alaindewitt_20060827093500_ENG_20060827_093500-0008
+188,own,own,11,amod,own,1,choice,choice,12,22,weblog-blogspot.com_alaindewitt_20060827093500_ENG_20060827_093500-0008
+189,predictable,predictable,21,acl:relcl,predictable,1,situation,situation,17,22,weblog-blogspot.com_alaindewitt_20060827093500_ENG_20060827_093500-0008
+190,last,last,6,amod,last,1,year,year,7,42,weblog-blogspot.com_alaindewitt_20060827093500_ENG_20060827_093500-0010
+191,predictable,predictable,30,acl:relcl,predictable,1,phenomenon,phenomenon,25,42,weblog-blogspot.com_alaindewitt_20060827093500_ENG_20060827_093500-0010
+192,right,right,3,root,right,1,,,,6,weblog-blogspot.com_alaindewitt_20060827093500_ENG_20060827_093500-0013
+193,southern,southern,24,amod,southern,1,city,city,25,33,weblog-blogspot.com_alaindewitt_20060827093500_ENG_20060827_093500-0016
+194,first,first,9,amod,first,1,bridge,bridge,10,45,weblog-blogspot.com_alaindewitt_20060827093500_ENG_20060827_093500-0018
+195,other,other,20,amod,other,1,bridges,bridge,21,45,weblog-blogspot.com_alaindewitt_20060827093500_ENG_20060827_093500-0018
+196,federal,federal,41,amod,federal,1,court,court,42,45,weblog-blogspot.com_alaindewitt_20060827093500_ENG_20060827_093500-0018
+197,American,american,5,amod,American,1,citizens,citizen,6,16,weblog-blogspot.com_alaindewitt_20060827093500_ENG_20060827_093500-0019
+198,immediate,immediate,4,amod,immediate,1,family,family,5,18,weblog-blogspot.com_alaindewitt_20060827093500_ENG_20060827_093500-0022
+199,Dear,dear,1,amod,Dear,1,,,,3,weblog-blogspot.com_alaindewitt_20060827093500_ENG_20060827_093500-0023
+200,illegal,illegal,14,amod,illegal,1,militias,militia,15,28,weblog-blogspot.com_alaindewitt_20060827093500_ENG_20060827_093500-0024
+201,other,other,18,amod,other,1,countries,country,19,28,weblog-blogspot.com_alaindewitt_20060827093500_ENG_20060827_093500-0024
+202,likely,likely,23,conj,likely,1,,,,28,weblog-blogspot.com_alaindewitt_20060827093500_ENG_20060827_093500-0024
+203,own,own,19,amod,own,1,making,making,20,21,weblog-blogspot.com_alaindewitt_20060827093500_ENG_20060827_093500-0025
+204,loathe,loathe,4,advcl,loathe,1,,,,46,weblog-blogspot.com_tacitusproject_20040712123425_ENG_20040712_123425-0001
+205,other,other,7,amod,other,1,writers,writer,8,46,weblog-blogspot.com_tacitusproject_20040712123425_ENG_20040712_123425-0001
+206,little,little,16,amod,little,1,bit,bit,17,46,weblog-blogspot.com_tacitusproject_20040712123425_ENG_20040712_123425-0001
+207,good,good,35,root,good,1,,,,46,weblog-blogspot.com_tacitusproject_20040712123425_ENG_20040712_123425-0001
+208,whole,whole,42,amod,whole,1,column,column,43,46,weblog-blogspot.com_tacitusproject_20040712123425_ENG_20040712_123425-0001
+209,former,former,24,amod,former,1,,,,26,weblog-blogspot.com_tacitusproject_20040712123425_ENG_20040712_123425-0004
+210,main,main,26,amod,main,1,theme,theme,27,29,weblog-blogspot.com_tacitusproject_20040712123425_ENG_20040712_123425-0005
+211,complicated,complicated,5,root,complicated,1,,,,13,weblog-blogspot.com_tacitusproject_20040712123425_ENG_20040712_123425-0011
+212,steep,steep,22,amod,steep,1,cliff,cliff,23,34,weblog-blogspot.com_tacitusproject_20040712123425_ENG_20040712_123425-0013
+213,other,other,31,amod,other,1,horsemen,horseman,32,34,weblog-blogspot.com_tacitusproject_20040712123425_ENG_20040712_123425-0013
+214,Western,western,4,amod,Western,1,scene,scene,5,19,weblog-blogspot.com_tacitusproject_20040712123425_ENG_20040712_123425-0014
+215,good,good,17,amod,good,1,decisions,decision,18,19,weblog-blogspot.com_tacitusproject_20040712123425_ENG_20040712_123425-0018
+216,long,long,12,amod,long,1,story,story,13,20,weblog-blogspot.com_tacitusproject_20040712123425_ENG_20040712_123425-0020
+217,good,good,9,amod,good,1,judges,judge,10,11,weblog-blogspot.com_tacitusproject_20040712123425_ENG_20040712_123425-0024
+218,first,first,7,amod,"first, inaugural",2,service,service,10,13,weblog-blogspot.com_tacitusproject_20040712123425_ENG_20040712_123425-0026
+219,inaugural,inaugural,8,amod,"first, inaugural",2,service,service,10,13,weblog-blogspot.com_tacitusproject_20040712123425_ENG_20040712_123425-0026
+220,greater,greater,7,amod,greater,1,,,,12,weblog-blogspot.com_tacitusproject_20040712123425_ENG_20040712_123425-0031
+221,rambling,rambling,5,amod,rambling,1,response,response,6,7,weblog-blogspot.com_tacitusproject_20040712123425_ENG_20040712_123425-0037
+222,random,random,4,amod,random,1,speculation,speculation,5,17,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0001
+223,new,new,10,amod,new,1,browser,browser,11,17,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0001
+224,true,true,3,root,true,1,,,,11,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0002
+225,inside,inside,4,amod,inside,1,information,information,5,34,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0004
+226,serious,serious,21,ccomp,serious,1,,,,34,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0004
+227,permanent,permanent,24,amod,permanent,1,control,control,25,34,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0004
+228,lead,lead,5,amod,lead,1,engineer,engineer,6,10,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0005
+229,unchanged,unchanged,12,xcomp,unchanged,1,,,,40,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0008
+230,same,same,20,amod,same,1,work,work,21,40,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0008
+231,new,new,30,amod,new,1,goal,goal,31,40,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0008
+232,successful,successful,33,amod,successful,1,releases,release,39,40,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0008
+233,devoted,devoted,3,xcomp,devoted,1,,,,21,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0009
+234,full,full,4,amod,full,1,time,time,6,21,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0009
+235,general,general,20,nmod,general,1,browsing,browsing,18,21,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0009
+236,big,big,7,amod,big,1,Welcome,welcome,9,23,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0012
+237,big,big,4,amod,big,1,,,,7,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0015
+238,involved,involved,10,root,involved,1,,,,17,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0017
+239,crucial,crucial,8,amod,crucial,1,elements,element,9,22,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0021
+240,past,past,18,amod,"past, few",2,years,year,20,22,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0021
+241,few,few,19,amod,"past, few",2,years,year,20,22,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0021
+242,Great,great,1,root,Great,1,,,,7,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0022
+243,present,present,13,amod,present,1,time,time,14,33,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0023
+244,old,old,20,amod,old,1,adage,adage,21,33,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0023
+245,few,few,16,amod,few,1,minutes,minute,17,39,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0025
+246,future,future,21,amod,future,1,history,history,22,39,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0025
+247,brave,brave,12,amod,"brave, new",2,world,world,14,19,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0026
+248,new,new,13,amod,"brave, new",2,world,world,14,19,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0026
+249,particular,particular,7,amod,particular,1,future,future,8,10,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0028
+250,small,small,3,amod,"small, possible",2,commment,commment,4,24,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0029
+251,possible,possible,9,parataxis,"small, possible",2,commment,commment,4,24,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0029
+252,whole,whole,24,amod,whole,1,thing,thing,27,30,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0030
+253,open,open,25,amod,open,1,source,source,26,30,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0030
+254,inclined,inclined,3,root,inclined,1,,,,75,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0031
+255,popular,popular,23,amod,"popular, non-Microsoft",2,browser,browser,25,75,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0031
+256,non-Microsoft,non-microsoft,24,amod,"popular, non-Microsoft",2,browser,browser,25,75,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0031
+257,higher,higher,68,amod,higher,1,echelons,echelon,69,75,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0031
+258,enlightened,enlightened,6,amod,enlightened,1,interest,interest,8,16,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0032
+259,large,large,11,amod,large,1,projects,project,14,16,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0032
+260,open,open,12,amod,open,1,source,source,13,16,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0032
+261,alive,alive,15,xcomp,alive,1,,,,16,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0032
+262,Fascinating,fascinating,1,amod,Fascinating,1,viewpoint,viewpoint,2,8,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0033
+263,open,open,2,amod,open,1,source,source,3,23,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0036
+264,inexpensive,inexpensive,9,amod,inexpensive,1,way,way,10,23,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0036
+265,open,open,18,amod,open,1,source,source,19,23,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0036
+266,more,more,4,amod,more,1,bang,bang,5,25,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0037
+267,private,private,12,amod,private,1,company,company,13,25,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0037
+268,inevitable,inevitable,19,amod,inevitable,1,clashes,clash,21,25,weblog-typepad.com_ripples_20050410122300_ENG_20050410_122300-0037
+269,gross,gross,35,amod,gross,1,incompetence,incompetence,36,39,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0001
+270,Iraqi,iraqi,14,amod,"Iraqi, grateful",2,,,,32,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0002
+271,grateful,grateful,20,acl:relcl,"Iraqi, grateful",2,,,,32,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0002
+272,dual,dual,5,amod,"dual, Arab",2,insurgencies,insurgency,10,33,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0003
+273,Sunni,sunni,6,amod,"Sunni, Shiite",2,,,,33,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0003
+274,Arab,arab,7,amod,"dual, Arab",2,insurgencies,insurgency,10,33,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0003
+275,Shiite,shiite,9,conj,"Sunni, Shiite",2,,,,33,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0003
+276,massive,massive,23,amod,massive,1,scale,scale,24,33,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0003
+277,Spanish,spanish,6,amod,Spanish,1,contingents,contingent,11,26,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0004
+278,Thai,thai,8,conj,"Thai, other",2,,,,26,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0004
+279,other,other,10,conj,"Thai, other",2,,,,26,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0004
+280,committed,committed,14,acl:relcl,committed,1,time,time,3,26,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0004
+281,reluctant,reluctant,22,conj,reluctant,1,,,,26,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0004
+282,involved,involved,25,xcomp,involved,1,,,,26,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0004
+283,international,international,8,amod,international,1,affairs,affair,9,12,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0006
+284,most,most,12,nsubj,most,1,,,,35,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0008
+285,administrative,administrative,17,amod,administrative,1,experience,experience,18,35,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0008
+286,Muslim,muslim,27,amod,Muslim,1,culture,culture,28,35,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0008
+287,few,few,6,amod,"few, experienced",2,Arabists,arabist,10,23,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0010
+288,experienced,experienced,7,amod,"few, experienced",2,Arabists,arabist,10,23,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0010
+289,ulterior,ulterior,10,amod,ulterior,1,motives,motive,11,50,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0011
+290,social,social,13,amod,social,1,experiments,experiment,14,50,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0011
+291,Iraqi,iraqi,21,amod,Iraqi,1,people,people,22,50,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0011
+292,economic,economic,28,amod,economic,1,shock,shock,29,50,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0011
+293,extreme,extreme,15,amod,"extreme, many",2,incompetence,incompetence,16,27,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0012
+294,double,double,19,amod,double,1,dealing,dealing,21,27,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0012
+295,many,many,23,nmod,"extreme, many",2,incompetence,incompetence,16,27,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0012
+296,close,close,10,acl:relcl,close,1,,,,47,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0013
+297,ulterior,ulterior,25,amod,ulterior,1,motive,motive,26,47,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0013
+298,trenchant,trenchant,6,amod,trenchant,1,critic,critic,7,11,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0014
+299,extraordinary,extraordinary,9,amod,extraordinary,1,,,,19,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0015
+300,recent,recent,17,amod,recent,1,weeks,week,18,19,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0015
+301,gross,gross,4,amod,gross,1,incompetence,incompetence,5,19,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0017
+302,dark,dark,10,amod,"dark, ulterior",2,motives,motive,12,19,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0017
+303,ulterior,ulterior,11,amod,"dark, ulterior",2,motives,motive,12,19,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0017
+304,classical,classical,4,amod,"classical, logical",2,fallacy,fallacy,6,44,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0018
+305,logical,logical,5,amod,"classical, logical",2,fallacy,fallacy,6,44,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0018
+306,suspicious,suspicious,15,parataxis,suspicious,1,,,,41,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0020
+307,upper,upper,27,amod,upper,1,reaches,reach,28,41,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0020
+308,radical,radical,3,amod,"radical, Muslim",2,cleric,cleric,6,32,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0021
+309,Shiite,shiite,4,amod,Shiite,1,,,,32,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0021
+310,Muslim,muslim,5,amod,"radical, Muslim",2,cleric,cleric,6,32,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0021
+311,militant,militant,12,amod,"militant, Palestinian",2,group,group,14,32,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0021
+312,Palestinian,palestinian,13,amod,"militant, Palestinian",2,group,group,14,32,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0021
+313,Shiite,shiite,23,amod,Shiite,1,cleric,cleric,24,46,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0022
+314,militant,militant,41,amod,"militant, Lebanese, Shiite",3,group,group,44,46,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0022
+315,Lebanese,lebanese,42,amod,"militant, Lebanese, Shiite",3,group,group,44,46,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0022
+316,Shiite,shiite,43,amod,"militant, Lebanese, Shiite",3,group,group,44,46,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0022
+317,Last,last,1,amod,Last,1,month,month,2,14,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0023
+318,same,same,22,advcl,same,1,,,,43,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0024
+319,chief,chief,6,amod,chief,1,aide,aide,7,41,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0026
+320,other,other,16,amod,other,1,members,member,17,41,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0026
+321,violent,violent,29,amod,violent,1,conflict,conflict,30,41,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0026
+322,dead,dead,40,xcomp,dead,1,,,,41,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0026
+323,unlikely,unlikely,4,root,unlikely,1,,,,16,weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0027
+324,wasted,wasted,11,xcomp,wasted,1,,,,15,email-enronsent23_13-0001
+325,couple,couple,10,nsubj,couple,1,,,,15,email-enronsent23_13-0002
+326,happy,happy,4,amod,happy,1,hour,hour,5,8,email-enronsent23_13-0004
+327,embarrassed,embarrassed,4,root,embarrassed,1,,,,15,email-enronsent23_13-0011
+328,slightest,slightest,10,amod,slightest,1,idea,idea,11,15,email-enronsent23_13-0011
+329,wasted,wasted,8,advcl,"wasted, interested",2,,,,13,email-enronsent23_08-0001
+330,interested,interested,12,advcl,"wasted, interested",2,,,,13,email-enronsent23_08-0001
+331,great,great,20,amod,great,1,people,people,21,26,email-enronsent23_08-0006
+332,fantastic,fantastic,24,amod,fantastic,1,friends,friend,25,26,email-enronsent23_08-0006
+333,agreeable,agreeable,10,advcl,agreeable,1,,,,22,email-enronsent23_08-0007
+334,last,last,20,amod,last,1,night,night,21,22,email-enronsent23_08-0007
+335,Fucking,fucking,1,amod,Fucking,1,bitches,bitch,2,4,email-enronsent23_08-0008
+336,ready,ready,7,root,ready,1,,,,10,email-enronsent23_11-0003
+337,small,small,8,advcl,small,1,,,,11,email-enronsent23_11-0009
+338,cute,cute,10,conj,cute,1,,,,11,email-enronsent23_11-0009
+339,mean,mean,7,ccomp,mean,1,,,,8,email-enronsent23_11-0011
+340,friendly,friendly,6,root,friendly,1,,,,7,email-enronsent23_11-0014
+341,cool,cool,6,ccomp,cool,1,,,,13,email-enronsent23_11-0015
+342,good,good,7,amod,good,1,sources,source,8,37,email-enronsent05_01-0004
+343,direct,direct,34,amod,direct,1,access,access,35,37,email-enronsent05_01-0004
+344,bilateral,bilateral,19,amod,bilateral,1,contracts,contract,20,36,email-enronsent05_01-0005
+345,direct,direct,30,amod,direct,1,access,access,31,36,email-enronsent05_01-0005
+346,other,other,2,amod,other,1,words,word,3,8,email-enronsent05_01-0006
+347,direct,direct,9,amod,direct,1,advocates,advocate,11,46,email-enronsent05_01-0008
+348,general,general,35,amod,general,1,rule,rule,36,46,email-enronsent05_01-0008
+349,direct,direct,39,amod,direct,1,access,access,40,46,email-enronsent05_01-0008
+350,strong,strong,8,amod,"strong, upper",2,hand,hand,10,30,email-enronsent05_01-0009
+351,upper,upper,9,amod,"strong, upper",2,hand,hand,10,30,email-enronsent05_01-0009
+352,direct,direct,17,amod,direct,1,access,access,18,30,email-enronsent05_01-0009
+353,direct,direct,28,amod,direct,1,access,access,29,30,email-enronsent05_01-0009
+354,privileged,privileged,12,amod,privileged,1,information,information,15,16,email-enronsent23_14-0010
+355,confidential,confidential,14,conj,confidential,1,,,,16,email-enronsent23_14-0010
+356,other,other,2,amod,other,1,use,use,3,11,email-enronsent23_14-0012
+357,happy,happy,5,amod,happy,1,hour,hour,6,13,email-enronsent23_14-0014
+358,perverted,perverted,7,parataxis,perverted,1,,,,8,email-enronsent23_14-0015
+359,perverted,perverted,6,amod,"perverted, old",2,man,man,8,9,email-enronsent23_14-0016
+360,old,old,7,amod,"perverted, old",2,man,man,8,9,email-enronsent23_14-0016
+361,quick,quick,8,amod,quick,1,note,note,9,20,email-enronsent20_02-0003
+362,last,last,4,amod,last,1,day,day,5,37,email-enronsent20_02-0004
+363,new,new,24,amod,new,1,position,position,25,37,email-enronsent20_02-0004
+364,sure,sure,11,xcomp,sure,1,,,,20,email-enronsent20_02-0005
+365,new,new,11,amod,new,1,job,job,12,31,email-enronsent20_02-0006
+366,past,past,10,amod,past,1,years,year,12,26,email-enronsent20_02-0007
+367,best,best,25,nmod,best,1,,,,26,email-enronsent20_02-0007
+368,happy,happy,6,amod,happy,1,hour,hour,7,25,email-enronsent20_02-0010
+369,new,new,2,amod,new,1,name,name,4,7,email-enronsent26_02-0010
+370,most,most,2,amod,most,1,cases,case,3,18,email-enronsent26_02-0011
+371,conventional,conventional,10,amod,"conventional, first",2,name,name,12,18,email-enronsent26_02-0011
+372,first,first,11,amod,"conventional, first",2,name,name,12,18,email-enronsent26_02-0011
+373,last,last,14,amod,last,1,name,name,15,18,email-enronsent26_02-0011
+374,confidential,confidential,21,amod,confidential,1,material,material,26,27,email-enronsent26_02-0015
+375,privileged,privileged,25,conj,privileged,1,,,,27,email-enronsent26_02-0015
+376,other,other,8,amod,other,1,use,use,9,34,email-enronsent26_02-0016
+377,other,other,27,amod,other,1,persons,person,24,34,email-enronsent26_02-0016
+378,Best,best,1,amod,Best,1,regards,regards,2,3,email-enronsent26_02-0024
+379,Direct,direct,3,amod,Direct,1,Dial,dial,4,13,email-enronsent26_02-0027
+380,Direct,direct,7,amod,Direct,1,Fax,fax,8,13,email-enronsent26_02-0027
+381,short,short,4,advmod,short,1,,,,14,email-enronsent28_02-0004
+382,close,close,9,amod,"close, close",2,sixth,sixth,10,20,email-enronsent28_02-0005
+383,close,close,14,acl:relcl,"close, close",2,sixth,sixth,10,20,email-enronsent28_02-0005
+384,highest,highest,18,amod,highest,1,bid,bid,19,20,email-enronsent28_02-0005
+385,highest,highest,10,amod,highest,1,bid,bid,11,12,email-enronsent28_02-0006
+386,other,other,6,amod,other,1,companies,company,8,23,email-enronsent28_02-0007
+387,short,short,11,amod,short,1,list,list,12,23,email-enronsent28_02-0007
+388,alternative,alternative,15,amod,alternative,1,structures,structure,16,23,email-enronsent28_02-0007
+389,additional,additional,4,amod,additional,1,RFP,rfp,5,23,email-enronsent28_02-0008
+390,other,other,5,amod,other,1,questions,question,6,12,email-enronsent28_02-0013
+391,reliable,reliable,14,xcomp,reliable,1,,,,27,email-enronsent28_02-0019
+392,accurate,accurate,24,ccomp,accurate,1,,,,27,email-enronsent28_02-0019
+393,complete,complete,26,conj,complete,1,,,,27,email-enronsent28_02-0019
+394,financial,financial,21,amod,financial,1,instruments,instrument,22,25,email-enronsent28_02-0020
+395,such,such,2,obl,such,1,,,,34,email-enronsent28_02-0022
+396,material,material,8,amod,material,1,respects,respects,9,34,email-enronsent28_02-0022
+397,recent,recent,8,amod,recent,1,version,version,9,26,email-enronsent28_02-0024
+398,higher,higher,25,conj,higher,1,,,,26,email-enronsent28_02-0024
+399,FREE,free,9,obl,FREE,1,,,,12,email-enronsent28_02-0025
+400,Intrastate,intrastate,6,amod,Intrastate,1,Agreement,agreement,9,15,email-enronsent28_03-0004
+401,Senior,senior,12,amod,Senior,1,President,president,14,36,email-enronsent28_03-0006
+402,part,part,16,obl,"part, free",2,,,,52,email-enronsent28_03-0007
+403,free,free,20,ccomp,"part, free",2,,,,52,email-enronsent28_03-0007
+404,adverse,adverse,24,amod,adverse,1,claims,claim,25,52,email-enronsent28_03-0007
+405,subject,subject,49,xcomp,subject,1,,,,52,email-enronsent28_03-0007
+406,necessary,necessary,17,amod,necessary,1,corrections,correction,18,24,email-enronsent28_03-0008
+407,necessary,necessary,7,amod,necessary,1,changes,change,8,12,email-enronsent28_03-0009
+408,further,further,9,amod,further,1,questions,question,10,11,email-enronsent28_03-0011
+409,clean,clean,2,amod,clean,1,version,version,5,8,email-enronsent28_03-0015
+410,OK,ok,3,root,OK,1,,,,8,email-enronsent28_03-0017
+411,acceptable,acceptable,5,advcl,acceptable,1,,,,13,email-enronsent28_03-0018
+412,awesome,awesome,3,root,awesome,1,,,,4,email-enronsent28_03-0024
+413,different,different,7,amod,different,1,story,story,8,9,email-enronsent28_03-0026
+414,much,much,6,amod,much,1,stuff,stuff,8,18,email-enronsent28_03-0027
+415,hot,hot,8,root,hot,1,,,,9,email-enronsent28_03-0029
+416,extra,extra,2,amod,extra,1,bedroom,bedroom,3,7,email-enronsent28_03-0032
+417,nicer,nicer,5,root,nicer,1,,,,7,email-enronsent28_03-0032
+418,old,old,2,amod,old,1,bed,bed,3,9,email-enronsent28_03-0033
+419,fine,fine,3,xcomp,fine,1,,,,6,email-enronsent28_03-0039
+420,ready,ready,10,advcl,ready,1,,,,11,email-enronsent28_03-0040
+421,fun,fun,5,amod,fun,1,part,part,6,7,email-enronsent01_01-0006
+422,easy,easy,6,root,easy,1,,,,11,email-enronsent01_01-0023
+423,physical,physical,2,amod,physical,1,cards,card,4,5,email-enronsent01_01-0027
+424,good,good,6,amod,good,1,response,response,7,20,email-enronsent01_01-0031
+425,fine,fine,7,xcomp,fine,1,,,,14,email-enronsent01_01-0032
+426,happy,happy,6,root,happy,1,,,,9,email-enronsent01_01-0040
+427,Glad,glad,1,root,Glad,1,,,,7,email-enronsent08_01-0001
+428,well,well,6,ccomp,well,1,,,,7,email-enronsent08_01-0001
+429,important,important,22,amod,important,1,asses,ass,23,24,email-enronsent08_01-0002
+430,young,young,2,xcomp,young,1,,,,3,email-enronsent08_01-0007
+431,great,great,5,root,great,1,,,,6,email-enronsent08_01-0008
+432,little,little,12,obl:npmod,little,1,,,,30,email-enronsent08_01-0009
+433,sooner,sooner,13,acl:relcl,sooner,1,month,month,8,30,email-enronsent08_01-0009
+434,certain,certain,5,amod,certain,1,parts,part,6,10,email-enronsent08_01-0014
+435,few,few,4,amod,few,1,theories,theory,6,12,email-enronsent08_01-0015
+436,interesting,interesting,4,amod,interesting,1,stuff,stuff,5,6,email-enronsent08_01-0016
+437,great,great,4,root,great,1,,,,5,email-enronsent08_01-0019
+438,rewarding,rewarding,7,root,rewarding,1,,,,8,email-enronsent08_01-0020
+439,more,more,9,amod,more,1,respect,respect,10,14,email-enronsent08_01-0021
+440,other,other,12,amod,other,1,humans,human,13,14,email-enronsent08_01-0021
+441,well,well,3,root,well,1,,,,14,email-enronsent08_01-0022
+442,cool,cool,10,amod,cool,1,job,job,11,14,email-enronsent08_01-0022
+443,FREE,free,3,amod,FREE,1,download,download,4,9,email-enronsent08_01-0027
+444,free,free,5,xcomp,free,1,,,,12,email-enronsent08_01-0034
+445,next,next,4,amod,next,1,time,time,5,11,email-enronsent08_01-0036
+446,confidential,confidential,10,amod,"confidential, privileged",2,communication,communication,14,22,email-enronsent08_01-0042
+447,privileged,privileged,19,conj,"confidential, privileged",2,communication,communication,14,22,email-enronsent08_01-0042
+448,confidential,confidential,21,conj,confidential,1,,,,22,email-enronsent08_01-0042
+449,sure,sure,2,root,sure,1,,,,18,email-enronsent08_01-0051
+450,affectionate,affectionate,9,amod,affectionate,1,relationships,relationship,14,15,email-enronsent30_02-0001
+451,satisfying,satisfying,11,conj,"satisfying, harmonious",2,,,,15,email-enronsent30_02-0001
+452,harmonious,harmonious,13,conj,"satisfying, harmonious",2,,,,15,email-enronsent30_02-0001
+453,ultimate,ultimate,2,amod,ultimate,1,goal,goal,3,25,email-enronsent30_02-0002
+454,intimate,intimate,10,amod,intimate,1,union,union,11,25,email-enronsent30_02-0002
+455,mutual,mutual,23,amod,mutual,1,trust,trust,24,25,email-enronsent30_02-0002
+456,True,true,8,amod,True,1,love,love,9,33,email-enronsent30_02-0003
+457,many,many,13,amod,many,1,things,thing,14,22,email-enronsent30_02-0004
+458,greater,greater,18,amod,greater,1,prestige,prestige,19,28,email-enronsent30_02-0005
+459,considerable,considerable,25,amod,considerable,1,esteem,esteem,27,28,email-enronsent30_02-0005
+460,emotional,emotional,14,amod,emotional,1,person,person,15,64,email-enronsent30_02-0006
+461,apt,apt,18,conj,apt,1,,,,64,email-enronsent30_02-0006
+462,little,little,35,amod,little,1,affection,affection,36,64,email-enronsent30_02-0006
+463,past,past,53,obl,past,1,,,,64,email-enronsent30_02-0006
+464,open,open,61,xcomp,open,1,,,,64,email-enronsent30_02-0006
+465,clear,clear,4,amod,clear,1,thinker,thinker,5,40,email-enronsent30_02-0009
+466,own,own,4,amod,own,1,person,person,5,19,email-enronsent30_02-0010
+467,own,own,17,amod,own,1,convictions,conviction,18,19,email-enronsent30_02-0010
+468,straight,straight,19,amod,straight,1,dealing,dealing,21,23,email-enronsent30_02-0011
+469,more,more,10,amod,more,1,conflict,conflict,11,18,email-enronsent30_02-0012
+470,more,more,14,amod,more,1,differences,difference,15,18,email-enronsent30_02-0012
+471,involved,involved,10,xcomp,involved,1,,,,19,email-enronsent30_02-0013
+472,alone,alone,19,xcomp,alone,1,,,,20,email-enronsent30_02-0014
+473,sorry,sorry,1,root,sorry,1,,,,17,email-enronsent30_02-0016
+474,Raw,raw,1,amod,Raw,1,data,data,2,14,email-enronsent30_02-0017
+475,fisrt,fisrt,6,amod,fisrt,1,tab,tab,7,14,email-enronsent30_02-0017
+476,historical,historical,6,amod,historical,1,file,file,9,18,email-enronsent30_02-0021
+477,new,new,4,amod,new,1,link,link,5,31,email-enronsent30_02-0025
+478,unable,unable,8,amod,unable,1,employees,employee,7,31,email-enronsent30_02-0025
+479,Imperial,imperial,29,amod,Imperial,1,Ballroom,ballroom,30,31,email-enronsent30_02-0025
+480,live,live,28,amod,live,1,event,event,29,32,email-enronsent30_02-0026
+481,complicated,complicated,18,conj,complicated,1,,,,19,email-enronsent30_02-0029
+482,possible,possible,3,root,possible,1,,,,17,email-enronsent30_02-0030
+483,else,else,8,amod,else,1,,,,17,email-enronsent30_02-0030
+484,Good,good,1,amod,Good,1,Morning,morning,2,4,email-enronsent29_01-0003
+485,Special,special,12,amod,Special,1,Provisions,provision,13,19,email-enronsent29_01-0004
+486,prompt,prompt,4,amod,prompt,1,feedback,feedback,5,9,email-enronsent29_01-0007
+487,attached,attached,3,amod,attached,1,file,file,4,20,email-enronsent29_01-0015
+488,special,special,9,amod,special,1,provisions,provision,10,11,email-enronsent29_01-0021
+489,Best,best,1,amod,Best,1,regards,regards,2,3,email-enronsent29_01-0022
+490,only,only,2,amod,only,1,agreement,agreement,3,17,email-enronsent29_01-0032
+491,else,else,9,amod,else,1,,,,10,email-enronsent29_01-0033
+492,Best,best,1,amod,Best,1,regards,regards,2,3,email-enronsent29_01-0040
+493,Alternate,alternate,8,amod,Alternate,1,Imbalance,imbalance,10,15,email-enronsent29_01-0044
+494,Aggregate,aggregate,4,amod,Aggregate,1,Imbalance,imbalance,6,13,email-enronsent29_01-0045
+495,several,several,11,amod,several,1,sections,section,12,13,email-enronsent29_01-0045
+496,fine,fine,3,xcomp,fine,1,,,,6,email-enronsent29_01-0053
+497,ready,ready,10,advcl,ready,1,,,,11,email-enronsent29_01-0054
+498,correct,correct,3,root,correct,1,,,,20,email-enronsent29_01-0060
+499,appropriate,appropriate,9,amod,appropriate,1,changes,change,10,20,email-enronsent29_01-0060
+500,Best,best,1,amod,Best,1,regards,regards,2,3,email-enronsent29_01-0061
+501,several,several,7,amod,several,1,blanks,blank,8,15,email-enronsent29_01-0067
+502,administrative,administrative,10,amod,administrative,1,information,information,11,15,email-enronsent29_01-0067
+503,able,able,3,root,able,1,,,,23,email-enronsent29_01-0068
+504,Fed,fed,10,amod,Fed,1,ID,id,12,23,email-enronsent29_01-0068
+505,Dear,dear,1,amod,Dear,1,,,,3,email-enronsent19_02-0005
+506,Geometric,geometric,11,amod,"Geometric, Brownian",2,Model,model,17,37,email-enronsent19_02-0008
+507,Brownian,brownian,12,amod,"Geometric, Brownian",2,Model,model,17,37,email-enronsent19_02-0008
+508,most,most,26,obj,most,1,,,,37,email-enronsent19_02-0008
+509,half,half,4,amod,half,1,,,,22,email-enronsent19_02-0009
+510,hourly,hourly,6,amod,hourly,1,price,price,7,22,email-enronsent19_02-0009
+511,Ordinary,ordinary,6,amod,"Ordinary, Least",2,Squares,square,8,22,email-enronsent19_02-0010
+512,Least,least,7,amod,"Ordinary, Least",2,Squares,square,8,22,email-enronsent19_02-0010
+513,different,different,15,amod,different,1,sign,sign,16,22,email-enronsent19_02-0010
+514,standard,standard,4,amod,standard,1,error,error,5,9,email-enronsent19_02-0011
+515,positive,positive,16,amod,positive,1,sign,sign,17,18,email-enronsent19_02-0015
+516,monthly,monthly,5,amod,monthly,1,data,data,6,13,email-enronsent19_02-0016
+517,same,same,12,conj,same,1,,,,13,email-enronsent19_02-0016
+518,Kindest,kindest,1,amod,Kindest,1,regards,regards,2,3,email-enronsent19_02-0018
+519,FREE,free,3,amod,FREE,1,download,download,4,16,email-enronsent19_02-0020
+520,best,best,4,amod,best,1,solution,solution,5,12,email-enronsent19_02-0026
+521,possible,possible,7,amod,possible,1,intern,intern,8,12,email-enronsent19_02-0029
+522,new,new,13,amod,new,1,hire,hire,14,32,email-enronsent19_02-0030
+523,premature,premature,12,root,premature,1,,,,20,email-enronsent19_02-0031
+524,responsible,responsible,20,acl:relcl,responsible,1,,,,50,email-enronsent19_02-0032
+525,okay,okay,3,root,okay,1,,,,6,email-enronsent19_02-0034
+526,well,well,4,ccomp,well,1,,,,6,email-enronsent19_02-0035
+527,interested,interested,9,ccomp,interested,1,,,,14,email-enronsent19_02-0040
+528,bright,bright,7,amod,"bright, personable",2,person,person,8,12,email-enronsent19_02-0041
+529,personable,personable,11,amod,"bright, personable",2,person,person,8,12,email-enronsent19_02-0041
+530,Dear,dear,1,amod,Dear,1,,,,5,email-enronsent19_02-0044
+531,good,good,6,amod,good,1,flight,flight,7,11,email-enronsent19_02-0047
+532,good,good,4,amod,good,1,opportunity,opportunity,5,14,email-enronsent19_02-0048
+533,good,good,6,amod,good,1,chance,chance,7,31,email-enronsent19_02-0053
+534,nice,nice,13,amod,nice,1,day,day,14,15,email-enronsent19_02-0054
+535,Stochastic,stochastic,3,amod,Stochastic,1,Processes,process,4,31,email-enronsent19_02-0057
+536,such,such,2,obl,such,1,,,,25,email-enronsent00_02-0011
+537,net,net,7,amod,net,1,shares,share,8,25,email-enronsent00_02-0011
+538,proper,proper,11,amod,proper,1,withholding,withholding,12,25,email-enronsent00_02-0011
+539,fair,fair,14,amod,fair,1,market,market,15,25,email-enronsent00_02-0011
+540,prior,prior,19,mark,prior,1,,,,25,email-enronsent00_02-0011
+541,fractional,fractional,18,amod,fractional,1,shares,share,19,21,email-enronsent00_02-0012
+542,personal,personal,11,amod,personal,1,check,check,12,19,email-enronsent00_02-0013
+543,gross,gross,17,amod,gross,1,shares,share,18,19,email-enronsent00_02-0013
+544,such,such,2,obl,such,1,,,,22,email-enronsent00_02-0016
+545,knowledgeable,knowledgeable,14,amod,knowledgeable,1,expert,expert,6,24,email-enronsent00_02-0017
+546,various,various,20,amod,various,1,amendments,amendment,23,24,email-enronsent00_02-0017
+547,convenient,convenient,11,acl:relcl,convenient,1,date,date,6,14,email-enronsent00_02-0019
+548,clear,clear,3,root,clear,1,,,,12,email-enronsent00_02-0024
+549,many,many,20,amod,many,1,shares,share,21,22,email-enronsent00_02-0025
+550,common,common,27,amod,common,1,stock,stock,28,53,email-enronsent00_02-0027
+551,such,such,40,amod,such,1,payment,payment,41,53,email-enronsent00_02-0027
+552,common,common,50,amod,common,1,stock,stock,51,53,email-enronsent00_02-0027
+553,new,new,9,amod,new,1,rock,rock,10,17,email-enronsent00_02-0035
+554,ready,ready,3,root,ready,1,,,,13,email-enronsent00_02-0036
+555,other,other,8,amod,other,1,ideas,idea,9,13,email-enronsent00_02-0050
+556,better,better,6,xcomp,better,1,,,,7,email-enronsent00_02-0056
+557,better,better,3,xcomp,better,1,,,,13,email-enronsent00_02-0059
+558,able,able,4,root,able,1,,,,9,email-enronsent00_02-0060
+559,free,free,8,xcomp,free,1,,,,13,newsgroup-groups.google.com_AlaskaTheLastFrontier_e483fe7209d6282b_ENG_20050531_202500-0001
+560,free,free,11,amod,free,1,offer,offer,12,26,newsgroup-groups.google.com_AllFreeStuff_7ba8b032d12f81df_ENG_20050929_202700-0001
+561,such,such,14,case,such,1,efax,efax,16,26,newsgroup-groups.google.com_AllFreeStuff_7ba8b032d12f81df_ENG_20050929_202700-0001
+562,free,free,2,root,free,1,,,,3,newsgroup-groups.google.com_AllFreeStuff_7ba8b032d12f81df_ENG_20050929_202700-0002
+563,FIRST,first,7,amod,FIRST,1,site,site,8,23,newsgroup-groups.google.com_RagnarokOnlineII_aa9a688cad543649_ENG_20051110_012000-0003
+564,new,new,17,advcl,new,1,,,,23,newsgroup-groups.google.com_RagnarokOnlineII_aa9a688cad543649_ENG_20051110_012000-0003
+565,devoted,devoted,9,amod,devoted,1,companion,companion,6,23,newsgroup-groups.google.com_APassionforRats_13b309ec29808aeb_ENG_20050523_143400-0003
+566,communicative,communicative,12,conj,"communicative, loving, mesmerizing",3,,,,23,newsgroup-groups.google.com_APassionforRats_13b309ec29808aeb_ENG_20050523_143400-0003
+567,loving,loving,15,conj,"communicative, loving, mesmerizing",3,,,,23,newsgroup-groups.google.com_APassionforRats_13b309ec29808aeb_ENG_20050523_143400-0003
+568,mesmerizing,mesmerizing,18,conj,"communicative, loving, mesmerizing",3,,,,23,newsgroup-groups.google.com_APassionforRats_13b309ec29808aeb_ENG_20050523_143400-0003
+569,Interested,interested,1,root,Interested,1,,,,4,newsgroup-groups.google.com_alt.animals.badgers_1b8e106a9a468d99_ENG_20040220_231100-0002
+570,great,great,17,amod,great,1,game,game,19,20,newsgroup-groups.google.com_alt.animals.badgers_1b8e106a9a468d99_ENG_20040220_231100-0003
+571,large,large,1,amod,large,1,selection,selection,2,11,newsgroup-groups.google.com_alt.animals.badgers_1b8e106a9a468d99_ENG_20040220_231100-0004
+572,best,best,9,amod,best,1,sellers,seller,10,11,newsgroup-groups.google.com_alt.animals.badgers_1b8e106a9a468d99_ENG_20040220_231100-0004
+573,Interested,interested,1,root,Interested,1,,,,4,newsgroup-groups.google.com_alt.animals.bear_1b8e106a9a468d99_ENG_20040220_231100-0002
+574,great,great,17,amod,great,1,game,game,19,31,newsgroup-groups.google.com_alt.animals.bear_1b8e106a9a468d99_ENG_20040220_231100-0003
+575,large,large,21,amod,large,1,selection,selection,22,31,newsgroup-groups.google.com_alt.animals.bear_1b8e106a9a468d99_ENG_20040220_231100-0003
+576,specific,specific,3,amod,specific,1,inputs,input,5,20,newsgroup-groups.google.com_IndiaNewsWindow_434225fff269b2af_ENG_20051109_074500-0001
+577,preliminary,preliminary,3,amod,preliminary,1,interrogation,interrogation,4,20,newsgroup-groups.google.com_IndiaNewsWindow_434225fff269b2af_ENG_20051109_074500-0002
+578,several,several,17,amod,"several, vital",2,clues,clue,19,20,newsgroup-groups.google.com_IndiaNewsWindow_434225fff269b2af_ENG_20051109_074500-0002
+579,vital,vital,18,amod,"several, vital",2,clues,clue,19,20,newsgroup-groups.google.com_IndiaNewsWindow_434225fff269b2af_ENG_20051109_074500-0002
+580,ultimate,ultimate,3,amod,ultimate,1,program,program,4,23,newsgroup-groups.google.com_alt.animals_114e091e6bc84ab3_ENG_20040706_240600-0002
+581,first,first,11,amod,first,1,issue,issue,12,45,newsgroup-groups.google.com_DorothyofOz_7933f288ff583a7f_ENG_20050607_240200-0001
+582,local,local,19,amod,local,1,organizations,organization,21,45,newsgroup-groups.google.com_DorothyofOz_7933f288ff583a7f_ENG_20050607_240200-0001
+583,delicious,delicious,25,amod,delicious,1,reprint,reprint,26,45,newsgroup-groups.google.com_DorothyofOz_7933f288ff583a7f_ENG_20050607_240200-0001
+584,hot,hot,30,amod,"hot, new",2,cover,cover,33,45,newsgroup-groups.google.com_DorothyofOz_7933f288ff583a7f_ENG_20050607_240200-0001
+585,new,new,32,amod,"hot, new",2,cover,cover,33,45,newsgroup-groups.google.com_DorothyofOz_7933f288ff583a7f_ENG_20050607_240200-0001
+586,available,available,39,ccomp,available,1,,,,45,newsgroup-groups.google.com_DorothyofOz_7933f288ff583a7f_ENG_20050607_240200-0001
+587,bad,bad,29,amod,"bad, closer",2,news,news,30,47,newsgroup-groups.google.com_alt.animals_1054ad831ec01b4c_ENG_20031204_144900-0001
+588,non-human,non-human,34,amod,non-human,1,animals,animal,35,47,newsgroup-groups.google.com_alt.animals_1054ad831ec01b4c_ENG_20031204_144900-0001
+589,many,many,38,amod,many,1,species,species,39,47,newsgroup-groups.google.com_alt.animals_1054ad831ec01b4c_ENG_20031204_144900-0001
+590,closer,closer,41,obl,"bad, closer",2,news,news,30,47,newsgroup-groups.google.com_alt.animals_1054ad831ec01b4c_ENG_20031204_144900-0001
+591,OK,ok,17,ccomp,OK,1,,,,18,newsgroup-groups.google.com_AgeingMonkeys_37131d1864a0b950_ENG_20051114_080100-0001
+592,grateful,grateful,17,conj,grateful,1,,,,31,newsgroup-groups.google.com_AgeingMonkeys_37131d1864a0b950_ENG_20051114_080100-0002
+593,ible,ible,30,advcl,ible,1,,,,31,newsgroup-groups.google.com_AgeingMonkeys_37131d1864a0b950_ENG_20051114_080100-0002
+594,other,other,28,amod,"other, useful",2,things,thing,30,31,newsgroup-groups.google.com_AlexandrianReligiousStudies_ebcd97e243c4440b_ENG_20051021_201800-0001
+595,useful,useful,29,amod,"other, useful",2,things,thing,30,31,newsgroup-groups.google.com_AlexandrianReligiousStudies_ebcd97e243c4440b_ENG_20051021_201800-0001
+596,better,better,9,conj,better,1,,,,12,newsgroup-groups.google.com_AlexandrianReligiousStudies_ebcd97e243c4440b_ENG_20051021_201800-0003
+597,last,last,3,amod,last,1,message,message,5,52,newsgroup-groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100-0002
+598,weird,weird,9,xcomp,weird,1,,,,52,newsgroup-groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100-0002
+599,japanese,japanese,17,amod,japanese,1,website,website,18,52,newsgroup-groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100-0002
+600,real,real,40,amod,real,1,pictures,picture,41,52,newsgroup-groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100-0002
+601,happy,happy,7,root,happy,1,,,,14,newsgroup-groups.google.com_AlaskaTheLastFrontier_4709a6627e811b2a_ENG_20050530_201400-0001
+602,strong,strong,11,amod,strong,1,anti-smoker,anti-smoker,12,31,newsgroup-groups.google.com_AlaskaTheLastFrontier_4709a6627e811b2a_ENG_20050530_201400-0002
+603,hard,hard,24,ccomp,hard,1,,,,31,newsgroup-groups.google.com_AlaskaTheLastFrontier_4709a6627e811b2a_ENG_20050530_201400-0002
+604,Good,good,1,amod,Good,1,luck,luck,2,19,newsgroup-groups.google.com_AlaskaTheLastFrontier_4709a6627e811b2a_ENG_20050530_201400-0003
+605,free,free,18,acl,free,1,willpower,willpower,13,19,newsgroup-groups.google.com_AlaskaTheLastFrontier_4709a6627e811b2a_ENG_20050530_201400-0003
+606,sophisticated,sophisticated,28,amod,"sophisticated, conversational",2,language,language,30,31,newsgroup-groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000-0003
+607,conversational,conversational,29,amod,"sophisticated, conversational",2,language,language,30,31,newsgroup-groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000-0003
+608,major,major,4,amod,major,1,breakthrough,breakthrough,5,22,newsgroup-groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000-0004
+609,cool,cool,21,parataxis,cool,1,,,,22,newsgroup-groups.google.com_RagnarokOnlineII_5730bc7888fcee99_ENG_20051122_035600-0003
+610,rid,rid,9,xcomp,rid,1,,,,34,newsgroup-groups.google.com_alt.animals.cat_04d718686843b577_ENG_20040713_101600-0003
+611,youngest,youngest,22,parataxis,youngest,1,,,,34,newsgroup-groups.google.com_alt.animals.cat_04d718686843b577_ENG_20040713_101600-0003
+612,old,old,26,obl,"old, black, friendly",3,,,,34,newsgroup-groups.google.com_alt.animals.cat_04d718686843b577_ENG_20040713_101600-0003
+613,black,black,27,parataxis,"old, black, friendly",3,,,,34,newsgroup-groups.google.com_alt.animals.cat_04d718686843b577_ENG_20040713_101600-0003
+614,long,long,29,amod,long,1,hair,hair,30,34,newsgroup-groups.google.com_alt.animals.cat_04d718686843b577_ENG_20040713_101600-0003
+615,friendly,friendly,33,amod,"old, black, friendly",3,,,,34,newsgroup-groups.google.com_alt.animals.cat_04d718686843b577_ENG_20040713_101600-0003
+616,good,good,2,amod,good,1,family,family,3,17,newsgroup-groups.google.com_alt.animals.cat_04d718686843b577_ENG_20040713_101600-0005
+617,loving,loving,16,parataxis,loving,1,,,,17,newsgroup-groups.google.com_alt.animals.cat_04d718686843b577_ENG_20040713_101600-0005
+618,new,new,7,amod,new,1,home,home,9,10,newsgroup-groups.google.com_alt.animals.cat_119630d7ce2d2e9c_ENG_20051107_021600-0009
+619,able,able,11,conj,able,1,,,,19,newsgroup-groups.google.com_DungeonsDragonsChillicotheOH45601_022e6f4a0cd6fb61_ENG_20050829_233300-0002
+620,welcome,welcome,18,advcl,welcome,1,,,,19,newsgroup-groups.google.com_DungeonsDragonsChillicotheOH45601_022e6f4a0cd6fb61_ENG_20050829_233300-0002
+621,good,good,8,xcomp,good,1,,,,19,newsgroup-groups.google.com_DungeonsDragonsChillicotheOH45601_022e6f4a0cd6fb61_ENG_20050829_233300-0004
+622,former,former,2,amod,"former, Iraqi",2,leader,leader,4,24,newsgroup-groups.google.com_n3td3v_a04e0c855b022009_ENG_20051207_035500-0002
+623,Iraqi,iraqi,3,amod,"former, Iraqi",2,leader,leader,4,24,newsgroup-groups.google.com_n3td3v_a04e0c855b022009_ENG_20051207_035500-0002
+624,more,more,2,amod,more,1,details,detail,3,5,newsgroup-groups.google.com_n3td3v_a04e0c855b022009_ENG_20051207_035500-0003
+625,unsolicited,unsolicited,6,xcomp,unsolicited,1,,,,7,newsgroup-groups.google.com_n3td3v_a04e0c855b022009_ENG_20051207_035500-0005
+626,sad,sad,2,root,sad,1,,,,16,newsgroup-groups.google.com_hiddennook_0bfb82789af9c3c5_ENG_20050309_232400-0005
+627,next,next,13,amod,next,1,years,year,15,16,newsgroup-groups.google.com_hiddennook_0bfb82789af9c3c5_ENG_20050309_232400-0005
+628,dear,dear,2,amod,dear,1,members,member,4,5,newsgroup-groups.google.com_JyotishRemedies_7596b7f4aa16afa6_ENG_20050713_030900-0001
+629,multiple,multiple,2,amod,"multiple, planetary",2,afflictions,affliction,4,9,newsgroup-groups.google.com_JyotishRemedies_7596b7f4aa16afa6_ENG_20050713_030900-0002
+630,planetary,planetary,3,amod,"multiple, planetary",2,afflictions,affliction,4,9,newsgroup-groups.google.com_JyotishRemedies_7596b7f4aa16afa6_ENG_20050713_030900-0002
+631,conjunct,conjunct,7,root,conjunct,1,,,,17,newsgroup-groups.google.com_JyotishRemedies_7596b7f4aa16afa6_ENG_20050713_030900-0003
+632,national,national,3,amod,national,1,chart,chart,4,35,newsgroup-groups.google.com_JyotishRemedies_7596b7f4aa16afa6_ENG_20050713_030900-0004
+633,transit,transit,10,amod,transit,1,,,,35,newsgroup-groups.google.com_JyotishRemedies_7596b7f4aa16afa6_ENG_20050713_030900-0004
+634,fourth,fourth,14,amod,fourth,1,house,house,15,35,newsgroup-groups.google.com_JyotishRemedies_7596b7f4aa16afa6_ENG_20050713_030900-0004
+635,natal,natal,22,amod,natal,1,,,,35,newsgroup-groups.google.com_JyotishRemedies_7596b7f4aa16afa6_ENG_20050713_030900-0004
+636,close,close,30,amod,close,1,affliction,affliction,31,35,newsgroup-groups.google.com_JyotishRemedies_7596b7f4aa16afa6_ENG_20050713_030900-0004
+637,transit,transit,33,amod,transit,1,,,,35,newsgroup-groups.google.com_JyotishRemedies_7596b7f4aa16afa6_ENG_20050713_030900-0004
+638,major,major,6,amod,major,1,accident,accident,8,20,newsgroup-groups.google.com_JyotishRemedies_7596b7f4aa16afa6_ENG_20050713_030900-0005
+639,more,more,16,advmod,more,1,,,,20,newsgroup-groups.google.com_JyotishRemedies_7596b7f4aa16afa6_ENG_20050713_030900-0005
+640,Indian,indian,2,amod,"Indian, national",2,chart,chart,4,49,newsgroup-groups.google.com_JyotishRemedies_7596b7f4aa16afa6_ENG_20050713_030900-0006
+641,national,national,3,amod,"Indian, national",2,chart,chart,4,49,newsgroup-groups.google.com_JyotishRemedies_7596b7f4aa16afa6_ENG_20050713_030900-0006
+642,transit,transit,10,amod,transit,1,,,,49,newsgroup-groups.google.com_JyotishRemedies_7596b7f4aa16afa6_ENG_20050713_030900-0006
+643,natal,natal,17,amod,natal,1,,,,49,newsgroup-groups.google.com_JyotishRemedies_7596b7f4aa16afa6_ENG_20050713_030900-0006
+644,many,many,35,amod,many,1,parts,part,36,49,newsgroup-groups.google.com_JyotishRemedies_7596b7f4aa16afa6_ENG_20050713_030900-0006
+645,human,human,43,amod,human,1,lives,life,44,49,newsgroup-groups.google.com_JyotishRemedies_7596b7f4aa16afa6_ENG_20050713_030900-0006
+646,new,new,10,amod,new,1,pictures,picture,11,23,newsgroup-groups.google.com_alt.animals.cat_0382388c4d68ddf5_ENG_20031019_125000-0004
+647,more,more,2,advmod,more,1,,,,6,newsgroup-groups.google.com_alt.animals.cat_0382388c4d68ddf5_ENG_20031019_125000-0006
+648,new,new,4,advcl,new,1,,,,29,newsgroup-groups.google.com_alt.animals.cat_0382388c4d68ddf5_ENG_20031019_125000-0008
+649,more,more,19,advmod,more,1,,,,29,newsgroup-groups.google.com_alt.animals.cat_0382388c4d68ddf5_ENG_20031019_125000-0008
+650,cute,cute,24,amod,cute,1,cats,cat,25,29,newsgroup-groups.google.com_alt.animals.cat_0382388c4d68ddf5_ENG_20031019_125000-0008
+651,Most,most,1,nsubj,"Most, high",2,quality,quality,7,8,newsgroup-groups.google.com_alt.animals.cat_0382388c4d68ddf5_ENG_20031019_125000-0009
+652,high,high,6,amod,"Most, high",2,quality,quality,7,8,newsgroup-groups.google.com_alt.animals.cat_0382388c4d68ddf5_ENG_20031019_125000-0009
+653,own,own,14,amod,own,1,pictures,picture,15,23,newsgroup-groups.google.com_alt.animals.cat_0382388c4d68ddf5_ENG_20031019_125000-0011
+654,huge,huge,11,amod,huge,1,archive,archive,12,16,newsgroup-groups.google.com_alt.animals.cat_0382388c4d68ddf5_ENG_20031019_125000-0012
+655,great,great,12,root,great,1,,,,14,newsgroup-groups.google.com_alt.animals.cat_0382388c4d68ddf5_ENG_20031019_125000-0013
+656,great,great,3,xcomp,great,1,,,,6,newsgroup-groups.google.com_MeninLingerie_78adf09ead5e7e87_ENG_20041219_035800-0003
+657,First,first,1,amod,First,1,time,time,2,13,newsgroup-groups.google.com_MeninLingerie_78adf09ead5e7e87_ENG_20041219_035800-0004
+658,young,young,12,root,young,1,,,,13,newsgroup-groups.google.com_MeninLingerie_78adf09ead5e7e87_ENG_20041219_035800-0004
+659,good,good,7,ccomp,good,1,,,,11,newsgroup-groups.google.com_MeninLingerie_78adf09ead5e7e87_ENG_20041219_035800-0005
+660,ashamed,ashamed,3,root,ashamed,1,,,,30,newsgroup-groups.google.com_MeninLingerie_78adf09ead5e7e87_ENG_20041219_035800-0007
+661,seak,seak,29,conj,seak,1,seakness,seakness,18,30,newsgroup-groups.google.com_MeninLingerie_78adf09ead5e7e87_ENG_20041219_035800-0007
+662,harmless,harmless,5,amod,harmless,1,secret,secret,6,10,newsgroup-groups.google.com_MeninLingerie_78adf09ead5e7e87_ENG_20041219_035800-0009
+663,wrong,wrong,3,amod,wrong,1,,,,34,newsgroup-groups.google.com_MeninLingerie_78adf09ead5e7e87_ENG_20041219_035800-0013
+664,first,first,17,amod,first,1,thing,thing,18,34,newsgroup-groups.google.com_MeninLingerie_78adf09ead5e7e87_ENG_20041219_035800-0013
+665,nice,nice,25,amod,"nice, silky",2,nightgown,nightgown,27,34,newsgroup-groups.google.com_MeninLingerie_78adf09ead5e7e87_ENG_20041219_035800-0013
+666,silky,silky,26,amod,"nice, silky",2,nightgown,nightgown,27,34,newsgroup-groups.google.com_MeninLingerie_78adf09ead5e7e87_ENG_20041219_035800-0013
+667,Frequent,frequent,1,amod,Frequent,1,travelers,traveler,2,18,newsgroup-groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300-0003
+668,easy,easy,3,root,easy,1,,,,15,newsgroup-groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300-0004
+669,discount,discount,6,amod,discount,1,airfare,airfare,7,15,newsgroup-groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300-0004
+670,Cheap,cheap,1,amod,Cheap,1,tickets,ticket,3,5,newsgroup-groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300-0005
+671,cheap,cheap,7,amod,cheap,1,tickets,ticket,9,34,newsgroup-groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300-0006
+672,certain,certain,21,amod,certain,1,period,period,22,34,newsgroup-groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300-0006
+673,Corporate,corporate,1,amod,Corporate,1,plans,plan,2,18,newsgroup-groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300-0007
+674,other,other,6,amod,other,1,services,service,7,18,newsgroup-groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300-0007
+675,better,better,13,amod,better,1,service,service,14,18,newsgroup-groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300-0007
+676,Promotional,promotional,1,amod,"Promotional, discount",2,airfare,airfare,3,3,newsgroup-groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300-0008
+677,discount,discount,2,amod,"Promotional, discount",2,airfare,airfare,3,3,newsgroup-groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300-0008
+678,foreign,foreign,10,amod,foreign,1,visitors,visitor,11,18,newsgroup-groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300-0009
+679,cheap,cheap,7,amod,cheap,1,tickets,ticket,9,16,newsgroup-groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300-0010
+680,certain,certain,14,amod,certain,1,flights,flight,15,16,newsgroup-groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300-0010
+681,other,other,7,amod,other,1,airlines,airline,8,25,newsgroup-groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300-0011
+682,excellent,excellent,16,amod,"excellent, discount",2,airfare,airfare,18,25,newsgroup-groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300-0011
+683,discount,discount,17,amod,"excellent, discount",2,airfare,airfare,18,25,newsgroup-groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300-0011
+684,COMPLETE,complete,1,amod,COMPLETE,1,ARTICLE,article,2,5,newsgroup-groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300-0012
+685,Several,several,1,amod,Several,1,years,year,2,30,newsgroup-groups.google.com_homeopathyclinic_46a87f7e5ce279d5_ENG_20051107_133800-0001
+686,short,short,7,amod,short,1,test,test,12,30,newsgroup-groups.google.com_homeopathyclinic_46a87f7e5ce279d5_ENG_20051107_133800-0001
+687,small,small,17,amod,small,1,study,study,19,30,newsgroup-groups.google.com_homeopathyclinic_46a87f7e5ce279d5_ENG_20051107_133800-0001
+688,online,online,8,amod,online,1,test,test,9,39,newsgroup-groups.google.com_homeopathyclinic_46a87f7e5ce279d5_ENG_20051107_133800-0002
+689,larger,larger,17,amod,larger,1,population,population,18,39,newsgroup-groups.google.com_homeopathyclinic_46a87f7e5ce279d5_ENG_20051107_133800-0002
+690,available,available,26,xcomp,available,1,,,,39,newsgroup-groups.google.com_homeopathyclinic_46a87f7e5ce279d5_ENG_20051107_133800-0002
+691,available,available,11,root,available,1,,,,14,newsgroup-groups.google.com_homeopathyclinic_46a87f7e5ce279d5_ENG_20051107_133800-0006
+692,behavioral,behavioral,11,amod,behavioral,1,checklists,checklist,12,23,newsgroup-groups.google.com_homeopathyclinic_46a87f7e5ce279d5_ENG_20051107_133800-0008
+693,lengthy,lengthy,17,amod,"lengthy, intensive",2,test,test,20,23,newsgroup-groups.google.com_homeopathyclinic_46a87f7e5ce279d5_ENG_20051107_133800-0008
+694,intensive,intensive,19,amod,"lengthy, intensive",2,test,test,20,23,newsgroup-groups.google.com_homeopathyclinic_46a87f7e5ce279d5_ENG_20051107_133800-0008
+695,willing,willing,4,root,willing,1,,,,23,newsgroup-groups.google.com_homeopathyclinic_46a87f7e5ce279d5_ENG_20051107_133800-0009
+696,same,same,10,amod,same,1,tastes,taste,11,15,newsgroup-groups.google.com_alt.animals.badgers_2044a3376e5a87a5_ENG_20040529_135300-0001
+697,young,young,13,amod,young,1,age,age,14,29,newsgroup-groups.google.com_alt.animals.badgers_2044a3376e5a87a5_ENG_20040529_135300-0002
+698,strange,strange,19,amod,strange,1,urge,urge,23,29,newsgroup-groups.google.com_alt.animals.badgers_2044a3376e5a87a5_ENG_20040529_135300-0002
+699,gratifying,gratifying,22,conj,gratifying,1,,,,29,newsgroup-groups.google.com_alt.animals.badgers_2044a3376e5a87a5_ENG_20040529_135300-0002
+700,serious,serious,4,root,serious,1,,,,39,newsgroup-groups.google.com_alt.animals.badgers_2044a3376e5a87a5_ENG_20040529_135300-0003
+701,sexual,sexual,10,amod,sexual,1,releif,releif,11,39,newsgroup-groups.google.com_alt.animals.badgers_2044a3376e5a87a5_ENG_20040529_135300-0003
+702,true,true,37,amod,true,1,feelings,feeling,38,39,newsgroup-groups.google.com_alt.animals.badgers_2044a3376e5a87a5_ENG_20040529_135300-0003
+703,huge,huge,6,amod,huge,1,on,on,8,24,newsgroup-groups.google.com_alt.animals.badgers_2044a3376e5a87a5_ENG_20040529_135300-0004
+704,few,few,14,amod,few,1,words,word,15,24,newsgroup-groups.google.com_alt.animals.badgers_2044a3376e5a87a5_ENG_20040529_135300-0004
+705,mutual,mutual,22,amod,mutual,1,enthusiasts,enthusiast,23,24,newsgroup-groups.google.com_alt.animals.badgers_2044a3376e5a87a5_ENG_20040529_135300-0004
+706,sincere,sincere,1,amod,"sincere, genuine",2,appologies,appology,2,16,newsgroup-groups.google.com_alt.animals.badgers_2044a3376e5a87a5_ENG_20040529_135300-0005
+707,genuine,genuine,15,conj,"sincere, genuine",2,appologies,appology,2,16,newsgroup-groups.google.com_alt.animals.badgers_2044a3376e5a87a5_ENG_20040529_135300-0005
+708,Unlimited,unlimited,6,amod,"Unlimited, Uncensored, Secure",3,News,news,12,13,newsgroup-groups.google.com_alt.animals.badgers_2044a3376e5a87a5_ENG_20040529_135300-0006
+709,Uncensored,uncensored,8,amod,"Unlimited, Uncensored, Secure",3,News,news,12,13,newsgroup-groups.google.com_alt.animals.badgers_2044a3376e5a87a5_ENG_20040529_135300-0006
+710,Secure,secure,10,amod,"Unlimited, Uncensored, Secure",3,News,news,12,13,newsgroup-groups.google.com_alt.animals.badgers_2044a3376e5a87a5_ENG_20040529_135300-0006
+711,East,east,3,amod,East,1,Coast,coast,7,15,newsgroup-groups.google.com_alt.animals.badgers_2044a3376e5a87a5_ENG_20040529_135300-0009
+712,West,west,5,conj,West,1,,,,15,newsgroup-groups.google.com_alt.animals.badgers_2044a3376e5a87a5_ENG_20040529_135300-0009
+713,Specialized,specialized,8,amod,Specialized,1,Servers,server,9,15,newsgroup-groups.google.com_alt.animals.badgers_2044a3376e5a87a5_ENG_20040529_135300-0009
+714,Total,total,11,amod,Total,1,Privacy,privacy,12,15,newsgroup-groups.google.com_alt.animals.badgers_2044a3376e5a87a5_ENG_20040529_135300-0009
+715,Unlimited,unlimited,6,amod,"Unlimited, Uncensored, Secure",3,News,news,12,13,newsgroup-groups.google.com_alt.animals.badgers_2044a3376e5a87a5_ENG_20040529_135300-0010
+716,Uncensored,uncensored,8,amod,"Unlimited, Uncensored, Secure",3,News,news,12,13,newsgroup-groups.google.com_alt.animals.badgers_2044a3376e5a87a5_ENG_20040529_135300-0010
+717,Secure,secure,10,amod,"Unlimited, Uncensored, Secure",3,News,news,12,13,newsgroup-groups.google.com_alt.animals.badgers_2044a3376e5a87a5_ENG_20040529_135300-0010
+718,East,east,3,amod,East,1,Coast,coast,7,15,newsgroup-groups.google.com_alt.animals.badgers_2044a3376e5a87a5_ENG_20040529_135300-0013
+719,West,west,5,conj,West,1,,,,15,newsgroup-groups.google.com_alt.animals.badgers_2044a3376e5a87a5_ENG_20040529_135300-0013
+720,Specialized,specialized,8,amod,Specialized,1,Servers,server,9,15,newsgroup-groups.google.com_alt.animals.badgers_2044a3376e5a87a5_ENG_20040529_135300-0013
+721,Total,total,11,amod,Total,1,Privacy,privacy,12,15,newsgroup-groups.google.com_alt.animals.badgers_2044a3376e5a87a5_ENG_20040529_135300-0013
+722,freelance,freelance,4,amod,freelance,1,journalist,journalist,5,14,newsgroup-groups.google.com_eHolistic_b8e32f451114ecc2_ENG_20051118_192000-0003
+723,chief,chief,41,nmod,chief,1,editor,editor,37,47,newsgroup-groups.google.com_eHolistic_b8e32f451114ecc2_ENG_20051118_192000-0004
+724,natural,natural,9,amod,natural,1,supplements,supplement,10,44,newsgroup-groups.google.com_eHolistic_b8e32f451114ecc2_ENG_20051118_192000-0005
+725,first,first,6,amod,first,1,name,name,7,64,newsgroup-groups.google.com_eHolistic_b8e32f451114ecc2_ENG_20051118_192000-0006
+726,last,last,9,amod,last,1,initial,initial,10,64,newsgroup-groups.google.com_eHolistic_b8e32f451114ecc2_ENG_20051118_192000-0006
+727,natural,natural,18,amod,natural,1,supplement,supplement,19,64,newsgroup-groups.google.com_eHolistic_b8e32f451114ecc2_ENG_20051118_192000-0006
+728,therapeutic,therapeutic,27,amod,therapeutic,1,agents,agent,28,64,newsgroup-groups.google.com_eHolistic_b8e32f451114ecc2_ENG_20051118_192000-0006
+729,green,green,36,compound,green,1,tea,tea,39,64,newsgroup-groups.google.com_eHolistic_b8e32f451114ecc2_ENG_20051118_192000-0006
+730,Warm,warm,1,amod,Warm,1,regards,regards,2,3,newsgroup-groups.google.com_eHolistic_b8e32f451114ecc2_ENG_20051118_192000-0009
+731,specific,specific,11,advcl,specific,1,,,,35,newsgroup-groups.google.com_eHolistic_e470976a8f836699_ENG_20050829_183800-0001
+732,small,small,25,amod,"small, Indian",2,village,village,29,35,newsgroup-groups.google.com_eHolistic_e470976a8f836699_ENG_20050829_183800-0001
+733,remote,remote,27,conj,remote,1,,,,35,newsgroup-groups.google.com_eHolistic_e470976a8f836699_ENG_20050829_183800-0001
+734,Indian,indian,28,amod,"small, Indian",2,village,village,29,35,newsgroup-groups.google.com_eHolistic_e470976a8f836699_ENG_20050829_183800-0001
+735,vast,vast,5,amod,vast,1,amounts,amount,6,25,newsgroup-groups.google.com_eHolistic_e470976a8f836699_ENG_20050829_183800-0002
+736,local,local,12,amod,local,1,land,land,13,25,newsgroup-groups.google.com_eHolistic_e470976a8f836699_ENG_20050829_183800-0002
+737,mighty,mighty,16,amod,mighty,1,corporation,corporation,17,25,newsgroup-groups.google.com_eHolistic_e470976a8f836699_ENG_20050829_183800-0002
+738,great,great,23,amod,great,1,wealth,wealth,24,25,newsgroup-groups.google.com_eHolistic_e470976a8f836699_ENG_20050829_183800-0002
+739,few,few,4,amod,"few, short",2,months,month,6,26,newsgroup-groups.google.com_eHolistic_e470976a8f836699_ENG_20050829_183800-0003
+740,short,short,5,amod,"few, short",2,months,month,6,26,newsgroup-groups.google.com_eHolistic_e470976a8f836699_ENG_20050829_183800-0003
+741,dry,dry,18,xcomp,dry,1,,,,26,newsgroup-groups.google.com_eHolistic_e470976a8f836699_ENG_20050829_183800-0003
+742,vast,vast,20,amod,vast,1,amounts,amount,21,36,newsgroup-groups.google.com_eHolistic_e470976a8f836699_ENG_20050829_183800-0004
+743,free,free,23,amod,free,1,fertilizer,fertilizer,24,36,newsgroup-groups.google.com_eHolistic_e470976a8f836699_ENG_20050829_183800-0004
+744,bountiful,bountiful,30,amod,bountiful,1,crops,crop,31,36,newsgroup-groups.google.com_eHolistic_e470976a8f836699_ENG_20050829_183800-0004
+745,wildest,wildest,34,amod,wildest,1,dreams,dream,35,36,newsgroup-groups.google.com_eHolistic_e470976a8f836699_ENG_20050829_183800-0004
+746,several,several,2,amod,several,1,years,year,3,45,newsgroup-groups.google.com_eHolistic_e470976a8f836699_ENG_20050829_183800-0005
+747,present,present,11,amod,present,1,day,day,12,45,newsgroup-groups.google.com_eHolistic_e470976a8f836699_ENG_20050829_183800-0005
+748,laden,laden,32,conj,laden,1,sludge,sludge,29,45,newsgroup-groups.google.com_eHolistic_e470976a8f836699_ENG_20050829_183800-0005
+749,toxic,toxic,38,amod,"toxic, heavy",2,metal,metal,44,45,newsgroup-groups.google.com_eHolistic_e470976a8f836699_ENG_20050829_183800-0005
+750,heavy,heavy,43,amod,"toxic, heavy",2,metal,metal,44,45,newsgroup-groups.google.com_eHolistic_e470976a8f836699_ENG_20050829_183800-0005
+751,human,human,14,amod,human,1,life,life,15,25,newsgroup-groups.google.com_eHolistic_e470976a8f836699_ENG_20050829_183800-0006
+752,last,last,23,amod,last,1,week,week,24,25,newsgroup-groups.google.com_eHolistic_e470976a8f836699_ENG_20050829_183800-0006
+753,similar,similar,17,amod,similar,1,crimes,crime,18,22,newsgroup-groups.google.com_eHolistic_e470976a8f836699_ENG_20050829_183800-0008
+754,last,last,27,amod,last,1,week,week,28,29,newsgroup-groups.google.com_KatrinaAlliance_5aa2d7f53b76354f_ENG_20051125_134100-0001
+755,former,former,27,amod,former,1,residents,resident,32,65,newsgroup-groups.google.com_KatrinaAlliance_5aa2d7f53b76354f_ENG_20051125_134100-0002
+756,current,current,2,amod,current,1,complaints,complaint,3,31,newsgroup-groups.google.com_KatrinaAlliance_5aa2d7f53b76354f_ENG_20051125_134100-0003
+757,qualified,qualified,10,amod,"qualified, former",2,residents,resident,14,31,newsgroup-groups.google.com_KatrinaAlliance_5aa2d7f53b76354f_ENG_20051125_134100-0003
+758,former,former,11,amod,"qualified, former",2,residents,resident,14,31,newsgroup-groups.google.com_KatrinaAlliance_5aa2d7f53b76354f_ENG_20051125_134100-0003
+759,available,available,20,amod,available,1,units,unit,23,31,newsgroup-groups.google.com_KatrinaAlliance_5aa2d7f53b76354f_ENG_20051125_134100-0003
+760,public,public,21,amod,public,1,housing,housing,22,31,newsgroup-groups.google.com_KatrinaAlliance_5aa2d7f53b76354f_ENG_20051125_134100-0003
+761,former,former,12,amod,former,1,residents,resident,13,37,newsgroup-groups.google.com_KatrinaAlliance_5aa2d7f53b76354f_ENG_20051125_134100-0004
+762,available,available,21,amod,available,1,units,unit,24,37,newsgroup-groups.google.com_KatrinaAlliance_5aa2d7f53b76354f_ENG_20051125_134100-0004
+763,public,public,22,amod,public,1,housing,housing,23,37,newsgroup-groups.google.com_KatrinaAlliance_5aa2d7f53b76354f_ENG_20051125_134100-0004
+764,public,public,3,amod,public,1,housing,housing,4,29,newsgroup-groups.google.com_KatrinaAlliance_5aa2d7f53b76354f_ENG_20051125_134100-0005
+765,unable,unable,8,root,unable,1,,,,29,newsgroup-groups.google.com_KatrinaAlliance_5aa2d7f53b76354f_ENG_20051125_134100-0005
+766,prior,prior,17,case,prior,1,storm,storm,20,29,newsgroup-groups.google.com_KatrinaAlliance_5aa2d7f53b76354f_ENG_20051125_134100-0005
+767,homeless,homeless,24,xcomp,homeless,1,,,,29,newsgroup-groups.google.com_KatrinaAlliance_5aa2d7f53b76354f_ENG_20051125_134100-0005
+768,affordable,affordable,9,amod,affordable,1,housing,housing,10,19,newsgroup-groups.google.com_KatrinaAlliance_5aa2d7f53b76354f_ENG_20051125_134100-0006
+769,scarce,scarce,16,root,scarce,1,,,,19,newsgroup-groups.google.com_KatrinaAlliance_5aa2d7f53b76354f_ENG_20051125_134100-0006
+770,such,such,2,obl,such,1,,,,22,newsgroup-groups.google.com_KatrinaAlliance_5aa2d7f53b76354f_ENG_20051125_134100-0007
+771,essential,essential,6,ccomp,essential,1,,,,22,newsgroup-groups.google.com_KatrinaAlliance_5aa2d7f53b76354f_ENG_20051125_134100-0007
+772,Crude,crude,1,amod,Crude,1,oil,oil,3,28,newsgroup-groups.google.com_marketplace_e019a6deff0a1c7f_ENG_20050922_024300-0001
+773,main,main,4,amod,main,1,contract,contract,5,24,newsgroup-groups.google.com_marketplace_e019a6deff0a1c7f_ENG_20050922_024300-0002
+774,light,light,7,amod,"light, sweet",2,crude,crude,9,24,newsgroup-groups.google.com_marketplace_e019a6deff0a1c7f_ENG_20050922_024300-0002
+775,sweet,sweet,8,amod,"light, sweet",2,crude,crude,9,24,newsgroup-groups.google.com_marketplace_e019a6deff0a1c7f_ENG_20050922_024300-0002
+776,dangerous,dangerous,11,ccomp,dangerous,1,,,,29,newsgroup-groups.google.com_marketplace_e019a6deff0a1c7f_ENG_20050922_024300-0005
+777,top,top,17,amod,top,1,level,level,19,29,newsgroup-groups.google.com_marketplace_e019a6deff0a1c7f_ENG_20050922_024300-0005
+778,offshore,offshore,4,amod,offshore,1,facilities,facility,5,16,newsgroup-groups.google.com_marketplace_e019a6deff0a1c7f_ENG_20050922_024300-0007
+779,global,global,12,amod,global,1,markets,market,13,16,newsgroup-groups.google.com_marketplace_e019a6deff0a1c7f_ENG_20050922_024300-0007
+780,nonessential,nonessential,4,amod,nonessential,1,staff,staff,5,11,newsgroup-groups.google.com_marketplace_e019a6deff0a1c7f_ENG_20050922_024300-0010
+781,giant,giant,8,amod,giant,1,plants,plant,10,11,newsgroup-groups.google.com_marketplace_e019a6deff0a1c7f_ENG_20050922_024300-0010
+782,Last,last,1,amod,Last,1,month,month,2,23,newsgroup-groups.google.com_marketplace_e019a6deff0a1c7f_ENG_20050922_024300-0011
+783,record,record,16,amod,record,1,high,high,17,23,newsgroup-groups.google.com_marketplace_e019a6deff0a1c7f_ENG_20050922_024300-0011
+784,excelnt,excelnt,8,acl:relcl,excelnt,1,link,link,4,16,newsgroup-groups.google.com_marketplace_e019a6deff0a1c7f_ENG_20050922_024300-0012
+785,private,private,5,amod,private,1,companies,company,6,23,newsgroup-groups.google.com_hiddennook_edef226e24a57863_ENG_20051116_085200-0003
+786,effective,effective,7,ccomp,effective,1,,,,45,newsgroup-groups.google.com_hiddennook_edef226e24a57863_ENG_20051116_085200-0005
+787,same,same,14,amod,same,1,time,time,15,45,newsgroup-groups.google.com_hiddennook_edef226e24a57863_ENG_20051116_085200-0005
+788,wise,wise,7,amod,wise,1,alternative,alternative,8,21,newsgroup-groups.google.com_hiddennook_edef226e24a57863_ENG_20051116_085200-0007
+789,private,private,15,amod,private,1,sector,sector,16,21,newsgroup-groups.google.com_hiddennook_edef226e24a57863_ENG_20051116_085200-0007
+790,private,private,11,amod,private,1,sector,sector,12,32,newsgroup-groups.google.com_hiddennook_edef226e24a57863_ENG_20051116_085200-0008
+791,public,public,17,amod,public,1,good,good,18,32,newsgroup-groups.google.com_hiddennook_edef226e24a57863_ENG_20051116_085200-0008
+792,hesitant,hesitant,22,xcomp,hesitant,1,,,,32,newsgroup-groups.google.com_hiddennook_edef226e24a57863_ENG_20051116_085200-0008
+793,corporate,corporate,30,amod,corporate,1,world,world,31,32,newsgroup-groups.google.com_hiddennook_edef226e24a57863_ENG_20051116_085200-0008
+794,commercial,commercial,27,amod,commercial,1,project,project,31,35,newsgroup-groups.google.com_hiddennook_edef226e24a57863_ENG_20051116_085200-0010
+795,financial,financial,6,amod,financial,1,incentive,incentive,7,24,newsgroup-groups.google.com_hiddennook_edef226e24a57863_ENG_20051116_085200-0011
+796,sufficient,sufficient,13,ccomp,sufficient,1,,,,24,newsgroup-groups.google.com_hiddennook_edef226e24a57863_ENG_20051116_085200-0011
+797,substantial,substantial,16,amod,substantial,1,providers,provider,17,24,newsgroup-groups.google.com_hiddennook_edef226e24a57863_ENG_20051116_085200-0011
+798,private,private,5,amod,private,1,sector,sector,6,46,newsgroup-groups.google.com_hiddennook_edef226e24a57863_ENG_20051116_085200-0014
+799,able,able,9,ccomp,able,1,,,,46,newsgroup-groups.google.com_hiddennook_edef226e24a57863_ENG_20051116_085200-0014
+800,corporate,corporate,34,amod,corporate,1,,,,46,newsgroup-groups.google.com_hiddennook_edef226e24a57863_ENG_20051116_085200-0014
+801,able,able,37,advcl,able,1,,,,46,newsgroup-groups.google.com_hiddennook_edef226e24a57863_ENG_20051116_085200-0014
+802,bureaucratic,bureaucratic,42,amod,bureaucratic,1,friends,friend,43,46,newsgroup-groups.google.com_hiddennook_edef226e24a57863_ENG_20051116_085200-0014
+803,semi-objective,semi-objective,5,root,semi-objective,1,,,,48,newsgroup-groups.google.com_hiddennook_23708a8afef2f3a8_ENG_20041226_230600-0002
+804,Palestinian,palestinian,20,amod,Palestinian,1,Leader,leader,21,48,newsgroup-groups.google.com_hiddennook_23708a8afef2f3a8_ENG_20041226_230600-0002
+805,certain,certain,4,root,certain,1,,,,7,newsgroup-groups.google.com_hiddennook_23708a8afef2f3a8_ENG_20041226_230600-0003
+806,sure,sure,6,obl,sure,1,,,,7,newsgroup-groups.google.com_hiddennook_23708a8afef2f3a8_ENG_20041226_230600-0003
+807,potential,potential,13,amod,potential,1,talks,talk,15,40,newsgroup-groups.google.com_hiddennook_23708a8afef2f3a8_ENG_20041226_230600-0004
+808,better,better,28,amod,better,1,job,job,29,40,newsgroup-groups.google.com_hiddennook_23708a8afef2f3a8_ENG_20041226_230600-0004
+809,Interim,interim,1,amod,"Interim, Palestinian",2,leader,leader,3,40,newsgroup-groups.google.com_hiddennook_23708a8afef2f3a8_ENG_20041226_230600-0006
+810,Palestinian,palestinian,2,amod,"Interim, Palestinian",2,leader,leader,3,40,newsgroup-groups.google.com_hiddennook_23708a8afef2f3a8_ENG_20041226_230600-0006
+811,upcoming,upcoming,11,amod,"upcoming, presidential",2,election,election,17,40,newsgroup-groups.google.com_hiddennook_23708a8afef2f3a8_ENG_20041226_230600-0006
+812,presidential,presidential,16,amod,"upcoming, presidential",2,election,election,17,40,newsgroup-groups.google.com_hiddennook_23708a8afef2f3a8_ENG_20041226_230600-0006
+813,first,first,23,amod,"first, official",2,speech,speech,26,40,newsgroup-groups.google.com_hiddennook_23708a8afef2f3a8_ENG_20041226_230600-0006
+814,official,official,24,amod,"first, official",2,speech,speech,26,40,newsgroup-groups.google.com_hiddennook_23708a8afef2f3a8_ENG_20041226_230600-0006
+815,Palestinian,palestinian,13,amod,Palestinian,1,dreams,dream,14,17,newsgroup-groups.google.com_hiddennook_23708a8afef2f3a8_ENG_20041226_230600-0007
+816,Palestinian,palestinian,5,amod,"Palestinian, upcoming",2,leadership,leadership,6,18,newsgroup-groups.google.com_hiddennook_23708a8afef2f3a8_ENG_20041226_230600-0008
+817,upcoming,upcoming,8,amod,"Palestinian, upcoming",2,leadership,leadership,6,18,newsgroup-groups.google.com_hiddennook_23708a8afef2f3a8_ENG_20041226_230600-0008
+818,determined,determined,16,ccomp,determined,1,,,,35,newsgroup-groups.google.com_hiddennook_23708a8afef2f3a8_ENG_20041226_230600-0010
+819,Palestinian,palestinian,11,amod,Palestinian,1,refugees,refugee,12,16,newsgroup-groups.google.com_hiddennook_23708a8afef2f3a8_ENG_20041226_230600-0011
+820,northern,northern,11,amod,"northern, Israeli",2,city,city,13,28,newsgroup-groups.google.com_hiddennook_23708a8afef2f3a8_ENG_20041226_230600-0012
+821,Israeli,israeli,12,amod,"northern, Israeli",2,city,city,13,28,newsgroup-groups.google.com_hiddennook_23708a8afef2f3a8_ENG_20041226_230600-0012
+822,important,important,23,xcomp,important,1,,,,28,newsgroup-groups.google.com_hiddennook_23708a8afef2f3a8_ENG_20041226_230600-0012
+823,dangerous,dangerous,26,conj,dangerous,1,,,,28,newsgroup-groups.google.com_hiddennook_23708a8afef2f3a8_ENG_20041226_230600-0012
+824,new,new,15,amod,"new, political",2,voice,voice,17,25,newsgroup-groups.google.com_hiddennook_23708a8afef2f3a8_ENG_20041226_230600-0013
+825,political,political,16,amod,"new, political",2,voice,voice,17,25,newsgroup-groups.google.com_hiddennook_23708a8afef2f3a8_ENG_20041226_230600-0013
+826,former,former,7,amod,former,1,thinking,thinking,8,33,newsgroup-groups.google.com_hiddennook_23708a8afef2f3a8_ENG_20041226_230600-0014
+827,Palestinian,palestinian,2,amod,"Palestinian, militant",2,organisation,organisation,4,25,newsgroup-groups.google.com_hiddennook_5380fdd00f8e5e56_ENG_20050926_194800-0004
+828,militant,militant,3,amod,"Palestinian, militant",2,organisation,organisation,4,25,newsgroup-groups.google.com_hiddennook_5380fdd00f8e5e56_ENG_20050926_194800-0004
+829,militant,militant,13,amod,militant,1,leaders,leader,14,18,newsgroup-groups.google.com_hiddennook_5380fdd00f8e5e56_ENG_20050926_194800-0006
+830,unrestricted,unrestricted,8,amod,unrestricted,1,strikes,strike,10,19,newsgroup-groups.google.com_hiddennook_5380fdd00f8e5e56_ENG_20050926_194800-0007
+831,new,new,15,amod,new,1,attacks,attack,17,19,newsgroup-groups.google.com_hiddennook_5380fdd00f8e5e56_ENG_20050926_194800-0007
+832,unable,unable,15,parataxis,unable,1,,,,30,newsgroup-groups.google.com_hiddennook_5380fdd00f8e5e56_ENG_20050926_194800-0008
+833,former,former,15,amod,former,1,leader,leader,16,21,newsgroup-groups.google.com_hiddennook_5380fdd00f8e5e56_ENG_20050926_194800-0009
+834,unpopular,unpopular,5,xcomp,unpopular,1,,,,26,newsgroup-groups.google.com_hiddennook_5380fdd00f8e5e56_ENG_20050926_194800-0010
+835,many,many,10,nsubj,many,1,,,,26,newsgroup-groups.google.com_hiddennook_5380fdd00f8e5e56_ENG_20050926_194800-0010
+836,Israeli,israeli,13,amod,Israeli,1,strikes,strike,15,26,newsgroup-groups.google.com_hiddennook_5380fdd00f8e5e56_ENG_20050926_194800-0010
+837,Israeli,israeli,24,amod,Israeli,1,soil,soil,25,26,newsgroup-groups.google.com_hiddennook_5380fdd00f8e5e56_ENG_20050926_194800-0010
+838,same,same,18,nsubj:pass,same,1,,,,26,newsgroup-groups.google.com_hiddennook_5380fdd00f8e5e56_ENG_20050926_194800-0011
+839,happy,happy,5,ccomp,happy,1,,,,34,newsgroup-groups.google.com_hiddennook_5380fdd00f8e5e56_ENG_20050926_194800-0013
+840,Israeli,israeli,18,amod,Israeli,1,escalation,escalation,19,34,newsgroup-groups.google.com_hiddennook_5380fdd00f8e5e56_ENG_20050926_194800-0013
+841,senior,senior,30,amod,senior,1,official,official,33,34,newsgroup-groups.google.com_hiddennook_5380fdd00f8e5e56_ENG_20050926_194800-0013
+842,own,own,9,amod,"own, political",2,agenda,agenda,11,13,newsgroup-groups.google.com_hiddennook_5380fdd00f8e5e56_ENG_20050926_194800-0014
+843,political,political,10,amod,"own, political",2,agenda,agenda,11,13,newsgroup-groups.google.com_hiddennook_5380fdd00f8e5e56_ENG_20050926_194800-0014
+844,Palestinian,palestinian,8,amod,Palestinian,1,groups,group,10,26,newsgroup-groups.google.com_hiddennook_5380fdd00f8e5e56_ENG_20050926_194800-0016
+845,Israeli,israeli,15,amod,Israeli,1,occupation,occupation,16,25,newsgroup-groups.google.com_hiddennook_5380fdd00f8e5e56_ENG_20050926_194800-0017
+846,civil,civil,8,amod,civil,1,war,war,9,11,newsgroup-groups.google.com_hiddennook_5380fdd00f8e5e56_ENG_20050926_194800-0018
+847,vast,vast,21,amod,vast,1,battlefield,battlefield,22,24,newsgroup-groups.google.com_hiddennook_5380fdd00f8e5e56_ENG_20050926_194800-0019
+848,done,done,21,acl:relcl,done,1,time,time,18,50,newsgroup-groups.google.com_hiddennook_5380fdd00f8e5e56_ENG_20050926_194800-0020
+849,critical,critical,26,amod,critical,1,error,error,27,50,newsgroup-groups.google.com_hiddennook_5380fdd00f8e5e56_ENG_20050926_194800-0020
+850,only,only,32,amod,only,1,thing,thing,33,50,newsgroup-groups.google.com_hiddennook_5380fdd00f8e5e56_ENG_20050926_194800-0020
+851,big,big,4,root,big,1,,,,9,answers-20090605110350AA2V8bW_ans-0001
+852,small,small,7,amod,small,1,country,country,8,9,answers-20090605110350AA2V8bW_ans-0001
+853,much,much,2,root,much,1,,,,10,answers-20110909115731AAl3uzs_ans-0001
+854,Argentinian,argentinian,1,amod,Argentinian,1,foods,food,2,7,answers-20090717131608AAqDfYJ_ans-0002
+855,good,good,7,amod,good,1,seafood,seafood,8,9,answers-20090717131608AAqDfYJ_ans-0005
+856,proud,proud,6,conj,proud,1,,,,19,answers-20111108003939AA3pvxF_ans-0002
+857,several,several,3,nsubj,several,1,,,,9,answers-20100308180028AAHCoBv_ans-0004
+858,beautiful,beautiful,7,amod,beautiful,1,beach,beach,8,9,answers-20100308180028AAHCoBv_ans-0004
+859,tight,tight,12,obj,tight,1,,,,13,answers-20111107224336AAxQbzk_ans-0002
+860,Spanish,spanish,8,amod,Spanish,1,countries,country,9,22,answers-20080426141111AAgPUwU_ans-0002
+861,more,more,5,amod,more,1,info,info,6,7,answers-20080426141111AAgPUwU_ans-0003
+862,own,own,4,amod,own,1,website,website,5,15,answers-20111108082040AAmrGJ5_ans-0004
+863,human,human,9,amod,human,1,statue,statue,10,17,answers-20111107213255AAT0HQq_ans-0001
+864,many,many,2,amod,many,1,days,day,3,14,answers-20111108084633AAzZD8i_ans-0001
+865,lucky,lucky,8,advcl,lucky,1,DAYS,day,4,16,answers-20111108084633AAzZD8i_ans-0003
+866,average,average,10,obl,average,1,,,,16,answers-20111108084633AAzZD8i_ans-0003
+867,nearest,nearest,4,amod,nearest,1,,,,11,answers-20111108092417AAt9bST_ans-0001
+868,closest,closest,9,root,closest,1,,,,10,answers-20111108092417AAt9bST_ans-0002
+869,closer,closer,7,root,closer,1,,,,8,answers-20111108092417AAt9bST_ans-0003
+870,national,national,5,amod,"national, beautiful",2,park,park,6,12,answers-20111108092417AAt9bST_ans-0004
+871,beautiful,beautiful,11,conj,"national, beautiful",2,park,park,6,12,answers-20111108092417AAt9bST_ans-0004
+872,best,best,4,amod,best,1,answer,answer,5,14,answers-20090705172848AAU56mj_ans-0003
+873,first,first,8,amod,first,1,person,person,9,14,answers-20090705172848AAU56mj_ans-0003
+874,right,right,13,xcomp,right,1,,,,14,answers-20090705172848AAU56mj_ans-0003
+875,Bare,bare,3,amod,Bare,1,knuckle,knuckle,5,9,answers-20111108033619AAb3VQ4_ans-0001
+876,Certain,certain,1,amod,Certain,1,elements,element,2,17,answers-20111108033619AAb3VQ4_ans-0002
+877,bare,bare,7,amod,bare,1,knuckle,knuckle,8,10,answers-20111108033619AAb3VQ4_ans-0004
+878,GOOD,good,4,amod,GOOD,1,clubs,club,7,12,answers-20111105145356AAtOJyP_ans-0001
+879,much,much,5,amod,much,1,space,space,6,6,answers-20100605133330AAeW6nm_ans-0002
+880,senior,senior,9,amod,senior,1,citizens,citizen,10,17,answers-20100605133330AAeW6nm_ans-0003
+881,old,old,13,amod,old,1,soldiers,soldier,14,17,answers-20100605133330AAeW6nm_ans-0003
+882,library,library,5,obl,library,1,,,,9,answers-20100605133330AAeW6nm_ans-0005
+883,stupid,stupid,4,amod,stupid,1,name,name,5,9,answers-20111108102900AA9qsc8_ans-0001
+884,short,short,7,obl,short,1,,,,7,answers-20111108102900AA9qsc8_ans-0002
+885,stupid,stupid,15,amod,stupid,1,name,name,16,17,answers-20111108102900AA9qsc8_ans-0003
+886,great,great,4,amod,great,1,name,name,5,6,answers-20111108102900AA9qsc8_ans-0006
+887,fun,fun,21,amod,fun,1,things,thing,22,27,answers-20111105140228AANN2ZV_ans-0002
+888,real,real,8,amod,real,1,restaurant,restaurant,9,19,answers-20090625143116AAhML1y_ans-0003
+889,good,good,19,parataxis,good,1,,,,19,answers-20090625143116AAhML1y_ans-0003
+890,best,best,4,root,best,1,,,,6,answers-20090625143116AAhML1y_ans-0004
+891,migratory,migratory,8,amod,migratory,1,birds,bird,9,12,answers-20111108075111AAmNees_ans-0001
+892,migratory,migratory,19,amod,migratory,1,birds,bird,20,22,answers-20111108075111AAmNees_ans-0002
+893,unsure,unsure,3,root,unsure,1,,,,23,answers-20111024210339AAIqPa3_ans-0003
+894,many,many,20,amod,"many, different",2,ways,way,22,23,answers-20111024210339AAIqPa3_ans-0003
+895,different,different,21,amod,"many, different",2,ways,way,22,23,answers-20111024210339AAIqPa3_ans-0003
+896,own,own,10,obl,own,1,,,,19,answers-20111108111203AA6gfnr_ans-0002
+897,under,under,2,amod,under,1,12's,12',3,4,answers-20111108111203AA6gfnr_ans-0003
+898,late,late,10,amod,late,1,,,,26,answers-20111024210025AAVtDL7_ans-0002
+899,many,many,13,amod,many,1,ways,way,14,15,answers-20111024210025AAVtDL7_ans-0003
+900,missing,missing,19,xcomp,missing,1,,,,39,answers-20111108090559AAyAHCk_ans-0003
+901,full,full,35,amod,full,1,owners,owner,36,39,answers-20111108090559AAyAHCk_ans-0003
+902,whole,whole,5,amod,whole,1,thing,thing,6,8,answers-20070723111604AAzUvhb_ans-0006
+903,real,real,4,root,real,1,,,,15,answers-20070723111604AAzUvhb_ans-0007
+904,stranger,stranger,5,amod,stranger,1,names,name,6,14,answers-20070723111604AAzUvhb_ans-0008
+905,famous,famous,6,amod,famous,1,trainer,trainer,8,11,answers-20070723111604AAzUvhb_ans-0009
+906,good,good,4,amod,good,1,recipe,recipe,5,10,answers-20081229195853AAYQ8mR_ans-0001
+907,other,other,6,amod,other,1,empanadas,empanada,7,13,answers-20081229195853AAYQ8mR_ans-0002
+908,other,other,4,amod,other,1,empanadas,empanada,5,5,answers-20081229195853AAYQ8mR_ans-0007
+909,lost,lost,16,obl,lost,1,,,,23,answers-20111108084227AAtbjAp_ans-0001
+910,new,new,3,amod,new,1,phone,phone,4,4,answers-20111108084227AAtbjAp_ans-0003
+911,illegal,illegal,3,root,illegal,1,,,,18,answers-20111108084227AAtbjAp_ans-0005
+912,about,about,13,parataxis,about,1,,,,32,answers-20111107180248AAnQ3aE_ans-0004
+913,new,new,28,amod,"new, best",2,friend,friend,30,32,answers-20111107180248AAnQ3aE_ans-0004
+914,best,best,29,amod,"new, best",2,friend,friend,30,32,answers-20111107180248AAnQ3aE_ans-0004
+915,pregnant,pregnant,3,root,pregnant,1,,,,4,answers-20111107180248AAnQ3aE_ans-0006
+916,else,else,16,amod,else,1,,,,22,answers-20111108083850AAzIsFI_ans-0001
+917,enough,enough,4,root,enough,1,,,,9,answers-20111108083850AAzIsFI_ans-0004
+918,academic,academic,4,amod,academic,1,adviser,adviser,5,11,answers-20111108083850AAzIsFI_ans-0005
+919,normal,normal,4,amod,normal,1,photography,photography,6,14,answers-20111108083850AAzIsFI_ans-0006
+920,forensic,forensic,8,amod,forensic,1,photography,photography,9,14,answers-20111108083850AAzIsFI_ans-0006
+921,first,first,5,amod,"first, Smart",2,Phone,phone,7,8,answers-20111108083304AAryBu9_ans-0001
+922,Smart,smart,6,amod,"first, Smart",2,Phone,phone,7,8,answers-20111108083304AAryBu9_ans-0001
+923,first,first,18,amod,"first, Smart",2,Phone,phone,20,21,answers-20111108083304AAryBu9_ans-0002
+924,Smart,smart,19,amod,"first, Smart",2,Phone,phone,20,21,answers-20111108083304AAryBu9_ans-0002
+925,first,first,9,advcl,first,1,,,,17,answers-20111108083304AAryBu9_ans-0004
+926,real,real,11,amod,real,1,email,email,12,17,answers-20111108083304AAryBu9_ans-0004
+927,first,first,5,amod,"first, Officiol, smart",3,phone,phone,12,13,answers-20111108083304AAryBu9_ans-0005
+928,Officiol,officiol,7,amod,"first, Officiol, smart",3,phone,phone,12,13,answers-20111108083304AAryBu9_ans-0005
+929,touch,touch,9,amod,touch,1,screen,screen,10,13,answers-20111108083304AAryBu9_ans-0005
+930,smart,smart,11,amod,"first, Officiol, smart",3,phone,phone,12,13,answers-20111108083304AAryBu9_ans-0005
+931,same,same,6,amod,same,1,$$$,$$$,7,11,answers-20111108072305AAPJTjj_ans-0003
+932,compact,compact,4,root,compact,1,,,,28,answers-20111108072305AAPJTjj_ans-0005
+933,faster,faster,15,amod,faster,1,lens,lens,16,28,answers-20111108072305AAPJTjj_ans-0005
+934,only,only,22,amod,only,1,f,f,23,28,answers-20111108072305AAPJTjj_ans-0005
+935,full,full,3,amod,full,1,video,video,5,15,answers-20111108072305AAPJTjj_ans-0006
+936,stereo,stereo,7,amod,stereo,1,recording,recording,8,15,answers-20111108072305AAPJTjj_ans-0006
+937,larger,larger,6,amod,larger,1,screen,screen,7,14,answers-20111108072305AAPJTjj_ans-0007
+938,new,new,10,amod,new,1,processor,processor,13,14,answers-20111108072305AAPJTjj_ans-0007
+939,international,international,4,amod,international,1,cruise,cruise,6,7,answers-20111107173224AA22AwU_ans-0001
+940,private,private,6,amod,private,1,cruise,cruise,8,14,answers-20111107173224AA22AwU_ans-0002
+941,few,few,7,amod,few,1,days,day,8,9,answers-20111107173224AA22AwU_ans-0003
+942,unsure,unsure,4,advcl,unsure,1,,,,19,answers-20111107173224AA22AwU_ans-0005
+943,able,able,16,root,able,1,,,,19,answers-20111107173224AA22AwU_ans-0005
+944,frustrated,frustrated,3,xcomp,frustrated,1,,,,6,answers-20111106210027AAhMxfE_ans-0004
+945,dodgy,dodgy,8,conj,dodgy,1,druggy,druggy,6,9,answers-20111106210027AAhMxfE_ans-0007
+946,public,public,12,amod,public,1,place,place,13,14,answers-20111106210027AAhMxfE_ans-0008
+947,irish,irish,4,amod,irish,1,tune,tune,5,7,answers-20111107154308AAKOZNX_ans-0001
+948,only,only,11,amod,only,1,line,line,12,34,answers-20111107154308AAKOZNX_ans-0003
+949,hard,hard,7,root,hard,1,,,,10,answers-20111107154308AAKOZNX_ans-0004
+950,lucky,lucky,12,parataxis,lucky,1,,,,13,answers-20111107154308AAKOZNX_ans-0005
+951,scottish,scottish,9,root,scottish,1,,,,9,answers-20111107154308AAKOZNX_ans-0007
+952,few,few,9,amod,few,1,days,day,10,28,answers-20111107080027AA9zCIG_ans-0002
+953,great,great,21,amod,great,1,restaurant,restaurant,22,28,answers-20111107080027AA9zCIG_ans-0002
+954,other,other,26,amod,"other, nearby",2,cities,city,28,28,answers-20111107080027AA9zCIG_ans-0002
+955,nearby,nearby,27,amod,"other, nearby",2,cities,city,28,28,answers-20111107080027AA9zCIG_ans-0002
+956,romantic,romantic,22,amod,romantic,1,walk,walk,23,38,answers-20111107080027AA9zCIG_ans-0003
+957,beautiful,beautiful,37,parataxis,beautiful,1,,,,38,answers-20111107080027AA9zCIG_ans-0003
+958,expensive,expensive,5,root,expensive,1,,,,6,answers-20111107080027AA9zCIG_ans-0005
+959,Modern,modern,13,amod,Modern,1,day,day,14,16,answers-20111106032810AA43zpY_ans-0001
+960,similar,similar,4,root,similar,1,,,,20,answers-20111106032810AA43zpY_ans-0002
+961,modern,modern,14,amod,modern,1,day,day,15,20,answers-20111106032810AA43zpY_ans-0002
+962,most,most,8,amod,most,1,people,people,9,11,answers-20111106032810AA43zpY_ans-0005
+963,else,else,3,amod,else,1,,,,6,answers-20111106213308AA5Nh2g_ans-0003
+964,else,else,4,amod,else,1,,,,14,answers-20111106213308AA5Nh2g_ans-0006
+965,top,top,2,amod,top,1,,,,22,answers-20111106213308AA5Nh2g_ans-0009
+966,final,final,13,amod,final,1,vote,vote,14,22,answers-20111106213308AA5Nh2g_ans-0009
+967,cheap,cheap,4,xcomp,cheap,1,,,,6,answers-20111106213308AA5Nh2g_ans-0011
+968,tacky,tacky,6,conj,tacky,1,,,,6,answers-20111106213308AA5Nh2g_ans-0011
+969,Good,good,1,amod,Good,1,day,day,2,28,answers-20100416184011AAtazxe_ans-0002
+970,german,german,12,amod,german,1,citizen,citizen,13,28,answers-20100416184011AAtazxe_ans-0002
+971,useful,useful,41,amod,useful,1,,,,43,answers-20100416184011AAtazxe_ans-0004
+972,Asian,asian,7,amod,Asian,1,airline,airline,8,15,answers-20100416184011AAtazxe_ans-0005
+973,big,big,5,amod,big,1,meal,meal,8,12,answers-20101109081414AAZ3hSI_ans-0003
+974,main,main,7,conj,main,1,,,,12,answers-20101109081414AAZ3hSI_ans-0003
+975,main,main,7,amod,main,1,meal,meal,8,9,answers-20101109081414AAZ3hSI_ans-0004
+976,Edible,edible,1,amod,Edible,1,ones,one,2,14,answers-20101109081414AAZ3hSI_ans-0006
+977,such,such,11,conj,such,1,meat,meat,6,14,answers-20101109081414AAZ3hSI_ans-0008
+978,little,little,15,amod,little,1,bit,bit,16,32,answers-20111108103447AAI7MDa_ans-0004
+979,ha[[y,ha[[y,17,conj,ha[[y,1,,,,24,answers-20111108103447AAI7MDa_ans-0007
+980,Cheap,cheap,1,amod,"Cheap, close",2,restraunts,restraunt,2,9,answers-20111107173110AA0lVuB_ans-0001
+981,close,close,3,amod,"Cheap, close",2,restraunts,restraunt,2,9,answers-20111107173110AA0lVuB_ans-0001
+982,loose,loose,7,xcomp,loose,1,,,,11,answers-20111107173110AA0lVuB_ans-0003
+983,suburban,suburban,3,amod,suburban,1,teenager,teenager,4,28,answers-20111107173110AA0lVuB_ans-0004
+984,cheap,cheap,13,ccomp,cheap,1,,,,28,answers-20111107173110AA0lVuB_ans-0004
+985,safe,safe,15,conj,"safe, close",2,,,,28,answers-20111107173110AA0lVuB_ans-0004
+986,close,close,18,conj,"safe, close",2,,,,28,answers-20111107173110AA0lVuB_ans-0004
+987,lost,lost,16,xcomp,lost,1,,,,17,answers-20111107173110AA0lVuB_ans-0005
+988,good,good,14,amod,good,1,answer,answer,15,16,answers-20111107173110AA0lVuB_ans-0007
+989,suppose,suppose,3,root,suppose,1,,,,29,answers-20111104115557AAEDR78_ans-0002
+990,visible,visible,24,amod,visible,1,tattoos,tattoo,25,29,answers-20111104115557AAEDR78_ans-0002
+991,offensive,offensive,12,advcl,offensive,1,,,,47,answers-20111104115557AAEDR78_ans-0005
+992,noticeable,noticeable,19,xcomp,noticeable,1,,,,47,answers-20111104115557AAEDR78_ans-0005
+993,good,good,6,amod,good,1,time,time,7,36,answers-20111108104636AAw51HV_ans-0002
+994,perfect,perfect,5,amod,perfect,1,place,place,6,24,answers-20111108104636AAw51HV_ans-0003
+995,good,good,6,amod,"good, best",2,option,option,7,14,answers-20111108104636AAw51HV_ans-0004
+996,best,best,13,parataxis,"good, best",2,option,option,7,14,answers-20111108104636AAw51HV_ans-0004
+997,ammazing,ammazing,7,parataxis,ammazing,1,,,,13,answers-20111108104636AAw51HV_ans-0005
+998,open,open,3,amod,open,1,,,,13,answers-20111108104636AAw51HV_ans-0006
+999,minded,minded,4,root,minded,1,,,,13,answers-20111108104636AAw51HV_ans-0006
+1000,male,male,4,amod,male,1,cockatiel,cockatiel,7,24,answers-20111108102531AAqeDhx_ans-0001
+1001,female,female,6,conj,female,1,,,,24,answers-20111108102531AAqeDhx_ans-0001
+1002,hard,hard,3,root,hard,1,,,,6,answers-20111108102531AAqeDhx_ans-0003
+1003,unfertilized,unfertilized,4,amod,unfertilized,1,eggs,egg,5,8,answers-20111108102531AAqeDhx_ans-0004
+1004,bright,bright,15,amod,bright,1,light,light,16,17,answers-20111108102531AAqeDhx_ans-0006
+1005,dark,dark,5,amod,dark,1,spot,spot,6,23,answers-20111108102531AAqeDhx_ans-0007
+1006,fertilized,fertilized,15,ccomp,fertilized,1,,,,23,answers-20111108102531AAqeDhx_ans-0007
+1007,sure,sure,4,root,sure,1,,,,32,answers-20090717131757AAVh6rG_ans-0002
+1008,different,different,17,amod,different,1,cities,city,18,32,answers-20090717131757AAVh6rG_ans-0002
+1009,different,different,20,amod,different,1,names,name,23,32,answers-20090717131757AAVh6rG_ans-0002
+1010,unique,unique,22,conj,unique,1,,,,32,answers-20090717131757AAVh6rG_ans-0002
+1011,large,large,14,amod,large,1,,,,18,answers-20090717131757AAVh6rG_ans-0006
+1012,bad,bad,6,amod,bad,1,idea,idea,7,7,answers-20090205181308AAZghOH_ans-0005
+1013,same,same,9,obj,same,1,,,,9,answers-20090205181308AAZghOH_ans-0006
+1014,most,most,3,amod,most,1,men,man,4,6,answers-20090205181308AAZghOH_ans-0007
+1015,looking,look,4,root,looking,1,,,,5,answers-20090205181308AAZghOH_ans-0008
+1016,good,good,1,amod,good,1,luck,luck,2,2,answers-20090205181308AAZghOH_ans-0010
+1017,available,available,6,root,available,1,,,,7,answers-20111108024148AAO8oFI_ans-0001
+1018,available,available,4,root,available,1,,,,5,answers-20111108024148AAO8oFI_ans-0002
+1019,available,available,12,acl:relcl,available,1,times,time,8,13,answers-20111108024148AAO8oFI_ans-0003
+1020,available,available,5,advcl,available,1,,,,14,answers-20111108024148AAO8oFI_ans-0004
+1021,nearby,nearby,8,amod,nearby,1,alternative,alternative,9,14,answers-20111108024148AAO8oFI_ans-0004
+1022,available,available,8,root,available,1,,,,12,answers-20111108024148AAO8oFI_ans-0008
+1023,automatic,automatic,7,amod,automatic,1,storage,storage,8,38,answers-20111108024148AAO8oFI_ans-0009
+1024,able,able,26,acl:relcl,able,1,,,,38,answers-20111108024148AAO8oFI_ans-0009
+1025,sporadic,sporadic,36,conj,sporadic,1,,,,38,answers-20111108024148AAO8oFI_ans-0009
+1026,american,american,16,amod,american,1,girls,girl,17,24,answers-20111108110008AA7xHnL_ans-0002
+1027,open,open,3,amod,open,1,mind,mind,4,7,answers-20111108110008AA7xHnL_ans-0003
+1028,mexican,mexican,9,advcl,mexican,1,,,,10,answers-20111108110008AA7xHnL_ans-0004
+1029,American,american,4,amod,American,1,girls,girl,5,10,answers-20111108110008AA7xHnL_ans-0005
+1030,last,last,3,amod,last,1,day,day,4,20,answers-20111107203006AA9ojw8_ans-0002
+1031,good,good,9,amod,good,1,island,island,10,22,answers-20111107203006AA9ojw8_ans-0004
+1032,main,main,18,amod,main,1,airpart,airpart,19,22,answers-20111107203006AA9ojw8_ans-0004
+1033,inclusive,inclusive,16,amod,inclusive,1,resort,resort,17,27,answers-20111107203006AA9ojw8_ans-0006
+1034,possible,possible,20,parataxis,possible,1,,,,27,answers-20111107203006AA9ojw8_ans-0006
+1035,fun,fun,11,amod,fun,1,activities,activity,12,17,answers-20111107203006AA9ojw8_ans-0007
+1036,next,next,6,amod,next,1,time,time,7,7,answers-20111107203006AA9ojw8_ans-0008
+1037,earlier,earlier,10,amod,earlier,1,flight,flight,11,12,answers-20111107203006AA9ojw8_ans-0009
+1038,argentinian,argentinian,14,amod,argentinian,1,type,type,15,24,answers-20070404104007AAY1Chs_ans-0001
+1039,black,black,28,amod,black,1,pudding,pudding,29,33,answers-20070404104007AAY1Chs_ans-0002
+1040,impossible,impossible,7,ccomp,impossible,1,,,,16,answers-20070404104007AAY1Chs_ans-0003
+1041,coagulated,coagulated,23,amod,coagulated,1,blood,blood,24,28,answers-20070404104007AAY1Chs_ans-0008
+1042,public,public,6,amod,public,1,transport,transport,7,14,answers-20111108093942AAYF9Dn_ans-0001
+1043,available,available,8,amod,available,1,kind,kind,4,14,answers-20111108093942AAYF9Dn_ans-0001
+1044,numerous,numerous,6,amod,numerous,1,cabs,cab,7,19,answers-20111108093942AAYF9Dn_ans-0003
+1045,available,available,5,root,available,1,,,,6,answers-20111108093942AAYF9Dn_ans-0004
+1046,frequent,frequent,4,root,frequent,1,,,,5,answers-20111108093942AAYF9Dn_ans-0005
+1047,public,public,9,amod,public,1,transport,transport,10,17,answers-20111108093942AAYF9Dn_ans-0007
+1048,Private,private,10,amod,Private,1,buses,bus,13,22,answers-20111108093942AAYF9Dn_ans-0009
+1049,white,white,11,amod,white,1,line,line,12,22,answers-20111108093942AAYF9Dn_ans-0009
+1050,able,able,5,xcomp,able,1,,,,56,answers-20111108081748AAkQhGe_ans-0003
+1051,alike,alike,6,root,alike,1,,,,7,answers-20111107115952AAqfsHV_ans-0001
+1052,different,different,2,root,different,1,,,,3,answers-20111107115952AAqfsHV_ans-0002
+1053,different,different,12,acl,different,1,report,report,5,15,answers-20111107115952AAqfsHV_ans-0003
+1054,alike,alike,14,conj,alike,1,,,,15,answers-20111107115952AAqfsHV_ans-0003
+1055,different,different,8,ccomp,different,1,,,,13,answers-20111107115952AAqfsHV_ans-0005
+1056,alike,alike,10,conj,alike,1,,,,13,answers-20111107115952AAqfsHV_ans-0005
+1057,Global,global,1,amod,Global,1,reasons,reason,2,4,answers-20111107115952AAqfsHV_ans-0008
+1058,political,political,1,amod,political,1,costs,cost,2,6,answers-20111107115952AAqfsHV_ans-0011
+1059,American,american,7,amod,American,1,people,people,8,9,answers-20111107115952AAqfsHV_ans-0012
+1060,DUE,due,8,parataxis,DUE,1,,,,11,answers-20111107115952AAqfsHV_ans-0013
+1061,Different,different,1,root,Different,1,,,,17,answers-20111107115952AAqfsHV_ans-0014
+1062,other,other,10,nsubj,"other, high",2,deserts,desert,16,17,answers-20111107115952AAqfsHV_ans-0014
+1063,high,high,14,amod,"other, high",2,deserts,desert,16,17,answers-20111107115952AAqfsHV_ans-0014
+1064,Alike,alike,1,root,Alike,1,,,,23,answers-20111107115952AAqfsHV_ans-0015
+1065,liberal,liberal,17,amod,liberal,1,historians,historian,19,23,answers-20111107115952AAqfsHV_ans-0015
+1066,tiny,tiny,5,amod,"tiny, little",2,kitten,kitten,7,15,answers-20111108105146AAtiEx7_ans-0004
+1067,little,little,6,amod,"tiny, little",2,kitten,kitten,7,15,answers-20111108105146AAtiEx7_ans-0004
+1068,creme,creme,4,amod,creme,1,tabby,tabby,5,16,answers-20111108105146AAtiEx7_ans-0005
+1069,siamese,siamese,4,amod,siamese,1,lynx,lynx,5,21,answers-20111108105146AAtiEx7_ans-0006
+1070,Norwegian,norwegian,4,amod,Norwegian,1,Cat,cat,6,24,answers-20111108105146AAtiEx7_ans-0009
+1071,bright,bright,4,amod,"bright, blue",2,eyes,eye,6,11,answers-20111108105146AAtiEx7_ans-0011
+1072,blue,blue,5,amod,"bright, blue",2,eyes,eye,6,11,answers-20111108105146AAtiEx7_ans-0011
+1073,veiled,veiled,7,amod,veiled,1,egg,egg,9,12,answers-20111108104131AAWUQHU_ans-0001
+1074,soft,soft,11,advcl,soft,1,,,,12,answers-20111108104131AAWUQHU_ans-0001
+1075,female,female,2,amod,female,1,chameleon,chameleon,3,28,answers-20111108104131AAWUQHU_ans-0002
+1076,soft,soft,15,conj,soft,1,,,,28,answers-20111108104131AAWUQHU_ans-0002
+1077,soft,soft,19,xcomp,soft,1,,,,28,answers-20111108104131AAWUQHU_ans-0002
+1078,ordinary,ordinary,25,amod,ordinary,1,eggs,egg,27,28,answers-20111108104131AAWUQHU_ans-0002
+1079,infertile,infertile,4,root,infertile,1,,,,5,answers-20111108104131AAWUQHU_ans-0003
+1080,infertile,infertile,9,root,infertile,1,,,,10,answers-20111108104131AAWUQHU_ans-0004
+1081,infertile,infertile,16,root,infertile,1,,,,17,answers-20111108104131AAWUQHU_ans-0007
+1082,same,same,13,amod,same,1,cage,cage,14,32,answers-20111108104131AAWUQHU_ans-0008
+1083,skinny,skinny,11,xcomp,skinny,1,,,,12,answers-20111108104131AAWUQHU_ans-0009
+1084,best,best,12,amod,best,1,sights,sight,13,20,answers-20111107155302AAXXuM1_ans-0001
+1085,short,short,18,amod,short,1,time,time,19,20,answers-20111107155302AAXXuM1_ans-0001
+1086,key,key,20,amod,key,1,sites,site,21,22,answers-20111107155302AAXXuM1_ans-0002
+1087,limited,limited,3,amod,limited,1,time,time,4,21,answers-20111107155302AAXXuM1_ans-0004
+1088,best,best,8,amod,best,1,sights,sight,9,21,answers-20111107155302AAXXuM1_ans-0004
+1089,short,short,19,amod,short,1,time,time,20,21,answers-20111107155302AAXXuM1_ans-0004
+1090,early,early,5,amod,early,1,afternoon,afternoon,6,13,answers-20111107155302AAXXuM1_ans-0005
+1091,next,next,10,amod,next,1,day,day,11,13,answers-20111107155302AAXXuM1_ans-0005
+1092,major,major,8,amod,major,1,sites,site,9,33,answers-20111107155302AAXXuM1_ans-0007
+1093,more,more,30,amod,more,1,time,time,31,33,answers-20111107155302AAXXuM1_ans-0007
+1094,amazing,amazing,4,amod,amazing,1,experience,experience,5,6,answers-20111107155302AAXXuM1_ans-0011
+1095,better,better,3,root,better,1,,,,14,answers-20111107201700AAKdymq_ans-0001
+1096,First,first,1,amod,First,1,time,time,2,13,answers-20111107201700AAKdymq_ans-0002
+1097,willing,willing,19,advcl,willing,1,,,,30,answers-20111107201700AAKdymq_ans-0003
+1098,good,good,5,amod,good,1,experience,experience,6,10,answers-20111107201700AAKdymq_ans-0004
+1099,available,available,19,xcomp,available,1,,,,22,answers-20111107201700AAKdymq_ans-0005
+1100,few,few,2,amod,few,1,times,time,3,32,answers-20111107201700AAKdymq_ans-0007
+1101,able,able,13,root,able,1,,,,32,answers-20111107201700AAKdymq_ans-0007
+1102,same,same,17,obj,"same, less, own",3,,,,32,answers-20111107201700AAKdymq_ans-0007
+1103,less,less,19,obl,"same, less, own",3,,,,32,answers-20111107201700AAKdymq_ans-0007
+1104,own,own,22,obl,"same, less, own",3,,,,32,answers-20111107201700AAKdymq_ans-0007
+1105,more,more,25,amod,more,1,options,option,26,32,answers-20111107201700AAKdymq_ans-0007
+1106,best,best,1,root,best,1,,,,7,answers-20111107201700AAKdymq_ans-0009
+1107,online,online,5,amod,online,1,agent,agent,7,7,answers-20111107201700AAKdymq_ans-0009
+1108,terrified,terrified,13,conj,terrified,1,,,,16,answers-20111108105022AA0Q5wb_ans-0002
+1109,last,last,2,amod,last,1,night,night,3,15,answers-20111108105022AA0Q5wb_ans-0003
+1110,many,many,11,amod,many,1,things,thing,12,23,answers-20111108105022AA0Q5wb_ans-0004
+1111,big,big,27,conj,big,1,,,,31,answers-20111108105022AA0Q5wb_ans-0008
+1112,whole,whole,8,amod,whole,1,time,time,9,10,answers-20111108105022AA0Q5wb_ans-0009
+1113,huge,huge,3,root,huge,1,,,,11,answers-20111108105022AA0Q5wb_ans-0010
+1114,sure,sure,2,xcomp,"sure, trapped",2,,,,15,answers-20111108105022AA0Q5wb_ans-0011
+1115,trapped,trapped,6,ccomp,"sure, trapped",2,,,,15,answers-20111108105022AA0Q5wb_ans-0011
+1116,indoor,indoor,5,amod,indoor,1,pet,pet,6,9,answers-20111108102204AAIivYN_ans-0001
+1117,small,small,4,amod,"small, indoor",2,pet,pet,6,15,answers-20111108102204AAIivYN_ans-0002
+1118,indoor,indoor,5,amod,"small, indoor",2,pet,pet,6,15,answers-20111108102204AAIivYN_ans-0002
+1119,cheap,cheap,4,amod,cheap,1,,,,17,answers-20111108102204AAIivYN_ans-0003
+1120,east,east,5,conj,east,1,,,,17,answers-20111108102204AAIivYN_ans-0003
+1121,easy,easy,5,root,easy,1,,,,10,answers-20111108102204AAIivYN_ans-0004
+1122,proper,proper,10,amod,proper,1,surroundings,surroundings,11,13,answers-20111108102204AAIivYN_ans-0005
+1123,easiest,easiest,2,amod,easiest,1,thing,thing,3,26,answers-20111108102204AAIivYN_ans-0006
+1124,right,right,21,amod,right,1,amt,amt,22,26,answers-20111108102204AAIivYN_ans-0006
+1125,easy,easy,6,root,easy,1,,,,7,answers-20111108102204AAIivYN_ans-0007
+1126,fussy,fussy,10,conj,fussy,1,,,,15,answers-20111108102204AAIivYN_ans-0009
+1127,easy,easy,4,obj,easy,1,,,,13,answers-20111108102204AAIivYN_ans-0010
+1128,small,small,6,amod,small,1,rodent,rodent,7,27,answers-20111108102204AAIivYN_ans-0011
+1129,such,such,8,case,such,1,mouse,mouse,11,27,answers-20111108102204AAIivYN_ans-0011
+1130,easiest,easiest,5,root,easiest,1,,,,11,answers-20111108102204AAIivYN_ans-0012
+1131,french,french,1,amod,french,1,male,male,2,4,answers-20111108071348AAWu2FU_ans-0001
+1132,new,new,6,amod,new,1,relationship,relationship,7,23,answers-20111108071348AAWu2FU_ans-0004
+1133,big,big,21,amod,big,1,deal,deal,22,23,answers-20111108071348AAWu2FU_ans-0004
+1134,uncomfortable,uncomfortable,14,xcomp,uncomfortable,1,,,,15,answers-20111108071348AAWu2FU_ans-0005
+1135,ok,ok,3,root,ok,1,,,,15,answers-20111108071348AAWu2FU_ans-0006
+1136,french,french,8,amod,french,1,culture,culture,9,15,answers-20111108071348AAWu2FU_ans-0006
+1137,first,first,13,amod,first,1,move,move,14,15,answers-20111108071348AAWu2FU_ans-0006
+1138,french,french,3,amod,french,1,men,man,4,7,answers-20111108071348AAWu2FU_ans-0007
+1139,sexy,sexy,6,xcomp,sexy,1,,,,7,answers-20111108071348AAWu2FU_ans-0007
+1140,French,french,1,amod,French,1,women,woman,2,25,answers-20111108071348AAWu2FU_ans-0008
+1141,straigthforward,straightforward,19,parataxis,straigthforward,1,ones,one,5,25,answers-20111108071348AAWu2FU_ans-0008
+1142,sexy,sexy,8,amod,sexy,1,dress,dress,9,22,answers-20111108071348AAWu2FU_ans-0009
+1143,light,light,17,amod,light,1,snack,snack,18,22,answers-20111108071348AAWu2FU_ans-0009
+1144,sure,sure,3,xcomp,sure,1,,,,13,answers-20111108071348AAWu2FU_ans-0011
+1145,light,light,8,amod,light,1,meal,meal,9,13,answers-20111108071348AAWu2FU_ans-0011
+1146,little,little,11,amod,little,1,alcohol,alcohol,12,13,answers-20111108071348AAWu2FU_ans-0011
+1147,good,good,4,root,good,1,,,,4,reviews-073742-0001
+1148,unique,unique,1,amod,unique,1,gifts,gift,2,4,reviews-052884-0001
+1149,Great,great,1,amod,Great,1,store,store,2,4,reviews-172245-0001
+1150,great,great,3,amod,great,1,products,product,4,4,reviews-172245-0001
+1151,Lovley,lovely,1,amod,Lovley,1,food,food,2,5,reviews-258042-0001
+1152,fab,fab,4,amod,fab,1,chips,chip,5,5,reviews-258042-0001
+1153,Best,best,1,amod,Best,1,place,place,2,5,reviews-148346-0001
+1154,best,best,1,amod,"best, square",2,slice,slice,3,5,reviews-018268-0001
+1155,square,square,2,amod,"best, square",2,slice,slice,3,5,reviews-018268-0001
+1156,Cheapest,cheapest,1,amod,Cheapest,1,drinks,drink,2,5,reviews-253807-0001
+1157,priced,priced,2,root,priced,1,,,,5,reviews-105719-0001
+1158,Mexican,mexican,4,amod,Mexican,1,food,food,5,5,reviews-105719-0001
+1159,informed,informed,3,amod,informed,1,people,people,4,5,reviews-190389-0001
+1160,Simple,simple,1,amod,"Simple, Quick",2,away,away,5,6,reviews-035932-0001
+1161,Quick,quick,3,amod,"Simple, Quick",2,away,away,5,6,reviews-035932-0001
+1162,Wonderful,wonderful,1,amod,Wonderful,1,staff,staff,2,6,reviews-325538-0001
+1163,great,great,4,amod,great,1,service,service,5,6,reviews-325538-0001
+1164,best,best,1,amod,best,1,place,place,2,6,reviews-173758-0001
+1165,Good,good,1,root,Good,1,,,,6,reviews-070492-0001
+1166,friendly,friendly,3,list,friendly,1,,,,6,reviews-070492-0001
+1167,reasonable,reasonable,5,amod,reasonable,1,service,service,6,6,reviews-070492-0001
+1168,good,good,5,amod,good,1,food,food,6,7,reviews-077344-0001
+1169,Favorite,favorite,1,amod,Favorite,1,spot,spot,3,7,reviews-211844-0001
+1170,outstanding,outstanding,3,amod,"outstanding, professional",2,firm,firm,6,7,reviews-189171-0001
+1171,professional,professional,5,amod,"outstanding, professional",2,firm,firm,6,7,reviews-189171-0001
+1172,friendly,friendly,5,amod,friendly,1,staff,staff,6,7,reviews-367586-0001
+1173,Good,good,1,amod,Good,1,food,food,2,8,reviews-228154-0001
+1174,nice,nice,7,amod,nice,1,atmosphere,atmosphere,8,8,reviews-228154-0001
+1175,Responsive,responsive,1,root,Responsive,1,,,,8,reviews-031674-0001
+1176,apprised,apprised,5,xcomp,apprised,1,,,,8,reviews-031674-0001
+1177,Good,good,1,amod,Good,1,quality,quality,2,8,reviews-208180-0001
+1178,Indian,indian,3,amod,Indian,1,food,food,4,8,reviews-208180-0001
+1179,pleasant,pleasant,7,amod,pleasant,1,environment,environment,8,8,reviews-208180-0001
+1180,High,high,1,amod,High,1,guality,quality,2,9,reviews-359287-0001
+1181,good,good,7,amod,good,1,price,price,8,9,reviews-359287-0001
+1182,Horrible,horrible,1,amod,Horrible,1,water,water,3,4,reviews-296406-0001
+1183,other,other,3,amod,other,1,complaints,complaint,4,5,reviews-296406-0002
+1184,Easy,easy,1,amod,Easy,1,registration,registration,2,9,reviews-352068-0001
+1185,helpful,helpful,4,amod,helpful,1,staff,staff,5,9,reviews-352068-0001
+1186,fun,fun,7,amod,fun,1,teachers,teacher,8,9,reviews-352068-0001
+1187,Awesome,awesome,1,amod,Awesome,1,sandwich,sandwich,6,9,reviews-242303-0001
+1188,cool,cool,8,root,cool,1,,,,9,reviews-184731-0001
+1189,Great,great,1,amod,Great,1,atmosphere,atmosphere,2,6,reviews-317480-0001
+1190,great,great,4,amod,great,1,food,food,5,6,reviews-317480-0001
+1191,gone,gone,1,root,gone,1,,,,1,reviews-009389-0001
+1192,closed,closed,3,root,closed,1,,,,4,reviews-009389-0002
+1193,awesome,awesome,1,amod,awesome,1,bagels,bagel,2,2,reviews-107292-0001
+1194,long,long,1,amod,"long, worth",2,lines,line,2,8,reviews-107292-0002
+1195,worth,worth,7,conj,"long, worth",2,lines,line,2,8,reviews-107292-0002
+1196,nicest,nicest,4,amod,nicest,1,people,people,5,10,reviews-330275-0001
+1197,good,good,8,amod,good,1,standards,standard,10,10,reviews-330275-0001
+1198,Bad,bad,1,amod,Bad,1,food,food,2,6,reviews-052836-0001
+1199,bad,bad,4,amod,bad,1,service,service,5,6,reviews-052836-0001
+1200,only,only,5,amod,only,1,reason,reason,6,11,reviews-048302-0001
+1201,great,great,3,root,great,1,,,,4,reviews-020957-0001
+1202,else,else,7,amod,else,1,,,,8,reviews-020957-0002
+1203,Fast,fast,1,root,Fast,1,,,,4,reviews-080854-0001
+1204,affordable,affordable,3,conj,affordable,1,,,,4,reviews-080854-0001
+1205,Great,great,1,amod,Great,1,job,job,2,7,reviews-080854-0002
+1206,Great,great,1,amod,Great,1,,,,3,reviews-133260-0001
+1207,amazing,amazing,2,appos,"amazing, new",2,plays,play,7,12,reviews-076440-0001
+1208,new,new,4,amod,"amazing, new",2,plays,play,7,12,reviews-076440-0001
+1209,exciting,exciting,6,conj,exciting,1,,,,12,reviews-076440-0001
+1210,much,much,7,amod,much,1,pepper,pepper,8,9,reviews-365688-0001
+1211,favorite,favorite,3,amod,favorite,1,store,store,4,8,reviews-235462-0002
+1212,Expensive,expensive,2,root,Expensive,1,,,,2,reviews-186135-0001
+1213,okay,okay,4,root,okay,1,,,,11,reviews-186135-0002
+1214,outrageous,outrageous,10,conj,outrageous,1,,,,11,reviews-186135-0002
+1215,Nice,nice,1,amod,Nice,1,place,place,4,13,reviews-341435-0001
+1216,quiet,quiet,3,conj,quiet,1,,,,13,reviews-341435-0001
+1217,cosy,cosy,6,amod,cosy,1,room,room,8,13,reviews-341435-0001
+1218,Good,good,1,amod,Good,1,fun,fun,2,13,reviews-148566-0001
+1219,polite,polite,4,root,polite,1,,,,7,reviews-356705-0001
+1220,professional,professional,6,conj,professional,1,,,,7,reviews-356705-0001
+1221,Impressed,impressed,2,root,Impressed,1,,,,3,reviews-356705-0002
+1222,Great,great,1,amod,Great,1,electrician,electrician,2,3,reviews-356705-0003
+1223,Prime,prime,1,amod,Prime,1,rib,rib,2,6,reviews-372582-0001
+1224,tough,tough,5,root,tough,1,,,,6,reviews-372582-0001
+1225,pleasant,pleasant,3,root,pleasant,1,,,,4,reviews-372582-0002
+1226,great,great,4,amod,great,1,location,location,5,9,reviews-317326-0001
+1227,luxurious,luxurious,7,amod,luxurious,1,environment,environment,8,9,reviews-317326-0001
+1228,last,last,3,amod,last,1,decade,decade,4,13,reviews-045753-0001
+1229,more,more,9,amod,more,1,prestige,prestige,10,13,reviews-045753-0001
+1230,International,international,12,amod,International,1,level,level,13,13,reviews-045753-0001
+1231,homestyle,homestyle,6,amod,"homestyle, Japanese",2,food,food,8,14,reviews-067826-0001
+1232,Japanese,japanese,7,amod,"homestyle, Japanese",2,food,food,8,14,reviews-067826-0001
+1233,good,good,4,ccomp,"good, meh",2,,,,14,reviews-224123-0002
+1234,bad,bad,6,conj,bad,1,,,,14,reviews-224123-0002
+1235,meh,meh,13,parataxis,"good, meh",2,,,,14,reviews-224123-0002
+1236,Great,great,1,amod,Great,1,job,job,2,3,reviews-023926-0001
+1237,thorough,thorough,6,root,thorough,1,,,,12,reviews-023926-0002
+1238,great,great,4,amod,great,1,park,park,5,12,reviews-309168-0002
+1239,Great,great,1,amod,Great,1,service,service,2,6,reviews-138699-0001
+1240,awesome,awesome,4,amod,awesome,1,prices,price,5,6,reviews-138699-0001
+1241,Great,great,1,amod,Great,1,spot,spot,2,14,reviews-064100-0001
+1242,Cool,cool,1,amod,Cool,1,ambience,ambience,2,3,reviews-064100-0002
+1243,free,free,5,amod,free,1,cola,cola,6,10,reviews-105326-0002
+1244,great,great,8,root,great,1,,,,9,reviews-139456-0002
+1245,average,average,2,amod,"average, crappy",2,chain,chain,4,5,reviews-137883-0001
+1246,crappy,crappy,3,amod,"average, crappy",2,chain,chain,4,5,reviews-137883-0001
+1247,awful,awful,3,root,awful,1,,,,12,reviews-137883-0002
+1248,great,great,1,amod,great,1,garage,garage,2,6,reviews-249889-0001
+1249,great,great,1,amod,great,1,knowledge,knowledge,2,11,reviews-249889-0002
+1250,Clean,clean,1,root,Clean,1,,,,10,reviews-232106-0001
+1251,tidy,tidy,3,conj,tidy,1,,,,10,reviews-232106-0001
+1252,good,good,5,amod,good,1,atmosphere,atmosphere,6,10,reviews-232106-0001
+1253,pleasant,pleasant,8,amod,pleasant,1,staff,staff,9,10,reviews-232106-0001
+1254,great,great,4,amod,great,1,facility,facility,5,6,reviews-305681-0001
+1255,Great,great,1,amod,Great,1,instructors,instructor,2,3,reviews-305681-0002
+1256,awesome,awesome,4,root,awesome,1,,,,16,reviews-015687-0002
+1257,amazing,amazing,8,amod,amazing,1,job,job,9,16,reviews-015687-0002
+1258,clean,clean,12,parataxis,clean,1,,,,16,reviews-015687-0002
+1259,friendly,friendly,16,conj,friendly,1,,,,16,reviews-015687-0002
+1260,good,good,15,amod,good,1,florist,florist,16,17,reviews-186275-0002
+1261,best,best,6,amod,best,1,salon,salon,7,16,reviews-087176-0002
+1262,good,good,5,amod,good,1,quality,quality,6,16,reviews-287501-0002
+1263,multiple,multiple,11,amod,multiple,1,times,time,12,13,reviews-255736-0001
+1264,great,great,3,amod,great,1,theater,theater,4,5,reviews-255736-0002
+1265,Excellent,excellent,1,amod,"Excellent, close",2,service,service,2,11,reviews-279437-0001
+1266,close,close,4,parataxis,"Excellent, close",2,service,service,2,11,reviews-279437-0001
+1267,Great,great,1,amod,Great,1,store,store,4,8,reviews-279437-0002
+1268,excellent,excellent,1,root,excellent,1,,,,2,reviews-099279-0001
+1269,outdated,outdated,3,root,outdated,1,,,,9,reviews-231724-0001
+1270,dirty,dirty,5,conj,"dirty, small",2,,,,9,reviews-231724-0001
+1271,small,small,8,conj,"dirty, small",2,,,,9,reviews-231724-0001
+1272,horrible,horrible,3,root,horrible,1,,,,4,reviews-231724-0002
+1273,Great,great,1,amod,Great,1,Fun,fun,3,5,reviews-103609-0001
+1274,more,more,2,amod,more,1,,,,15,reviews-103609-0002
+1275,GREATEST,greatest,13,parataxis,GREATEST,1,,,,15,reviews-103609-0002
+1276,friendly,friendly,2,root,friendly,1,,,,11,reviews-115029-0001
+1277,helpful,helpful,5,conj,helpful,1,,,,11,reviews-115029-0001
+1278,poor,poor,8,amod,poor,1,service,service,10,11,reviews-115029-0001
+1279,hard,hard,2,amod,hard,1,work,work,3,10,reviews-022900-0001
+1280,blue,blue,8,nmod,blue,1,boys,boy,6,10,reviews-022900-0001
+1281,Brilll,brilll,1,root,Brilll,1,,,,2,reviews-022900-0002
+1282,hard,hard,2,amod,hard,1,work,work,3,10,reviews-022900-0003
+1283,blue,blue,8,nmod,blue,1,boys,boy,6,10,reviews-022900-0003
+1284,best,best,4,root,best,1,,,,5,reviews-243369-0001
+1285,beautiful,beautiful,4,root,beautiful,1,,,,5,reviews-243369-0003
+1286,Aweesome,awesome,1,root,Aweesome,1,,,,1,reviews-117893-0001
+1287,Holy,holy,1,discourse,Holy,1,cow,cow,2,8,reviews-117893-0002
+1288,delicious,delicious,6,amod,delicious,1,meal,meal,7,8,reviews-117893-0002
+1289,Hot,hot,1,root,Hot,1,,,,6,reviews-117893-0003
+1290,fresh,fresh,3,conj,"fresh, delicious",2,,,,6,reviews-117893-0003
+1291,delicious,delicious,5,conj,"fresh, delicious",2,,,,6,reviews-117893-0003
+1292,Wrong,wrong,1,amod,Wrong,1,Information,information,2,2,reviews-288894-0001
+1293,Beautiful,beautiful,1,amod,Beautiful,1,hotel,hotel,2,3,reviews-073356-0001
+1294,Great,great,1,amod,Great,1,service,service,2,6,reviews-073356-0002
+1295,high,high,4,amod,high,1,class,class,5,6,reviews-073356-0002
+1296,available,available,2,root,available,1,,,,14,reviews-073356-0003
+1297,private,private,5,amod,private,1,area,area,7,14,reviews-073356-0003
+1298,great,great,1,root,great,1,,,,2,reviews-389136-0001
+1299,fab,fab,3,root,fab,1,,,,4,reviews-389136-0003
+1300,Great,great,1,amod,Great,1,School,school,2,3,reviews-072067-0001
+1301,good,good,2,root,good,1,,,,19,reviews-072067-0002
+1302,Diverse,diverse,3,amod,"Diverse, American",2,body,body,5,19,reviews-072067-0002
+1303,African,african,7,amod,"African, Asian",2,,,,19,reviews-072067-0002
+1304,American,american,9,amod,"Diverse, American",2,body,body,5,19,reviews-072067-0002
+1305,Asian,asian,11,list,"African, Asian",2,,,,19,reviews-072067-0002
+1306,Worst,worst,1,amod,Worst,1,period,period,3,6,reviews-307250-0002
+1307,amazing,amazing,12,xcomp,amazing,1,,,,13,reviews-088914-0001
+1308,more,more,9,conj,more,1,banners,banner,4,10,reviews-088914-0002
+1309,best,best,4,amod,"best, Mediterranean",2,Restaurant,restaurant,6,23,reviews-385436-0001
+1310,Mediterranean,mediterranean,5,amod,"best, Mediterranean",2,Restaurant,restaurant,6,23,reviews-385436-0001
+1311,central,central,18,amod,central,1,,,,23,reviews-385436-0001
+1312,best,best,2,amod,"best, fat, best",3,pizza,pizza,3,24,reviews-332972-0001
+1313,fat,fat,7,parataxis,"best, fat, best",3,pizza,pizza,3,24,reviews-332972-0001
+1314,other,other,16,amod,other,1,pizza,pizza,15,24,reviews-332972-0001
+1315,best,best,24,parataxis,"best, fat, best",3,pizza,pizza,3,24,reviews-332972-0001
+1316,WONDERFUL,wonderful,1,amod,WONDERFUL,1,service,service,2,3,reviews-395149-0001
+1317,Beautiful,beautiful,1,amod,Beautiful,1,work,work,2,9,reviews-395149-0003
+1318,fast,fast,4,amod,fast,1,shipping,shipping,5,9,reviews-395149-0003
+1319,great,great,7,amod,great,1,communication,communication,8,9,reviews-395149-0003
+1320,Nice,nice,1,amod,Nice,1,people,people,2,6,reviews-125522-0002
+1321,professional,professional,1,root,professional,1,,,,1,reviews-134741-0001
+1322,Good,good,1,amod,"Good, professional",2,job,job,2,5,reviews-134741-0002
+1323,professional,professional,4,parataxis,"Good, professional",2,job,job,2,5,reviews-134741-0002
+1324,good,good,5,xcomp,good,1,,,,18,reviews-134741-0003
+1325,careful,careful,3,root,careful,1,,,,20,reviews-207783-0002
+1326,Favorite,favorite,1,amod,Favorite,1,Restaurant,restaurant,2,2,reviews-363633-0001
+1327,Best,best,1,amod,"Best, yellow",2,curry,curry,3,9,reviews-363633-0002
+1328,yellow,yellow,2,amod,"Best, yellow",2,curry,curry,3,9,reviews-363633-0002
+1329,friendly,friendly,4,root,friendly,1,,,,8,reviews-363633-0003
+1330,attentive,attentive,7,conj,attentive,1,,,,8,reviews-363633-0003
+1331,reasonable,reasonable,5,root,reasonable,1,,,,6,reviews-363633-0004
+1332,Great,great,1,amod,Great,1,service,service,2,2,reviews-356361-0001
+1333,satisfying,satisfying,8,amod,satisfying,1,outcome,outcome,9,10,reviews-356361-0002
+1334,next,next,10,amod,next,1,event,event,11,12,reviews-041925-0002
+1335,good,good,2,amod,good,1,cut,cut,3,4,reviews-154113-0001
+1336,Clean,clean,1,amod,"Clean, great, cheapest",3,rooms,room,2,13,reviews-149922-0001
+1337,great,great,4,conj,"Clean, great, cheapest",3,rooms,room,2,13,reviews-149922-0001
+1338,cheapest,cheapest,9,conj,"Clean, great, cheapest",3,rooms,room,2,13,reviews-149922-0001
+1339,pleasant,pleasant,7,root,pleasant,1,,,,10,reviews-149922-0002
+1340,efficient,efficient,9,conj,efficient,1,,,,10,reviews-149922-0002
+1341,FREE,free,2,amod,FREE,1,breakfast,breakfast,3,4,reviews-149922-0003
+1342,unsafe,unsafe,4,conj,unsafe,1,,,,8,reviews-001961-0002
+1343,real,real,3,amod,real,1,mechanic,mechanic,4,9,reviews-001961-0003
+1344,Great,great,1,amod,Great,1,place,place,2,5,reviews-162662-0001
+1345,friendly,friendly,3,root,friendly,1,,,,7,reviews-162662-0002
+1346,fast,fast,6,conj,fast,1,,,,7,reviews-162662-0002
+1347,good,good,3,amod,good,1,sushi,sushi,4,9,reviews-124552-0001
+1348,good,good,7,amod,good,1,price,price,8,9,reviews-124552-0001
+1349,small,small,5,amod,"small, average",2,side,side,6,12,reviews-124552-0003
+1350,average,average,11,conj,"small, average",2,side,side,6,12,reviews-124552-0003
+1351,okay,okay,4,root,okay,1,,,,21,reviews-294812-0002
+1352,quick,quick,19,amod,quick,1,meal,meal,20,21,reviews-294812-0002
+1353,Good,good,1,amod,Good,1,food,food,2,7,reviews-008635-0001
+1354,friendly,friendly,5,amod,friendly,1,staff,staff,6,7,reviews-008635-0001
+1355,good,good,2,root,good,1,,,,9,reviews-008635-0002
+1356,old,old,7,amod,old,1,daughter,daughter,8,9,reviews-008635-0002
+1357,Interesting,interesting,1,root,Interesting,1,,,,7,reviews-008635-0003
+1358,good,good,2,amod,good,1,value,value,3,7,reviews-008635-0003
+1359,expensive,expensive,4,root,expensive,1,,,,5,reviews-008635-0004
+1360,Dead,dead,2,root,Dead,1,,,,2,reviews-177779-0001
+1361,inefficient,inefficient,7,root,inefficient,1,,,,19,reviews-177779-0002
+1362,ineffective,ineffective,9,conj,ineffective,1,,,,19,reviews-177779-0002
+1363,complete,complete,5,amod,complete,1,embarrassment,embarrassment,6,7,reviews-177779-0003
+1364,favorite,favorite,2,amod,favorite,1,place,place,3,6,reviews-353684-0001
+1365,best,best,5,root,best,1,,,,23,reviews-353684-0002
+1366,Italian,italian,7,amod,Italian,1,music,music,8,23,reviews-353684-0002
+1367,helpful,helpful,12,amod,helpful,1,staff,staff,15,23,reviews-353684-0002
+1368,friendly,friendly,14,conj,friendly,1,,,,23,reviews-353684-0002
+1369,beautiful,beautiful,21,conj,beautiful,1,,,,23,reviews-353684-0002
+1370,Excellent,excellent,1,amod,Excellent,1,lessons,lesson,3,3,reviews-343035-0001
+1371,happy,happy,4,root,happy,1,,,,14,reviews-343035-0002
+1372,able,able,4,root,able,1,,,,11,reviews-343035-0003
+1373,Excellent,excellent,1,amod,Excellent,1,Pizza,pizza,2,3,reviews-194313-0001
+1374,only,only,4,amod,only,1,place,place,6,12,reviews-194313-0002
+1375,enough,enough,8,obj,enough,1,,,,9,reviews-194313-0004
+1376,Worst,worst,1,amod,"Worst, hard, discussing, good",4,place,place,2,27,reviews-105237-0001
+1377,hard,hard,7,list,"Worst, hard, discussing, good",4,place,place,2,27,reviews-105237-0001
+1378,discussing,discussing,12,list,"Worst, hard, discussing, good",4,place,place,2,27,reviews-105237-0001
+1379,good,good,18,list,"Worst, hard, discussing, good",4,place,place,2,27,reviews-105237-0001
+1380,many,many,19,amod,many,1,yrs,yr,20,27,reviews-105237-0001
+1381,negative,negative,7,amod,negative,1,reviews,review,8,9,reviews-275140-0001
+1382,different,different,10,amod,different,1,laptops,laptop,11,12,reviews-275140-0002
+1383,timely,timely,5,root,timely,1,,,,8,reviews-275140-0003
+1384,inexpensive,inexpensive,7,conj,inexpensive,1,,,,8,reviews-275140-0003
+1385,Awsome,awesome,1,root,Awsome,1,,,,2,reviews-191597-0001
+1386,Great,great,1,amod,"Great, cheap",2,food,food,2,3,reviews-191597-0002
+1387,cheap,cheap,3,list,"Great, cheap",2,food,food,2,3,reviews-191597-0002
+1388,good,good,5,root,good,1,,,,6,reviews-191597-0003
+1389,simple,simple,6,parataxis,simple,1,fave,fave,5,13,reviews-191597-0004
+1390,filling,filling,8,conj,filling,1,,,,13,reviews-191597-0004
+1391,busy,busy,2,xcomp,busy,1,,,,5,reviews-191597-0005
+1392,Good,good,1,amod,"Good, local",2,shop,shop,4,4,reviews-262422-0001
+1393,local,local,2,amod,"Good, local",2,shop,shop,4,4,reviews-262422-0001
+1394,Good,good,1,amod,"Good, local",2,shop,shop,4,5,reviews-262422-0002
+1395,local,local,2,amod,"Good, local",2,shop,shop,4,5,reviews-262422-0002
+1396,Best,best,1,amod,Best,1,Pizzas,pizza,2,8,reviews-064146-0001
+1397,hidden,hidden,3,amod,hidden,1,gem,gem,4,5,reviews-064146-0002
+1398,superb,superb,4,root,superb,1,,,,12,reviews-064146-0003
+1399,nice,nice,9,acl,nice,1,,,,12,reviews-064146-0003
+1400,hot,hot,11,conj,hot,1,,,,12,reviews-064146-0003
+1401,clean,clean,4,root,clean,1,,,,11,reviews-118770-0001
+1402,great,great,9,amod,great,1,people,people,10,11,reviews-118770-0001
+1403,fresh,fresh,4,root,fresh,1,,,,8,reviews-118770-0002
+1404,great,great,7,xcomp,great,1,,,,8,reviews-118770-0002
+1405,Great,great,1,amod,Great,1,value,value,2,5,reviews-118770-0003
+1406,Great,great,1,amod,Great,1,Service,service,2,7,reviews-162992-0001
+1407,pleased,pleased,3,root,pleased,1,,,,12,reviews-162992-0002
+1408,pleasant,pleasant,5,root,pleasant,1,,,,12,reviews-162992-0003
+1409,fresh,fresh,11,conj,fresh,1,,,,12,reviews-162992-0003
+1410,Nice,nice,1,amod,Nice,1,teachers,teacher,2,4,reviews-263830-0001
+1411,good,good,3,amod,good,1,school,school,4,4,reviews-263830-0001
+1412,good,good,4,amod,good,1,teachers,teacher,5,12,reviews-263830-0002
+1413,nice,nice,7,amod,nice,1,people,people,8,12,reviews-263830-0002
+1414,good,good,2,amod,good,1,place,place,3,7,reviews-263830-0004
+1415,Great,great,1,amod,Great,1,Hangout,hangout,3,3,reviews-134617-0001
+1416,Great,great,1,amod,Great,1,place,place,2,12,reviews-134617-0002
+1417,Ice,ice,1,amod,Ice,1,,,,7,reviews-134617-0003
+1418,cold,cold,2,amod,cold,1,beer,beer,3,7,reviews-134617-0003
+1419,good,good,5,amod,good,1,prices,price,6,7,reviews-134617-0003
+1420,good,good,4,amod,good,1,food,food,5,10,reviews-134617-0004
+1421,daily,daily,8,amod,daily,1,specials,special,9,10,reviews-134617-0004
+1422,Poor,poor,1,amod,Poor,1,Service,service,2,2,reviews-014483-0001
+1423,next,next,6,amod,next,1,service,service,8,21,reviews-014483-0002
+1424,Great,great,1,amod,Great,1,service,service,2,2,reviews-198455-0001
+1425,dead,dead,4,amod,dead,1,battery,battery,5,30,reviews-198455-0002
+1426,last,last,6,amod,last,1,week,week,7,30,reviews-198455-0002
+1427,closest,closest,16,advcl,closest,1,,,,30,reviews-198455-0002
+1428,quick,quick,20,amod,quick,1,service,service,21,30,reviews-198455-0002
+1429,Great,great,1,amod,Great,1,teacher,teacher,2,3,reviews-267982-0004
+1430,next,next,22,amod,next,1,morning,morning,23,24,reviews-202402-0002
+1431,fine,fine,3,root,fine,1,,,,5,reviews-021370-0001
+1432,fine,fine,3,root,fine,1,,,,29,reviews-021370-0002
+1433,mass,mass,5,amod,mass,1,market,market,7,29,reviews-021370-0002
+1434,smaller,smaller,20,amod,smaller,1,makers,maker,23,29,reviews-021370-0002
+1435,Ridiculous,ridiculous,1,root,Ridiculous,1,,,,2,reviews-147825-0003
+1436,former,former,4,amod,former,1,Location,location,7,7,reviews-030875-0001
+1437,gone,gone,6,root,gone,1,,,,7,reviews-030875-0002
+1438,Good,good,5,amod,Good,1,men,man,8,9,reviews-379701-0001
+1439,possible,possible,8,advcl,possible,1,,,,9,reviews-379701-0002
+1440,great,great,9,amod,great,1,service,service,10,11,reviews-379701-0003
+1441,Great,great,2,amod,Great,1,Help,help,3,4,reviews-205014-0001
+1442,fantastic,fantastic,5,root,fantastic,1,,,,6,reviews-205014-0002
+1443,friendly,friendly,2,root,friendly,1,,,,9,reviews-205014-0003
+1444,contactable,contactable,5,conj,contactable,1,,,,9,reviews-205014-0003
+1445,new,new,4,amod,new,1,website,website,5,6,reviews-205014-0006
+1446,best,best,3,amod,best,1,service,service,5,6,reviews-306740-0001
+1447,able,able,4,root,able,1,,,,14,reviews-306740-0002
+1448,full,full,8,amod,full,1,grades,grade,10,14,reviews-306740-0002
+1449,wonderful,wonderful,2,amod,wonderful,1,service,service,4,15,reviews-306740-0003
+1450,elementary,elementary,10,amod,elementary,1,school,school,13,15,reviews-306740-0003
+1451,good,good,4,appos,good,1,Food,food,1,14,reviews-058274-0001
+1452,fast,fast,12,amod,fast,1,food,food,13,14,reviews-058274-0001
+1453,pleasant,pleasant,7,appos,pleasant,1,Service,service,1,8,reviews-058274-0002
+1454,fun,fun,4,root,fun,1,,,,14,reviews-058274-0003
+1455,awesome,awesome,1,amod,awesome,1,place,place,2,3,reviews-158740-0001
+1456,worth,worth,3,root,worth,1,,,,11,reviews-158740-0002
+1457,more,more,7,advmod,more,1,ride,ride,6,11,reviews-158740-0002
+1458,many,many,4,amod,many,1,strawberries,strawberry,5,22,reviews-158740-0003
+1459,great,great,20,amod,great,1,cream,cream,22,22,reviews-158740-0003
+1460,wrong,wrong,1,amod,wrong,1,location,location,2,2,reviews-090390-0001
+1461,great,great,3,amod,"great, easy",2,idea,idea,4,24,reviews-009943-0001
+1462,easy,easy,9,parataxis,"great, easy",2,idea,idea,4,24,reviews-009943-0001
+1463,best,best,7,amod,best,1,experience,experience,9,13,reviews-009943-0002
+1464,flavored,flavored,2,root,flavored,1,,,,2,reviews-188461-0001
+1465,best,best,5,amod,best,1,hamburguers,hamburger,6,34,reviews-188461-0002
+1466,best,best,16,amod,best,1,hamburguers,hamburger,17,34,reviews-188461-0002
+1467,worth,worth,22,parataxis,worth,1,,,,34,reviews-188461-0002
+1468,juicy,juicy,24,conj,"juicy, big, fresh",3,,,,34,reviews-188461-0002
+1469,big,big,26,conj,"juicy, big, fresh",3,,,,34,reviews-188461-0002
+1470,fresh,fresh,28,conj,"juicy, big, fresh",3,,,,34,reviews-188461-0002
+1471,excellent,excellent,31,amod,excellent,1,service,service,33,34,reviews-188461-0002
+1472,Best,best,1,amod,Best,1,lounge,lounge,3,7,reviews-059088-0001
+1473,Amazing,amazing,4,root,Amazing,1,,,,4,reviews-067423-0001
+1474,last,last,13,amod,last,1,years,year,15,16,reviews-067423-0002
+1475,else,else,7,amod,else,1,,,,8,reviews-067423-0003
+1476,professional,professional,6,root,professional,1,,,,9,reviews-067423-0004
+1477,friendly,friendly,8,conj,friendly,1,,,,9,reviews-067423-0004
+1478,stunning,stunning,3,amod,stunning,1,views,view,4,5,reviews-016861-0002
+1479,great,great,6,root,great,1,,,,7,reviews-016861-0003
+1480,little,little,4,amod,little,1,restaurant,restaurant,7,19,reviews-083849-0001
+1481,best,best,10,amod,best,1,sushi,sushi,11,19,reviews-083849-0001
+1482,fresh,fresh,3,root,fresh,1,,,,7,reviews-083849-0002
+1483,tasty,tasty,6,conj,tasty,1,,,,7,reviews-083849-0002
+1484,Fantastic,fantastic,1,amod,Fantastic,1,Cottage,cottage,4,4,reviews-380048-0001
+1485,fantastic,fantastic,4,amod,fantastic,1,time,time,5,6,reviews-380048-0002
+1486,relaxing,relaxing,3,amod,relaxing,1,atmosphere,atmosphere,4,8,reviews-380048-0003
+1487,inspiring,inspiring,6,amod,inspiring,1,architecture,architecture,7,8,reviews-380048-0003
+1488,great,great,6,amod,great,1,beach,beach,7,8,reviews-380048-0004
+1489,Nice,nice,1,amod,"Nice, warm",2,water,water,3,4,reviews-380048-0005
+1490,warm,warm,2,amod,"Nice, warm",2,water,water,3,4,reviews-380048-0005
+1491,Great,great,1,amod,Great,1,specials,special,3,4,reviews-148012-0001
+1492,fast,fast,4,root,fast,1,,,,5,reviews-148012-0002
+1493,Perfect,perfect,1,root,Perfect,1,,,,8,reviews-148012-0003
+1494,pricey,pricey,7,xcomp,pricey,1,,,,12,reviews-148012-0004
+1495,beautiful,beautiful,13,xcomp,beautiful,1,,,,16,reviews-120992-0001
+1496,Stylish,stylish,1,root,Stylish,1,,,,12,reviews-120992-0002
+1497,contemporary,contemporary,3,conj,contemporary,1,,,,12,reviews-120992-0002
+1498,poor,poor,2,amod,poor,1,service,service,4,5,reviews-335815-0001
+1499,decent,decent,5,amod,decent,1,people,people,6,34,reviews-335815-0002
+1500,rest,rest,12,nsubj,"rest, rude",2,,,,34,reviews-335815-0002
+1501,dishonest,dishonest,15,conj,dishonest,1,,,,34,reviews-335815-0002
+1502,rude,rude,20,conj,"rest, rude",2,,,,34,reviews-335815-0002
+1503,huge,huge,4,root,huge,1,,,,8,reviews-114941-0002
+1504,delicious,delicious,7,conj,delicious,1,,,,8,reviews-114941-0002
+1505,favorite,favorite,4,amod,favorite,1,place,place,6,20,reviews-114941-0003
+1506,local,local,15,amod,local,1,company,company,19,20,reviews-114941-0003
+1507,better,better,3,xcomp,better,1,,,,7,reviews-114941-0004
+1508,good,good,10,conj,"good, together",2,,,,24,reviews-077034-0001
+1509,close,close,17,amod,close,1,,,,24,reviews-077034-0001
+1510,together,together,18,parataxis,"good, together",2,,,,24,reviews-077034-0001
+1511,cramped,cramped,23,xcomp,cramped,1,,,,24,reviews-077034-0001
+1512,welcome,welcome,7,xcomp,welcome,1,,,,8,reviews-077034-0002
+1513,worth,worth,2,root,worth,1,,,,5,reviews-077034-0003
+1514,Great,great,1,amod,Great,1,Service,service,2,2,reviews-173944-0001
+1515,wonderful,wonderful,4,root,wonderful,1,,,,5,reviews-173944-0002
+1516,best,best,9,amod,best,1,service,service,10,15,reviews-173944-0003
+1517,new,new,4,amod,new,1,,,,14,reviews-173944-0004
+1518,born,born,5,amod,born,1,daughter,daughter,6,14,reviews-173944-0004
+1519,Good,good,1,amod,Good,1,Job,job,2,4,reviews-173944-0005
+1520,ruder,ruder,30,parataxis,ruder,1,,,,33,reviews-047007-0001
+1521,new,new,4,amod,new,1,patient,patient,5,6,reviews-291088-0001
+1522,impressed,impressed,13,conj,impressed,1,,,,22,reviews-291088-0002
+1523,friendly,friendly,16,obl,friendly,1,,,,22,reviews-291088-0002
+1524,polite,polite,18,conj,polite,1,,,,22,reviews-291088-0002
+1525,clean,clean,8,xcomp,clean,1,,,,13,reviews-291088-0003
+1526,professional,professional,10,amod,professional,1,,,,13,reviews-291088-0003
+1527,great,great,3,amod,great,1,burger,burger,4,5,reviews-009775-0001
+1528,browned,browned,14,xcomp,browned,1,,,,18,reviews-009775-0003
+1529,bad,bad,3,amod,bad,1,burger,burger,5,7,reviews-009775-0004
+1530,BEST,best,4,amod,BEST,1,photographer,photographer,5,11,reviews-310018-0001
+1531,great,great,4,amod,great,1,way,way,5,21,reviews-310018-0002
+1532,able,able,10,conj,able,1,,,,21,reviews-310018-0002
+1533,many,many,18,amod,"many, spontaneous",2,images,image,20,21,reviews-310018-0002
+1534,spontaneous,spontaneous,19,amod,"many, spontaneous",2,images,image,20,21,reviews-310018-0002
+1535,good,good,7,root,good,1,,,,8,reviews-368431-0002
+1536,single,single,10,amod,single,1,meal,meal,11,12,reviews-368431-0003
+1537,thorough,thorough,18,conj,thorough,1,,,,19,reviews-351840-0001
+1538,urgent,urgent,6,amod,urgent,1,issue,issue,7,19,reviews-351840-0002
+1539,prompt,prompt,15,conj,prompt,1,,,,19,reviews-351840-0002
+1540,Lovely,lovely,1,amod,Lovely,1,Cottage,cottage,2,2,reviews-048198-0001
+1541,charming,charming,5,amod,"charming, homely, friendly",3,place,place,10,13,reviews-048198-0002
+1542,homely,homely,6,amod,"charming, homely, friendly",3,place,place,10,13,reviews-048198-0002
+1543,friendly,friendly,8,amod,"charming, homely, friendly",3,place,place,10,13,reviews-048198-0002
+1544,excellent,excellent,4,amod,excellent,1,host,host,5,10,reviews-048198-0003
+1545,yummy,yummy,8,amod,yummy,1,breakfasts,breakfast,9,10,reviews-048198-0003
+1546,delightful,delightful,4,root,delightful,1,,,,12,reviews-048198-0004
+1547,amazing,amazing,11,conj,amazing,1,,,,12,reviews-048198-0004
+1548,last,last,13,amod,last,1,minute,minute,14,15,reviews-163703-0002
+1549,great,great,4,amod,great,1,stay,stay,5,17,reviews-163703-0003
+1550,excellent,excellent,10,conj,excellent,1,,,,17,reviews-163703-0003
+1551,best,best,2,amod,best,1,photographer,photographer,3,5,reviews-162702-0001
+1552,lucky,lucky,4,root,lucky,1,,,,25,reviews-162702-0002
+1553,creative,creative,15,amod,creative,1,photographer,photographer,18,25,reviews-162702-0002
+1554,talented,talented,17,conj,talented,1,,,,25,reviews-162702-0002
+1555,amazing,amazing,5,xcomp,amazing,1,,,,6,reviews-162702-0003
+1556,Great,great,1,amod,Great,1,Meal,meal,2,2,reviews-279070-0001
+1557,great,great,16,conj,great,1,,,,17,reviews-279070-0002
+1558,excellent,excellent,4,root,excellent,1,,,,10,reviews-279070-0003
+1559,terrific,terrific,9,conj,terrific,1,,,,10,reviews-279070-0003
+1560,worth,worth,14,conj,worth,1,kind,kind,6,16,reviews-279070-0004
+1561,Friendly,friendly,1,amod,Friendly,1,place,place,6,12,reviews-358063-0001
+1562,Efficient,efficient,2,conj,"Efficient, great",2,,,,12,reviews-358063-0001
+1563,great,great,5,conj,"Efficient, great",2,,,,12,reviews-358063-0001
+1564,chronic,chronic,10,amod,"chronic, intractable",2,pain,pain,12,12,reviews-358063-0001
+1565,intractable,intractable,11,amod,"chronic, intractable",2,pain,pain,12,12,reviews-358063-0001
+1566,Great,great,1,amod,Great,1,place,place,2,8,reviews-358063-0002
+1567,chronic,chronic,6,amod,chronic,1,pain,pain,7,8,reviews-358063-0002
+1568,friendly,friendly,4,root,friendly,1,,,,17,reviews-358063-0003
+1569,human,human,10,amod,human,1,being,being,11,17,reviews-358063-0003
+1570,efficient,efficient,2,root,efficient,1,,,,7,reviews-358063-0004
+1571,chronic,chronic,5,amod,chronic,1,pain,pain,6,7,reviews-358063-0004
+1572,best,best,2,amod,best,1,company,company,3,12,reviews-354860-0001
+1573,first,first,2,amod,first,1,meeting,meeting,3,18,reviews-354860-0002
+1574,recommended,recommended,2,root,recommended,1,,,,9,reviews-354860-0003
+1575,Great,great,1,root,Great,1,,,,6,reviews-354860-0004
+1576,Great,great,1,amod,Great,1,Place,place,2,14,reviews-359433-0001
+1577,affordable,affordable,14,conj,affordable,1,,,,21,reviews-359433-0002
+1578,right,right,20,xcomp,right,1,,,,21,reviews-359433-0002
+1579,Great,great,1,amod,Great,1,place,place,2,7,reviews-359433-0003
+1580,sure,sure,6,nmod,sure,1,stars,star,4,7,reviews-359433-0003
+1581,Annual,annual,6,amod,Annual,1,,,,13,reviews-229142-0001
+1582,professional,professional,4,root,professional,1,,,,9,reviews-229142-0002
+1583,neat,neat,6,conj,"neat, clean",2,,,,9,reviews-229142-0002
+1584,clean,clean,8,conj,"neat, clean",2,,,,9,reviews-229142-0002
+1585,successful,successful,14,amod,successful,1,day,day,15,16,reviews-229142-0003
+1586,few,few,4,nmod,few,1,,,,5,reviews-096340-0001
+1587,good,good,5,amod,good,1,selection,selection,6,11,reviews-096340-0004
+1588,ok,ok,3,root,ok,1,,,,20,reviews-071017-0001
+1589,nice,nice,5,amod,nice,1,management,management,6,20,reviews-071017-0001
+1590,old,old,19,conj,old,1,,,,20,reviews-071017-0001
+1591,clean,clean,3,root,clean,1,,,,10,reviews-071017-0002
+1592,little,little,8,obl:npmod,little,1,,,,10,reviews-071017-0002
+1593,dumpy,dumpy,9,conj,dumpy,1,,,,10,reviews-071017-0002
+1594,big,big,5,amod,big,1,rig,rig,6,8,reviews-071017-0003
+1595,Hard,hard,1,root,Hard,1,,,,10,reviews-071017-0004
+1596,much,much,8,obj,much,1,,,,21,reviews-217485-0001
+1597,good,good,19,amod,good,1,job,job,20,21,reviews-217485-0001
+1598,tasty,tasty,7,root,tasty,1,,,,18,reviews-217485-0002
+1599,huge,huge,12,amod,huge,1,size,size,14,18,reviews-217485-0002
+1600,slow,slow,5,root,slow,1,,,,9,reviews-217485-0003
+1601,friendly,friendly,8,conj,friendly,1,,,,9,reviews-217485-0003
+1602,Dark,dark,1,amod,"Dark, dark, main",3,room,room,5,6,reviews-057644-0003
+1603,dark,dark,3,amod,"Dark, dark, main",3,room,room,5,6,reviews-057644-0003
+1604,main,main,4,amod,"Dark, dark, main",3,room,room,5,6,reviews-057644-0003
+1605,Electric,electric,2,amod,Electric,1,blanket,blanket,4,11,reviews-057644-0005
+1606,cold,cold,2,root,cold,1,,,,3,reviews-057644-0006
+1607,main,main,11,amod,main,1,room,room,12,16,reviews-057644-0007
+1608,cleaner,cleaner,15,xcomp,cleaner,1,,,,16,reviews-057644-0007
+1609,recommended,recommended,1,root,recommended,1,,,,1,reviews-262722-0001
+1610,Excellent,excellent,1,amod,Excellent,1,location,location,2,3,reviews-262722-0002
+1611,Good,good,1,amod,Good,1,bar,bar,3,4,reviews-262722-0003
+1612,Accurate,accurate,1,amod,Accurate,1,out,out,4,5,reviews-262722-0005
+1613,clean,clean,2,root,clean,1,,,,3,reviews-262722-0006
+1614,quick,quick,2,root,quick,1,,,,11,reviews-262722-0007
+1615,clean,clean,4,conj,"clean, accurate",2,,,,11,reviews-262722-0007
+1616,accurate,accurate,6,conj,"clean, accurate",2,,,,11,reviews-262722-0007
+1617,next,next,12,amod,next,1,block,block,13,15,reviews-262722-0008
+1618,cheep,cheep,4,parataxis,cheep,1,Summary,summary,1,14,reviews-323248-0001
+1619,fast,fast,8,amod,fast,1,service,service,13,14,reviews-323248-0001
+1620,friendly,friendly,12,conj,friendly,1,,,,14,reviews-323248-0001
+1621,sufficient,sufficient,5,root,sufficient,1,,,,9,reviews-323248-0002
+1622,outstanding,outstanding,8,conj,outstanding,1,,,,9,reviews-323248-0002
+1623,other,other,12,amod,other,1,services,service,13,16,reviews-323248-0003
+1624,criminal,criminal,1,compound,criminal,1,defense,defense,2,3,reviews-034313-0001
+1625,exceptional,exceptional,5,amod,exceptional,1,lawyer,lawyer,9,10,reviews-034313-0002
+1626,criminal,criminal,7,amod,criminal,1,defense,defense,8,10,reviews-034313-0002
+1627,kind,kind,10,conj,kind,1,,,,13,reviews-327766-0001
+1628,helpful,helpful,12,conj,helpful,1,,,,13,reviews-327766-0001
+1629,clean,clean,3,root,clean,1,,,,8,reviews-327766-0002
+1630,fresh,fresh,7,xcomp,fresh,1,,,,8,reviews-327766-0002
+1631,Enough,enough,1,root,Enough,1,,,,3,reviews-332785-0002
+1632,ready,ready,3,root,ready,1,,,,28,reviews-332785-0004
+1633,new,new,7,amod,new,1,jacket,jacket,8,28,reviews-332785-0004
+1634,new,new,11,amod,new,1,sweater,sweater,12,28,reviews-332785-0004
+1635,overpriced,overpriced,18,amod,overpriced,1,belts,belt,19,28,reviews-332785-0004
+1636,obvious,obvious,27,amod,obvious,1,lurking,lurking,28,28,reviews-332785-0004
+1637,Best,best,1,amod,Best,1,pies,pie,3,5,reviews-097507-0001
+1638,authentic,authentic,6,amod,"authentic, British",2,pies,pie,9,15,reviews-097507-0002
+1639,British,british,7,amod,"authentic, British",2,pies,pie,9,15,reviews-097507-0002
+1640,Good,good,1,amod,Good,1,Food,food,2,3,reviews-097507-0004
+1641,Fantastic,fantastic,1,amod,"Fantastic, fresh",2,food,food,3,4,reviews-079827-0001
+1642,fresh,fresh,2,amod,"Fantastic, fresh",2,food,food,3,4,reviews-079827-0001
+1643,neat,neat,3,amod,neat,1,gem,gem,4,16,reviews-079827-0002
+1644,Cozy,cozy,1,root,Cozy,1,,,,8,reviews-079827-0003
+1645,warm,warm,3,amod,warm,1,atmosphere,atmosphere,4,8,reviews-079827-0003
+1646,great,great,6,amod,great,1,service,service,7,8,reviews-079827-0003
+1647,outstanding,outstanding,7,root,outstanding,1,,,,8,reviews-079827-0004
+1648,fresh,fresh,7,amod,fresh,1,ingredients,ingredient,8,9,reviews-079827-0005
+1649,Great,great,4,amod,Great,1,Job,job,5,5,reviews-266676-0001
+1650,Prompt,prompt,4,amod,Prompt,1,Service,service,5,44,reviews-266676-0002
+1651,Great,great,7,amod,Great,1,Job,job,8,44,reviews-266676-0002
+1652,New,new,17,amod,"New, Solar",2,System,system,19,44,reviews-266676-0002
+1653,Solar,solar,18,amod,"New, Solar",2,System,system,19,44,reviews-266676-0002
+1654,Great,great,27,xcomp,"Great, Great",2,,,,44,reviews-266676-0002
+1655,Great,great,40,conj,"Great, Great",2,,,,44,reviews-266676-0002
+1656,Great,great,42,amod,Great,1,Job,job,43,44,reviews-266676-0002
+1657,impressive,impressive,1,root,impressive,1,,,,3,reviews-194830-0001
+1658,impressive,impressive,3,parataxis,impressive,1,,,,3,reviews-194830-0001
+1659,First,first,2,amod,First,1,time,time,3,21,reviews-194830-0002
+1660,lovely,lovely,4,amod,lovely,1,employees,employee,5,24,reviews-194830-0003
+1661,wonderful,wonderful,8,amod,wonderful,1,service,service,10,24,reviews-194830-0003
+1662,tip,tip,21,amod,tip,1,,,,24,reviews-194830-0003
+1663,top,top,22,amod,top,1,condition,condition,23,24,reviews-194830-0003
+1664,Excellent,excellent,1,amod,Excellent,1,service,service,2,3,reviews-371492-0001
+1665,glad,glad,4,root,glad,1,,,,17,reviews-371492-0002
+1666,good,good,10,amod,good,1,shop,shop,12,17,reviews-371492-0002
+1667,great,great,11,amod,great,1,pedi,pedi,13,14,reviews-371492-0003
+1668,excellent,excellent,6,root,excellent,1,,,,7,reviews-371492-0004
+1669,great,great,1,root,great,1,,,,3,reviews-288930-0001
+1670,good,good,5,amod,good,1,view,view,6,20,reviews-288930-0002
+1671,short,short,18,amod,short,1,movies,movie,19,20,reviews-288930-0002
+1672,beautiful,beautiful,13,amod,beautiful,1,view,view,14,27,reviews-288930-0003
+1673,GREAT,great,1,amod,GREAT,1,Store,store,2,5,reviews-374000-0001
+1674,GREAT,great,3,amod,GREAT,1,Service,service,4,5,reviews-374000-0001
+1675,great,great,5,root,great,1,,,,6,reviews-374000-0002
+1676,free,free,8,amod,free,1,raffle,raffle,9,18,reviews-374000-0004
+1677,hard,hard,16,amod,hard,1,drive,drive,17,18,reviews-374000-0004
+1678,nice,nice,12,advcl,nice,1,,,,14,reviews-374000-0005
+1679,Horrible,horrible,1,amod,Horrible,1,service,service,3,4,reviews-061768-0001
+1680,nice,nice,7,amod,nice,1,gift,gift,8,12,reviews-061768-0002
+1681,helpful,helpful,19,amod,helpful,1,person,person,20,25,reviews-061768-0003
+1682,other,other,5,amod,other,1,shops,shop,7,10,reviews-061768-0004
+1683,Pure,pure,1,amod,Pure,1,Beauty,beauty,2,2,reviews-072271-0001
+1684,historic,historic,7,amod,historic,1,,,,22,reviews-072271-0002
+1685,gorgeous,gorgeous,18,amod,gorgeous,1,diversity,diversity,19,22,reviews-072271-0002
+1686,welcoming,welcoming,5,root,welcoming,1,,,,8,reviews-072271-0004
+1687,fun,fun,7,conj,fun,1,,,,8,reviews-072271-0004
+1688,Great,great,1,amod,Great,1,Place,place,2,3,reviews-308297-0001
+1689,favorite,favorite,6,amod,favorite,1,places,place,7,12,reviews-308297-0002
+1690,good,good,4,amod,good,1,portions,portion,5,31,reviews-308297-0003
+1691,great,great,8,amod,great,1,price,price,9,31,reviews-308297-0003
+1692,enough,enough,13,amod,enough,1,food,food,14,31,reviews-308297-0003
+1693,much,much,30,obj,much,1,,,,31,reviews-308297-0003
+1694,healthy,healthy,6,root,healthy,1,,,,7,reviews-308297-0004
+1695,AMAZING,amazing,4,amod,AMAZING,1,JOB,job,5,51,reviews-194153-0001
+1696,new,new,11,amod,new,1,things,thing,12,51,reviews-194153-0001
+1697,AWESOME,awesome,27,amod,AWESOME,1,MASSAGE,massage,28,51,reviews-194153-0001
+1698,BEST,best,47,parataxis,BEST,1,,,,51,reviews-194153-0001
+1699,BEST,best,50,obl,BEST,1,,,,51,reviews-194153-0001
+1700,best,best,7,amod,"best, American",2,glass,glass,10,11,reviews-140164-0002
+1701,American,american,8,amod,"best, American",2,glass,glass,10,11,reviews-140164-0002
+1702,top,top,4,compound,"top, knowledgable",2,notch,notch,5,12,reviews-140164-0003
+1703,knowledgable,knowledgable,11,conj,"top, knowledgable",2,notch,notch,5,12,reviews-140164-0003
+1704,positive,positive,6,root,positive,1,,,,36,reviews-063754-0001
+1705,pleased,pleased,4,root,pleased,1,,,,4,reviews-063754-0003
+1706,Quick,quick,1,root,Quick,1,,,,3,reviews-236648-0001
+1707,Cheap,cheap,3,conj,Cheap,1,,,,3,reviews-236648-0001
+1708,good,good,14,amod,good,1,deal,deal,15,50,reviews-236648-0002
+1709,able,able,41,conj,able,1,,,,50,reviews-236648-0002
+1710,best,best,46,amod,best,1,deal,deal,47,50,reviews-236648-0002
+1711,Glad,glad,1,root,Glad,1,,,,12,reviews-372665-0003
+1712,useless,useless,12,amod,useless,1,trip,trip,13,15,reviews-372665-0004
+1713,mediocre,mediocre,4,root,mediocre,1,,,,7,reviews-077213-0001
+1714,sure,sure,2,root,sure,1,,,,9,reviews-077213-0003
+1715,passable,passable,3,root,passable,1,,,,15,reviews-077213-0004
+1716,great,great,14,conj,great,1,,,,15,reviews-077213-0004
+1717,good,good,4,amod,good,1,pizza,pizza,5,10,reviews-077213-0005
+1718,else,else,2,amod,else,1,,,,41,reviews-125629-0001
+1719,little,little,6,obl:npmod,little,1,,,,41,reviews-125629-0001
+1720,suspicious,suspicious,7,xcomp,suspicious,1,,,,41,reviews-125629-0001
+1721,HUGE,huge,20,amod,HUGE,1,number,number,21,41,reviews-125629-0001
+1722,same,same,37,amod,"same, unique",2,structure,structure,40,41,reviews-125629-0001
+1723,unique,unique,38,amod,"same, unique",2,structure,structure,40,41,reviews-125629-0001
+1724,regular,regular,9,amod,regular,1,intervals,interval,10,11,reviews-125629-0002
+1725,Best,best,1,root,Best,1,,,,3,reviews-059386-0001
+1726,ready,ready,5,root,ready,1,,,,32,reviews-059386-0003
+1727,huge,huge,24,amod,huge,1,menu,menu,25,32,reviews-059386-0003
+1728,courteous,courteous,31,conj,courteous,1,,,,32,reviews-059386-0003
+1729,tasty,tasty,2,root,tasty,1,,,,3,reviews-059386-0004
+1730,Good,good,1,amod,"Good, honest",2,wrok,work,3,3,reviews-359014-0001
+1731,honest,honest,2,amod,"Good, honest",2,wrok,work,3,3,reviews-359014-0001
+1732,great,great,3,amod,great,1,service,service,4,5,reviews-359014-0002
+1733,knowledgeable,knowledgeable,4,root,knowledgeable,1,,,,15,reviews-359014-0003
+1734,fantastic,fantastic,5,amod,fantastic,1,things,thing,6,9,reviews-359014-0005
+1735,Best,best,1,root,Best,1,,,,3,reviews-228944-0001
+1736,best,best,7,root,best,1,,,,12,reviews-228944-0002
+1737,expensive,expensive,9,acl:relcl,expensive,1,,,,28,reviews-228944-0003
+1738,fair,fair,16,conj,"fair, lower",2,,,,28,reviews-228944-0003
+1739,lower,lower,21,conj,"fair, lower",2,,,,28,reviews-228944-0003
+1740,other,other,24,amod,other,1,shop,shop,25,28,reviews-228944-0003
+1741,only,only,4,amod,only,1,place,place,5,12,reviews-228944-0004
+1742,dead,dead,11,conj,dead,1,,,,12,reviews-248616-0003
+1743,many,many,7,amod,many,1,years,year,8,10,reviews-210019-0001
+1744,helpful,helpful,5,root,helpful,1,,,,6,reviews-210019-0004
+1745,clean,clean,6,root,clean,1,,,,7,reviews-210019-0005
+1746,wonderful,wonderful,4,amod,wonderful,1,place,place,5,10,reviews-210019-0006
+1747,enough,enough,4,obj,enough,1,,,,4,reviews-280170-0001
+1748,lowest,lowest,2,amod,lowest,1,bed,bed,3,14,reviews-280170-0005
+1749,better,better,6,root,better,1,,,,14,reviews-280170-0005
+1750,last,last,9,amod,last,1,salon,salon,10,14,reviews-280170-0005
+1751,highest,highest,12,amod,highest,1,level,level,13,14,reviews-280170-0005
+1752,clean,clean,3,root,clean,1,,,,8,reviews-280170-0006
+1753,nice,nice,7,conj,nice,1,,,,8,reviews-280170-0006
+1754,Great,great,1,amod,Great,1,People,people,2,7,reviews-251475-0001
+1755,better,better,5,amod,better,1,service,service,6,7,reviews-251475-0001
+1756,Best,best,1,root,Best,1,,,,5,reviews-251475-0002
+1757,few,few,3,amod,few,1,words,word,4,34,reviews-251475-0003
+1758,surprised,surprised,9,root,surprised,1,,,,34,reviews-251475-0003
+1759,old,old,16,amod,old,1,school,school,17,34,reviews-251475-0003
+1760,good,good,27,amod,good,1,name,name,28,34,reviews-251475-0003
+1761,possible,possible,2,advcl,possible,1,,,,15,reviews-313558-0002
+1762,single,single,10,amod,single,1,cavity,cavity,11,18,reviews-313558-0004
+1763,dental,dental,15,amod,dental,1,care,care,16,18,reviews-313558-0004
+1764,alone,alone,2,amod,alone,1,,,,6,reviews-313558-0006
+1765,unique,unique,5,xcomp,unique,1,,,,6,reviews-313558-0006
+1766,usual,usual,5,amod,"usual, cheap",2,place,place,8,9,reviews-287454-0001
+1767,cheap,cheap,6,amod,"usual, cheap",2,place,place,8,9,reviews-287454-0001
+1768,large,large,4,amod,large,1,variety,variety,5,16,reviews-287454-0002
+1769,quality,quality,7,amod,quality,1,hotdogs,hotdog,8,16,reviews-287454-0002
+1770,good,good,5,amod,"good, friendly",2,quality,quality,6,12,reviews-287454-0003
+1771,friendly,friendly,11,parataxis,"good, friendly",2,quality,quality,6,12,reviews-287454-0003
+1772,typical,typical,5,amod,"typical, indie",2,outfit,outfit,7,19,reviews-287454-0004
+1773,indie,indie,6,amod,"typical, indie",2,outfit,outfit,7,19,reviews-287454-0004
+1774,old,old,9,amod,old,1,posters,poster,11,19,reviews-287454-0004
+1775,wrong,wrong,4,amod,wrong,1,,,,19,reviews-162253-0003
+1776,best,best,6,root,best,1,,,,7,reviews-202709-0001
+1777,best,best,11,ccomp,best,1,,,,29,reviews-202709-0002
+1778,perfect,perfect,23,amod,perfect,1,job,job,24,29,reviews-202709-0002
+1779,low,low,20,conj,low,1,professional,professional,13,21,reviews-202709-0003
+1780,amazing,amazing,9,xcomp,"amazing, done",2,,,,28,reviews-140302-0002
+1781,done,done,13,advcl,"amazing, done",2,,,,28,reviews-140302-0002
+1782,great,great,18,amod,great,1,job,job,19,28,reviews-140302-0002
+1783,satisfied,satisfied,24,parataxis,satisfied,1,,,,28,reviews-140302-0002
+1784,interior,interior,10,nsubj,"interior, new",2,,,,13,reviews-140302-0003
+1785,new,new,12,xcomp,"interior, new",2,,,,13,reviews-140302-0003
+1786,great,great,5,amod,great,1,service,service,7,12,reviews-140302-0004
+1787,knowledgeable,knowledgeable,11,amod,knowledgeable,1,staff,staff,12,12,reviews-140302-0004
