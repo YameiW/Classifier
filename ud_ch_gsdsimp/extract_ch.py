@@ -1,88 +1,68 @@
 import pyconll
 import pandas as pd
 
-
 def extractN(input_file):
     trial_doc = pyconll.load_from_file(input_file)
 
     noun_ls = []
     for sentence in trial_doc:
         for word in sentence:
-            counter = 0
-            counter_ncomp = 0
-            counter_nmod = 0
             if word.upos == "NOUN":
-                noun_dict = {"n_word": word.form, "n_id": word.id, "cl": "",
-                             "num": "", "adj": [],"num_adj":"","ncomp": [], "num_ncomp":"",
-                             "nmod":[],"num_nmod":"",
-                             "sen_len": len(sentence), "sen_id": sentence.id}
+                noun_dict = {'n_word':word.form, 'n_id':word.id, 
+                'n_type':word.deprel,'det':'','num':'','clf':[],'adj':[],
+                'nmod':[],'sen_len':len(sentence),'sen_id':sentence.id}
                 for mod_word in sentence:
                     if mod_word.head == word.id:
-                        if mod_word.upos == "ADJ":
-                            counter +=1
-                            noun_dict["adj"].append(mod_word.form)
-                            noun_dict['num_adj'] = counter
-                        if mod_word.upos == "NUM":
-                            noun_dict["num"] = mod_word.form
-                        if mod_word.upos == "NOUN":
-                            if mod_word.deprel == "compound":
-                                counter_ncomp +=1
-                                noun_dict["ncomp"].append(mod_word.form)
-                                noun_dict["ncomp_lemma"].append(mod_word.lemma)
-                                noun_dict['num_ncomp'] = counter_ncomp
-                            if mod_word.deprel == "nmod":
-                                counter_nmod +=1
-                                noun_dict["nmod"].append(mod_word.form)
-                                noun_dict['nmod_lemma'].append(mod_word.lemma)
-                                noun_dict['num_nmod'] = counter_nmod
-                        elif mod_word.upos == "DET":
-                            noun_dict["det"] = mod_word.form
+                        if mod_word.upos == 'DET':
+                            noun_dict['det'] = mod_word.form
+                        elif mod_word.upos == 'NUM':
+                            noun_dict['num'] = mod_word.form
+                        elif mod_word.deprel == 'clf':
+                            li = []
+                            unit(word,sentence,li)
+                            noun_dict['clf'] = sortli(li)
+                        elif mod_word.upos == 'ADJ':
+                            noun_dict['adj'].append(mod_word.form)
+                        elif mod_word.deprel == 'nmod':
+                            li = []
+                            unit(word,sentence,li)
+                            noun_dict['nmod'] = sortli(li)
+                noun_dict["adj"] = ", ".join(noun_dict['adj'])
                 noun_ls.append(noun_dict)
-                noun_dict['adj'] = ", ".join(noun_dict['adj'])
-                noun_dict['nmod']= ", ".join(noun_dict['nmod'])
-                noun_dict['nmod_lemma']= ", ".join(noun_dict['nmod_lemma'])
-                noun_dict['ncomp']= ", ".join(noun_dict['ncomp'])
-                noun_dict['ncomp_lemma']= ", ".join(noun_dict['ncomp_lemma'])
-
-    df_noun = pd.DataFrame(noun_ls)
+    df_noun =pd.DataFrame(noun_ls)
     df_noun.to_csv(input_file.replace(".conllu", "_noun.csv"))
 
 
-def extractAdj(input_file):
-    trial_doc = pyconll.load_from_file(input_file)
+def sortli(li):
+    """[summary]
+    This funcion sorts a list of pyconll.word objects by word.id
+    Arguments:
+        li a list of pyconll.word object
+    Returns:
+        concatenate the sorted word.form into one string
+    """
+    s1= ""
+    d1 = {}
+    for w in li:
+        d1[int(w.id)]=w.form
+    for i in sorted (d1.keys()):
+        s1+=d1[i]
+    return s1
 
-    adj_ls = []
-    for sentence in trial_doc:
-        for word in sentence:
-            if word.upos == "ADJ":
-                counter = 0
-                adj_dict = {"adj_word": word.form, "adj_lemma": word.lemma, "adj_id": word.id,
-                            "adj_comb": [],"num_adj":"", "n_word": "", "n_lemma": "", "n_id": "", "sen_len": len(sentence), "sen_id": sentence.id}
-                for item in sentence:
-                    if item.id == word.head and item.upos == "NOUN":
-                        adj_dict["n_word"] = item.form
-                        adj_dict["n_lemma"] = item.lemma
-                        adj_dict["n_id"] = item.id
-                    elif item.head == word.head and item.upos == "ADJ":
-                        counter +=1
-                        adj_dict["adj_comb"].append(item.form)
-                        adj_dict['num_adj'] = counter
-                adj_ls.append(adj_dict)
-                adj_dict['adj_comb']=", ".join(adj_dict['adj_comb'])
+def unit(word, sentence, outlist):
+    """[summary]
+    recursively find all modifiers of word in sentence and add result to nmodlist
 
-    df_adj = pd.DataFrame(adj_ls)
-    df_adj.to_csv(input_file.replace(".conllu", "_adj.csv"))
-
-
-def run(path):
-    extractN(path)
-    extractAdj(path)
-
-
-folder = "/home/yamei/pjkt/classifier/ud_en_ewt/data_csv/"
-
-run(folder+"en_ewt-ud-dev.conllu")
-run(folder+"en_ewt-ud-test.conllu")
-run(folder+"en_ewt-ud-train.conllu")
+    Arguments:
+        word {[pyconll.word]} 
+        sentence {[pyconll.sentence]} 
+        nmodlist {[python list]} 
+    """
+    for mod_word in sentence:
+        if mod_word.head == word.id:
+            outlist.append(mod_word)
+            unit(mod_word, sentence, outlist)
 
 
+folder = "/home/yamei/pjkt/classifier/Multiclassifier/ud_ch_gsdsimp/data_csv/"
+extractN(folder+'zh_gsdsimp-ud.conllu')
